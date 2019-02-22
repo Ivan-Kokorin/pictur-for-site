@@ -1,0 +1,210 @@
+<table class="marki-table" border="0" cellpadding="0" cellspacing="1">
+
+    <thead>
+    <tr>
+        <td class="td_table_ecv" align="center" valign="middle">Марки</td>
+        <td class="td_table_ecv" align="center" valign="middle">Подача (номин.), м?/ч</td>
+        <td class="td_table_ecv" align="center" valign="middle">Напор, м</td>
+        <td class="td_table_ecv" align="center" valign="middle">Давление на входе в насос, кгс/см?, не более</td>
+        <td class="td_table_ecv" align="center" valign="middle">Мощность потребляемая насосом  (макс.), кВт</td>
+        <td class="td_table_ecv" align="center" valign="middle">Частота вращения, об/мин</td>
+        <td class="td_table_ecv" align="center" valign="middle">Частота вращения, c??</td>
+        <td class="td_table_ecv" align="center" valign="middle">КПД насоса, %</td>
+        <td class="td_table_ecv" align="center" valign="middle">КПД агрегата, %</td>
+        <td class="td_table_ecv" align="center" valign="middle">Напряжения сети, В</td>
+        <td class="td_table_ecv" align="center" valign="middle">Частота тока, Гц</td>
+        <td class="td_table_ecv" align="center" valign="middle">Допускаемый кавитационный запас, м, не более</td>
+        <td class="td_table_ecv" align="center" valign="middle">Высота самовсасывания (макс.), м</td>
+        <td class="td_table_ecv" align="center" valign="middle">Допускаемая продолжительность самовсасывания (макс.), с</td>
+    </tr>
+    </thead>
+
+
+    <tbody><tr>
+        <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">ВК, ВКС, ВКО 1/16
+        </div>
+        </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            3.4 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            16 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            2.5 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            1.2 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            1450 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            24 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            28 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            22 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            220/380/660 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            50/60 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            4 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            4 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            600 </td>
+    </tr>
+    <tr>
+        <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">ВК, ВКС, ВКО 2/26
+        </div>
+        </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            3.6 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            26 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            2.5 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            4.6 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            1450 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            24 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            33 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            26 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            220/380/660 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            50/60 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            5 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            4 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            600 </td>
+    </tr>
+    <tr>
+        <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">ВК, ВКС, ВКО 4/28
+        </div>
+        </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            14.4 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            28 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            2.5 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            7 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            1450 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            24 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            41 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            32 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            220/380/660 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            50/60 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            6 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            4 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            600 </td>
+    </tr>
+    <tr>
+        <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">ВК, ВКС, ВКО 5/24
+        </div>
+        </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            18 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            24 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            2.5 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            8.3 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            1450 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            24 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            38 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            30 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            220/380/660 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            50/60 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            6 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            4 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            600 </td>
+    </tr>
+    <tr>
+        <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">ВК, ВКС, ВКО 5/32
+        </div>
+        </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            18 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            32 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            2.5 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            8.8 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            1450 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            24 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            39 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            30 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            220/380/660 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            50/60 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            6.5 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            3.5 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            600 </td>
+    </tr>
+    <tr>
+        <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">ВК, ВКС, ВКО 10/45
+        </div>
+        </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            36 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            45 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            2.5 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            27 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            1450 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            24 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            35 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            31 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            220/380/660 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            50/60 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            7 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            3 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            600 </td>
+    </tr>
+
+    </tbody></table>

@@ -1,0 +1,565 @@
+<table class="marki-table" border="0" cellpadding="0" cellspacing="1">
+
+    <thead>
+    <tr>
+        <td class="td_table_ecv" align="center" valign="middle">ћарки</td>
+        <td class="td_table_ecv" align="center" valign="middle">ѕодача (номин.), м?/ч</td>
+        <td class="td_table_ecv" align="center" valign="middle">Ќапор, м</td>
+        <td class="td_table_ecv" align="center" valign="middle">ƒавление на входе в насос, кгс/см?, не более</td>
+        <td class="td_table_ecv" align="center" valign="middle">ћощность потребл€ема€ насосом  (макс.), к¬т</td>
+        <td class="td_table_ecv" align="center" valign="middle">„астота вращени€, об/мин</td>
+        <td class="td_table_ecv" align="center" valign="middle">„астота вращени€, c??</td>
+        <td class="td_table_ecv" align="center" valign="middle"> ѕƒ насоса, %</td>
+        <td class="td_table_ecv" align="center" valign="middle">ƒопускаемый кавитационный запас, м, не более</td>
+    </tr>
+    </thead>
+
+
+    <tbody><tr>
+        <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1 ÷Ќ—г 38-44
+        </div>
+        </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            38 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            44 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            3 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            9 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            2950 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            49.2 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            62 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            3.6 </td>
+    </tr>
+    <tr>
+        <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1 ÷Ќ—г 38-44-1
+        </div>
+        </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            38 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            44 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            3 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            9 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            2950 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            49.2 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            62 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            3.6 </td>
+    </tr>
+    <tr>
+        <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1 ÷Ќ—г 38-66
+        </div>
+        </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            38 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            66 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            3 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            13 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            2950 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            49.2 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            62 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            3.6 </td>
+    </tr>
+    <tr>
+        <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1 ÷Ќ—г 38-66-1
+        </div>
+        </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            38 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            66 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            3 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            13 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            2950 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            49.2 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            62 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            3.6 </td>
+    </tr>
+    <tr>
+        <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1 ÷Ќ—г 38-88
+        </div>
+        </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            38 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            88 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            3 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            17 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            2950 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            49.2 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            62 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            3.6 </td>
+    </tr>
+    <tr>
+        <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1 ÷Ќ—г 38-88-1
+        </div>
+        </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            38 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            88 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            3 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            17 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            2950 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            49.2 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            62 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            3.6 </td>
+    </tr>
+    <tr>
+        <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1 ÷Ќ—г 38-110
+        </div>
+        </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            38 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            110 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            3 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            22 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            2950 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            49.2 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            62 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            3.6 </td>
+    </tr>
+    <tr>
+        <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1 ÷Ќ—г 38-110-1
+        </div>
+        </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            38 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            110 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            3 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            22 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            2950 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            49.2 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            62 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            3.6 </td>
+    </tr>
+    <tr>
+        <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1 ÷Ќ—г 38-132
+        </div>
+        </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            38 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            132 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            3 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            27 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            2950 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            49.2 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            62 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            3.6 </td>
+    </tr>
+    <tr>
+        <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1 ÷Ќ—г 38-132-1
+        </div>
+        </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            38 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            132 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            3 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            27 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            2950 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            49.2 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            62 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            3.6 </td>
+    </tr>
+    <tr>
+        <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1 ÷Ќ—г 38-154
+        </div>
+        </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            38 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            154 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            3 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            30.5 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            2950 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            49.2 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            62 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            3.6 </td>
+    </tr>
+    <tr>
+        <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1 ÷Ќ—г 38-154-1
+        </div>
+        </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            38 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            154 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            3 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            30.5 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            2950 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            49.2 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            62 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            3.6 </td>
+    </tr>
+    <tr>
+        <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1 ÷Ќ—г 38-176
+        </div>
+        </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            38 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            176 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            3 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            36 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            2950 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            49.2 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            62 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            3.6 </td>
+    </tr>
+    <tr>
+        <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1 ÷Ќ—г 38-176-1
+        </div>
+        </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            38 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            176 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            3 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            36 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            2950 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            49.2 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            62 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            3.6 </td>
+    </tr>
+    <tr>
+        <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1 ÷Ќ—г 38-198
+        </div>
+        </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            38 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            198 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            3 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            39.8 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            2950 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            49.2 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            62 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            3.6 </td>
+    </tr>
+    <tr>
+        <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1 ÷Ќ—г 38-198-1
+        </div>
+        </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            38 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            198 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            3 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            39.8 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            2950 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            49.2 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            62 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            3.6 </td>
+    </tr>
+    <tr>
+        <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1 ÷Ќ—г 60-66
+        </div>
+        </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            60 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            66 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            3 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            21 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            2950 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            49.2 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            64 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            4.5 </td>
+    </tr>
+    <tr>
+        <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1 ÷Ќ—г 60-66-1
+        </div>
+        </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            60 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            66 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            3 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            21 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            2950 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            49.2 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            64 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            4.5 </td>
+    </tr>
+    <tr>
+        <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1 ÷Ќ—г 60-99
+        </div>
+        </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            60 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            99 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            3 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            28 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            2950 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            49.2 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            64 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            4.5 </td>
+    </tr>
+    <tr>
+        <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1 ÷Ќ—г 60-99-1
+        </div>
+        </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            60 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            99 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            3 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            28 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            2950 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            49.2 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            64 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            4.5 </td>
+    </tr>
+    <tr>
+        <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1 ÷Ќ—г 60-132
+        </div>
+        </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            60 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            132 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            3 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            39 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            2950 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            49.2 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            64 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            4.5 </td>
+    </tr>
+    <tr>
+        <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1 ÷Ќ—г 60-132-1
+        </div>
+        </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            60 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            132 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            3 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            39 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            2950 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            49.2 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            64 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            4.5 </td>
+    </tr>
+    <tr>
+        <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1 ÷Ќ—г 60-165
+        </div>
+        </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            60 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            165 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            3 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            49 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            2950 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            49.2 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            64 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            4.5 </td>
+    </tr>
+    <tr>
+        <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1 ÷Ќ—г 60-165-1
+        </div>
+        </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            60 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            165 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            3 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            49 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            2950 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            49.2 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            64 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            4.5 </td>
+    </tr>
+    <tr>
+        <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1 ÷Ќ—г 60-198 
+        </div>
+        </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            60 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            198 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            3 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            53.8 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            2950 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            49.2 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            64 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            4.5 </td>
+    </tr>
+    <tr>
+        <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1 ÷Ќ—г 60-198-1
+        </div>
+        </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            60 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            198 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            3 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            53.8 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            2950 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            49.2 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            64 </td>
+        <td class="td_table_ecv" align="center" valign="middle">
+            4.5 </td>
+    </tr>
+
+    </tbody></table>
