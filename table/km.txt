@@ -1,0 +1,621 @@
+<table class="marki-table" border="0" cellpadding="0" cellspacing="1">
+
+        <thead>
+        <tr>
+            <td class="td_table_ecv" align="center" valign="middle">Марки</td>
+            <td class="td_table_ecv" align="center" valign="middle">Подача (номин.), м?/ч</td>
+            <td class="td_table_ecv" align="center" valign="middle">Напор, м</td>
+            <td class="td_table_ecv" align="center" valign="middle">Давление на входе в насос, кгс/см?, не более</td>
+            <td class="td_table_ecv" align="center" valign="middle">Мощность двигателя, кВт</td>
+            <td class="td_table_ecv" align="center" valign="middle">Частота вращения, об/мин</td>
+            <td class="td_table_ecv" align="center" valign="middle">Частота вращения, c??</td>
+            <td class="td_table_ecv" align="center" valign="middle">КПД насоса, %</td>
+            <td class="td_table_ecv" align="center" valign="middle">Напряжения сети, В</td>
+            <td class="td_table_ecv" align="center" valign="middle">Частота тока, Гц</td>
+            <td class="td_table_ecv" align="center" valign="middle">Допускаемый кавитационный запас, м, не более</td>
+        </tr>
+        </thead>
+
+
+        <tbody><tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">КМ 50-32-125
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                12.5 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                20 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                3.5 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                2.2 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                2900 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                48 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                58 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                380 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                50 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                3.5 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1КМ 50-32-125
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                12.5 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                20 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                3.5 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                2.2 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                2900 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                48 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                58 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                380 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                50 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                3.5 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">КМ 50-32-125а
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                10 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                16 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                3.5 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1.5 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                2900 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                48 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                56 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                380 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                50 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                3.5 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">КМ 65-50-125
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                25 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                20 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                3.5 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                4 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                2900 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                48 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                66 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                380 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                50 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                3.8 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">КМ 65-50-125а
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                23 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                16 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                3.5 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                4 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                2900 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                48 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                64 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                380 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                50 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                3.8 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">КМ 65-50-160
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                25 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                32 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                3.5 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                5.5 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                2900 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                48 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                62 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                380 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                50 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                3.8 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1КМ 65-50-160
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                25 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                32 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                3.5 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                5.5 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                2900 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                48 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                62 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                380 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                50 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                3.8 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">КМ 65-50-160а
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                20 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                25 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                3.5 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                4 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                2900 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                48 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                59 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                380 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                50 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                3.8 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">КМ 80-65-160
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                50 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                32 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                6 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                7.5 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                2900 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                48 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                71 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                380 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                50 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                4 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1КМ 80-65-160
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                50 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                32 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                6 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                7.5 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                2900 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                48 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                71 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                380 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                50 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                4 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">КМ 80-65-160а
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                45 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                28 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                6 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                7 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                2900 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                48 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                69 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                380 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                50 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                4 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">КМ 80-65-160б
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                40 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                20 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                6 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                5.5 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                2900 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                48 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                66 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                380 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                50 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                4 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">КМ 80-50-200
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                50 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                50 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                6 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                15 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                2900 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                48 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                66 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                380 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                50 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                4.5 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">КМ 80-50-200а
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                45 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                40 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                6 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                11 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                2900 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                48 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                62 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                380 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                50 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                4.5 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">КМ 100-65-200
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                100 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                50 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                6 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                30 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                2900 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                48 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                73 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                380 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                50 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                4.5 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">КМ 100-65-200а
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                90 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                40 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                6 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                22 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                2900 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                48 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                66 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                380 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                50 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                4.5 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">КМ 100-65-250
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                100 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                80 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                6 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                45 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                2900 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                48 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                68 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                380 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                50 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                4.5 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">КМ 100-65-250а
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                90 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                67 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                6 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                37 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                2900 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                48 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                64 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                380 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                50 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                4.5 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1КМ 100-80-160
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                100 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                32 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                6 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                12 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                2900 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                48 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                76 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                380 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                50 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                4.5 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" class="td_table_ecv" align="left" valign="middle"><div class="nowrap">КМ 100-80-160
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                100 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                32 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                6 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                12 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                2900 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                48 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                76 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                380 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                50 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                4.5 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">КМ 100-80-160а
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                90 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                26 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                6 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                11 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                2900 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                48 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                71 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                380 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                50 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                4.5 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">КМ 100-80-160б
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                80 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                20 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                6 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                7 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                2900 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                48 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                71 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                380 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                50 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                4.5 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">КМ 150-125-250
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                200 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                20 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                6 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                18.5 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1450 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                24 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                82 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                380 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                50 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                4.2 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">КМ 150-125-250а
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                180 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                16 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                6 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                15 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1450 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                24 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                81 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                380 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                50 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                4.2 </td>
+        </tr>
+
+        </tbody></table>

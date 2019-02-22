@@ -9,3 +9,14 @@ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = 
 d20w
 /<
 i deleted*4
+
+
+модифицированный макрос
+/<a
+d/>
+i deleted
+/<
+i deleted*4
+
+
+Удаление onclick - регистр 7

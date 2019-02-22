@@ -1,0 +1,1751 @@
+<table class="marki-table" border="0" cellpadding="0" cellspacing="1">
+
+        <thead>
+        <tr>
+            <td class="td_table_ecv" align="center" valign="middle">Марки</td>
+            <td class="td_table_ecv" align="center" valign="middle">Подача (номин.), м?/ч</td>
+            <td class="td_table_ecv" align="center" valign="middle">Напор, м</td>
+            <td class="td_table_ecv" align="center" valign="middle">Мощность потребляемая насосом  (номин.), кВт</td>
+            <td class="td_table_ecv" align="center" valign="middle">Мощность потребляемая насосом  (макс.), кВт</td>
+            <td class="td_table_ecv" align="center" valign="middle">Частота вращения, об/мин</td>
+            <td class="td_table_ecv" align="center" valign="middle">Частота вращения, c??</td>
+        </tr>
+        </thead>
+
+
+        <tbody><tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">Д 160-112
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                160 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                112 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                75 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                86 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                2900 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                48.3 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">Д 160-112а
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                140 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                100 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                65 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                75 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                2900 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                48.3 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">Д 160-112б
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                135 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                80 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                44 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                53 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                2900 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                48.3 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">Д 160-112м
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                160 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                122 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                80 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                92 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                2900 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                48.3 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">Д 160-112
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                80 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                28 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                10.5 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                12 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1450 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                24.2 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">Д 160-112а
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                75 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                25 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                8.8 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                10.5 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1450 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                24.2 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">Д 160-112б
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                70 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                21 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                7.6 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                8.8 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1450 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                24.2 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">Д 160-112м
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                90 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                30 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                12 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                13 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1450 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                24.2 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">Д 200-36
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                200 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                36 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                29 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                35 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1450 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                24.2 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">Д 200-36а
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                190 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                30 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                25 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                27 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1450 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                24.2 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">Д 200-36б
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                180 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                25 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                19 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                21.5 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1450 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                24.2 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">Д 320-50
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                320 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                50 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                60 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                68 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1450 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                24.2 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">Д 320-50а
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                300 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                39 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                45 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                48 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1450 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                24.2 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">Д 320-50б
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                300 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                30 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                32 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                35 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1450 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                24.2 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">Д 2000-21
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                2000 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                21 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                130 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                144 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                980 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                16.3 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">Д 2000-21
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1600 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                11 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                55 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                61 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                730 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                12.2 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">Д 2000-21а
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1850 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                19 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                110 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                122 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                980 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                16.3 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">Д 2000-21а
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1500 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                10 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                50 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                56 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                730 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                12.2 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 200-90а
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                180 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                74 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                57 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                60 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                2900 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                48.3 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 200-90б
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                160 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                62 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                42 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                44 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                2900 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                48.3 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 200-90
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                100 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                22.5 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                10 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                12.5 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1450 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                24.2 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 200-90а
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                90 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                19 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                9 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                10.5 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1450 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                24.2 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 200-90б
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                80 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                16 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                7.5 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                9.5 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1450 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                24.2 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 250-125
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                250 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                125 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                120 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                131 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                2900 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                48.3 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 250-125а
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                240 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                110 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                95 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                105 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                2900 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                48.3 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 250-125б
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                220 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                90 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                82 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                92 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                2900 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                48.3 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 250-125
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                125 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                30 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                17 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                18.5 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1450 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                24.2 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 250-125а
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                120 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                27.5 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                15 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                16.5 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1450 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                24.2 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 250-125б
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                110 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                22 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                11.5 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                12.5 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1450 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                24.2 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 315-50
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                315 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                50 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                56 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                62 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                2900 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                48.3 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 315-50а
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                300 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                42 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                42 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                46 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                2900 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                48.3 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 315-50б
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                220 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                36 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                33 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                36 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                2900 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                48.3 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 315-71
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                315 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                71 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                78 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                87 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                2900 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                48.3 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 315-71а
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                300 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                62 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                64 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                72 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                2900 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                48.3 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 315-71б
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                280 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                52 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                56 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                65 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                2900 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                48.3 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 315-71
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                160 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                18 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                12 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                15 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1450 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                24.2 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 315-71а
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                150 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                17 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                11 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                14 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1450 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                24.2 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 315-71б
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                130 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                14 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                8 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                11.5 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1450 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                24.2 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 320-50-1
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                240 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                115 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                110 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                140 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                2100 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                35.0 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 320-50-1
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                200 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                90 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                78 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                102 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1900 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                31.7 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 320-50-1
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                180 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                74 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                55 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                80 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1700 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                28.3 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 320-50-2
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                320 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                50 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                60 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                70 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1450 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                24.2 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 320-50-2
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                315 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                71 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                76 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                90 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1650 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                27.5 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 320-50-2
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                300 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                62 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                70 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                82 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1550 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                25.8 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 320-50-2
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                315 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                100 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                130 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                155 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1950 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                32.5 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 320-50-2
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                400 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                100 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                115 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                135 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                2000 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                33.3 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 320-50-2
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                500 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                63 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                115 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                142 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1700 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                28.3 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 500-63
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                500 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                63 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                113 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                130 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1450 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                24.2 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 500-63а
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                450 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                53 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                92 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                97 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1450 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                24.2 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 500-63б
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                400 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                44 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                68 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                72 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1450 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                24.2 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 500-63
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                340 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                28 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                38 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                41 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                980 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                16.3 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 500-63а
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                300 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                24 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                31 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                34 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                980 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                16.3 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 500-63б
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                270 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                20 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                22 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                24 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                980 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                16.3 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 630-90
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                630 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                90 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                206 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                230 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1450 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                24.2 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 630-90а
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                550 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                74 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                170 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                192 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1450 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                24.2 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 630-90б
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                500 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                60 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                116 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                130 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1450 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                24.2 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 630-90
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                500 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                38 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                78 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                84 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                980 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                16.3 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 630-90а
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                470 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                30 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                60 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                64 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                980 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                16.3 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 630-90б
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                420 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                25 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                46 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                50 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                980 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                16.3 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 630-125
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                630 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                125 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                320 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                353 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1450 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                24.2 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 630-125а
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                550 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                101 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                220 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                266 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1450 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                24.2 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 630-125б
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                500 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                82 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                180 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                199 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                14580 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                24.2 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 630-125
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                500 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                54 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                102 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                106 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                980 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                16.3 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 630-125а
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                450 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                45 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                83 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                89 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                980 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                16.3 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 630-125б
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                420 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                38 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                63 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                68 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                980 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                16.3 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 720-90
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                720 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                90 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                222 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                257 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1450 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                24.2 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 720-90а
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                650 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                74 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                164 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                189 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1450 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                24.2 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 720-90б
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                580 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                59 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                118 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                135 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1450 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                24.2 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 720-90
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                485 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                41 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                68.5 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                79.5 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                980 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                16.3 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 720-90а
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                440 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                34 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                51.5 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                58.5 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                980 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                16.3 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 720-90б
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                390 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                27 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                37 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                42 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                980 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                16.3 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 800-56
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                800 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                56 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                150 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                173 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1450 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                24.2 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 800-56а
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                740 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                48 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                120 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                127 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1450 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                24.2 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 800-56б
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                700 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                40 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                103 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                108 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1450 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                24.2 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 800-56
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                540 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                28 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                50 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                54 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                980 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                16.3 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 800-56а
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                500 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                22 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                40 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                43 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                980 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                16.3 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 800-56б
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                470 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                19 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                31 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                35 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                980 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                16.3 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д1080-70
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1080 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                70 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                255 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                296 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1450 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                24.2 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д1080-70а
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1000 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                57 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                195 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                225 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1450 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                24.2 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д1080-70б
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                950 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                45 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                155 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                185 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1450 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                24.2 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 1250-63
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1250 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                63 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                270 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                290 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1450 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                24.2 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 1250-63а
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1100 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                52.5 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                200 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                218 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1450 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                24.2 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 1250-63б
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1050 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                44 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                160 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                180 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1450 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                24.2 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 1250-63
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                800 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                28 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                82 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                90 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                980 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                16.3 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 1250-63а
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                740 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                24 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                62 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                68 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                980 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                16.3 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 1250-63б
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                710 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                20 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                49 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                51 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                980 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                16.3 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 1250-125
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1250 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                125 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                560 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                610 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1450 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                24.2 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 1250-125а
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1150 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                102 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                410 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                455 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1450 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                24.2 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 1250-125б
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1030 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                87 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                340 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                375 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1450 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                24.2 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 1250-125
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                800 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                56 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                165 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                185 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                980 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                16.3 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 1250-125а
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                750 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                48 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                140 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                150 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                980 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                16.3 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 1250-125б
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                700 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                40 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                110 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                120 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                980 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                16.3 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 1600-90
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1600 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                90 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                480 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                520 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1450 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                24.2 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 1600-90а
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1450 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                75 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                380 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                420 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1450 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                24.2 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 1600-90б
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1300 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                63 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                290 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                320 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1450 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                24.2 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 1600-90
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1000 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                40 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                140 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                155 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                980 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                16.3 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 1600-90а
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                970 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                34 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                118 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                130 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                980 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                16.3 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">1Д 1600-90б
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                870 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                16 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                90 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                17 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1450 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                24.2 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">2Д 2000-21
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                2000 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                21 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                146 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                146 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                980 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                16.3 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">2Д 2000-21а
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1750 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                18 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                102 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                102 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                980 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                16.3 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">2Д 2000-21
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1250 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                13 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                58 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                58 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                730 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                12.2 </td>
+        </tr>
+        <tr>
+            <td class="td_table_ecv" align="left" valign="middle"><div class="nowrap">2Д 2000-21а
+            </div>
+            </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                1250 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                10 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                45 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                45 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                730 </td>
+            <td class="td_table_ecv" align="center" valign="middle">
+                12.2 </td>
+        </tr>
+
+        </tbody></table>
