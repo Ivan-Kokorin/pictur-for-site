@@ -1,0 +1,95 @@
+<div class="item">
+        <table>
+            <thead>
+            <tr>
+                <td class="title_table_ecv" rowspan="2">Модель станции</th>
+                <td class="title_table_ecv" rowspan="2">Рабочий ток подключаемого электродвигателя, А</th>
+                <td class="title_table_ecv" rowspan="2">Мощность эл. двигателя, кВт</th>
+                <td class="title_table_ecv" colspan="2">Установленные токи защиты, А</th>
+                <td class="title_table_ecv" rowspan="2">Потребляемая мощность, ВА</th>
+                <td class="title_table_ecv" rowspan="2">Степень защиты</th>
+                <td class="title_table_ecv" rowspan="2">Габаритные размеры, мм (не более)</th>
+                <td class="title_table_ecv" rowspan="2">Масса, кг, (не более)</th>
+            </tr>
+            <tr>
+                <td class="title_table_ecv">Imin</th>
+                <td class="title_table_ecv">Imax</th>
+            </tr>
+            </thead>
+            <tbody>
+
+            <tr>
+                <td class="title_table_ecv"  style="min-width:160px;text-align:left">СУиЗ HMS Control L2 - 25</td>
+                <td class="title_table_ecv" >1-25</td>
+                <td class="title_table_ecv" >0,3-11</td>
+                <td class="title_table_ecv" >1</td>
+                <td class="title_table_ecv" >25</td>
+                <td class="title_table_ecv" >30</td>
+                <td class="title_table_ecv" >IP54</td>
+                <td class="title_table_ecv" >310x420x150</td>
+                <td class="title_table_ecv" >8</td>
+            </tr>
+
+            <tr>
+                <td class="title_table_ecv"  style="min-width:160px;text-align:left">СУиЗ HMS Control L2 - 40</td>
+                <td class="title_table_ecv" >20-40</td>
+                <td class="title_table_ecv" >9-17</td>
+                <td class="title_table_ecv" >20</td>
+                <td class="title_table_ecv" >40</td>
+                <td class="title_table_ecv" >30</td>
+                <td class="title_table_ecv" >IP54</td>
+                <td class="title_table_ecv" >310x420x150</td>
+                <td class="title_table_ecv" >8</td>
+            </tr>
+
+            <tr>
+                <td class="title_table_ecv"  style="min-width:160px;text-align:left">СУиЗ HMS Control L2 - 80</td>
+                <td class="title_table_ecv" >35-80</td>
+                <td class="title_table_ecv" >22-37</td>
+                <td class="title_table_ecv" >55</td>
+                <td class="title_table_ecv" >80</td>
+                <td class="title_table_ecv" >30</td>
+                <td class="title_table_ecv" >IP54</td>
+                <td class="title_table_ecv" >505х300х190</td>
+                <td class="title_table_ecv" >11</td>
+            </tr>
+
+            <tr>
+                <td class="title_table_ecv"  style="min-width:160px;text-align:left">СУиЗ HMS Control L2 -100</td>
+                <td class="title_table_ecv" >75-100</td>
+                <td class="title_table_ecv" >30-45</td>
+                <td class="title_table_ecv" >75</td>
+                <td class="title_table_ecv" >100</td>
+                <td class="title_table_ecv" >30</td>
+                <td class="title_table_ecv" >IP54</td>
+                <td class="title_table_ecv" >500х400х220</td>
+                <td class="title_table_ecv" >16</td>
+            </tr>
+
+            <tr>
+                <td class="title_table_ecv"  style="min-width:160px;text-align:left">СУиЗ HMS Control L2 -160 </td>
+                <td class="title_table_ecv" >115-160</td>
+                <td class="title_table_ecv" >45-75</td>
+                <td class="title_table_ecv" >115</td>
+                <td class="title_table_ecv" >160</td>
+                <td class="title_table_ecv" >30</td>
+                <td class="title_table_ecv" >IP54</td>
+                <td class="title_table_ecv" >650х500х200</td>
+                <td class="title_table_ecv" >25</td>
+            </tr>
+
+            <tr>
+                <td class="title_table_ecv"  style="min-width:160px;text-align:left">СУиЗ HMS Control L2 -200 </td>
+                <td class="title_table_ecv" >155-205</td>
+                <td class="title_table_ecv" >75-90</td>
+                <td class="title_table_ecv" >155</td>
+                <td class="title_table_ecv" >200</td>
+                <td class="title_table_ecv" >30</td>
+                <td class="title_table_ecv" >IP54</td>
+                <td class="title_table_ecv" >650х500х200</td>
+                <td class="title_table_ecv" >27</td>
+            </tr>
+
+            </tbody><tbody>
+        </tbody></table>
+</div>

@@ -1,0 +1,236 @@
+<div class="marki-list">
+    <table class="marki-table" border="0" cellpadding="0" cellspacing="1">
+
+        <thead>
+        <tr>
+            <td class="title_table_ecv" align="center" valign="middle">Марки</td>
+            <td class="title_table_ecv" align="center" valign="middle">Масса, кг</td>
+            <td class="title_table_ecv" align="center" valign="middle">Ток электродвигателя макс., А</td>
+            <td class="title_table_ecv" align="center" valign="middle">Степень защиты корпуса</td>
+        </tr>
+        </thead>
+
+
+        <tbody><tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap">HMS Control L3 - 25
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                7 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                1...25 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                IP 21/IP54 </td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap">HMS Control L3 - 25-П
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                20 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                1...25 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                IP54 </td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap">HMS Control L3 - 40
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                7 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                20...40 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                IP 21/IP54 </td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap">HMS Control L3 - 40-П
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                20 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                20...40 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                IP54 </td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap">HMS Control L3 - 60
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                8 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                35...60 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                IP 21/IP54 </td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap">HMS Control L3 - 60-П
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                26 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                35...60 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                IP54 </td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap">HMS Control L3 - 80
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                8 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                55...80 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                IP 21/IP54 </td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap">HMS Control L3 - 80-П
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                26 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                55...80 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                IP54 </td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap">HMS Control L3 - 100
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                16 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                75...100 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                IP 21/IP54 </td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap">HMS Control L3 - 100-П
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                42 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                75...100 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                IP54 </td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap">HMS Control L3 - 120
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                18 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                95...120 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                IP 21/IP54 </td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap">HMS Control L3 - 120-П
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                42 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                95...120 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                IP54 </td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap">HMS Control L3 - 160
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                25 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                115...160 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                IP 21/IP54 </td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap">HMS Control L3 - 160-П
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                42 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                115...160 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                IP54 </td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap">HMS Control L3 - 200
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                27 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                155...200 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                IP 21/IP54 </td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap">HMS Control L3 - 200-П
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                72 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                155...200 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                IP54 </td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap">HMS Control L3 - 250
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                28 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                195...250 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                IP 21/IP54 </td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap">HMS Control L3 - 250-П
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                72 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                195...250 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                IP54 </td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap">HMS Control L3 - 300
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                30 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                245...300 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                IP 21/IP54 </td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap">HMS Control L3 - 300-П
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                86 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                245...300 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                IP54 </td>
+        </tr>
+
+        </tbody></table>
+</div>

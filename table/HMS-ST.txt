@@ -1,0 +1,641 @@
+<div class="marki-list">
+    <table class="marki-table" border="0" cellpadding="0" cellspacing="1">
+
+        <thead>
+        <tr>
+            <td class="title_table_ecv" align="center" valign="middle">ћарки</td>
+            <td class="title_table_ecv" align="center" valign="middle"> оличество Ёƒ</td>
+            <td class="title_table_ecv" align="center" valign="middle">“ип управлени€</td>
+            <td class="title_table_ecv" align="center" valign="middle">Ќоминальный ток станции, ј</td>
+            <td class="title_table_ecv" align="center" valign="middle">Ќоминальна€ мощность нагрузки, к¬т</td>
+        </tr>
+        </thead>
+
+
+        <tbody><tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap">HMS  Control ST Ц 6 Ц ’ Ц  
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                1-4 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                 аскадное </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                6 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                2.2 </td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap">HMS  Control ST Ц 9 Ц ’ Ц  
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                1-4 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                 аскадное </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                9 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                4 </td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap">HMS  Control ST Ц 12 Ц ’ Ц  
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                1-4 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                 аскадное </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                12 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                5.5 </td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap">HMS  Control ST Ц 18 Ц ’ Ц  
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                1-4 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                 аскадное </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                18 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                7.5 </td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap">HMS  Control ST Ц 25 Ц ’ Ц  
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                1-4 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                 аскадное </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                25 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                11 </td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap">HMS  Control ST Ц 32 Ц ’ Ц  
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                1-4 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                 аскадное </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                32 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                15 </td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap">HMS  Control ST  Ц 40 Ц ’ Ц  
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                1-4 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                 аскадное </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                40 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                22 </td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap">HMS  Control ST  Ц 50Ц ’ Ц  
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                1-4 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                 аскадное </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                50 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                30 </td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap">HMS  Control ST  Ц 65 Ц ’ Ц  
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                1-4 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                 аскадное </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                65 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                37 </td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap">HMS  Control ST  Ц 80 Ц ’ Ц  
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                1-4 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                 аскадное </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                80 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                45 </td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap">HMS  Control ST  Ц 95 Ц ’ Ц  
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                1-4 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                 аскадное </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                95 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                55 </td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap">HMS  Control ST  Ц 120 Ц ’ Ц  
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                1-4 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                 аскадное </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                120 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                75 </td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap">HMS  Control ST  Ц 160 Ц ’ Ц  
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                1-4 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                 аскадное </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                160 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                90 </td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap">HMS  Control ST Ц 15 Ц ’ Ц  ѕ
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                1-4 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                 аскадное с плавным пуском </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                15 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                7.5 </td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap">HMS  Control ST Ц 30 Ц ’ Ц  ѕ
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                1-4 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                 аскадное с плавным пуском </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                30 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                15 </td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap">HMS  Control ST  Ц 42 Ц ’ Ц  ѕ
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                1-4 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                 аскадное с плавным пуском </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                42 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                22 </td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap">HMS  Control ST  Ц 57Ц ’ Ц  ѕ
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                1-4 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                 аскадное с плавным пуском </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                57 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                30 </td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap">HMS  Control ST  Ц 69 Ц ’ Ц  ѕ
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                1-4 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                 аскадное с плавным пуском </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                69 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                37 </td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap">HMS  Control ST  Ц 81 Ц ’ Ц  ѕ
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                1-4 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                 аскадное с плавным пуском </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                81 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                45 </td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap">HMS  Control ST  Ц 100 Ц ’ Ц  ѕ
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                1-4 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                 аскадное с плавным пуском </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                95 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                55 </td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap">HMS  Control ST  Ц 131 Ц ’ Ц  ѕ
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                1-4 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                 аскадное с плавным пуском </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                131 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                75 </td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap">HMS  Control ST  Ц 160 Ц ’ Ц  ѕ
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                1-4 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                 аскадное с плавным пуском </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                160 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                90 </td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap">HMS  Control ST Ц 2 Ц ’ Ц  „
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                1-4 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                 аскадно-частотное </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                2.2 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                0.75 </td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap">  HMS  Control ST Ц 3,5 Ц ’ Ц  „
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                1-4 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                 аскадно-частотное </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                3.7 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                1.5 </td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap">HMS  Control ST Ц 5 Ц ’ Ц  „
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                1-4 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                 аскадно-частотное </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                5.1 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                2.2 </td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap">HMS  Control ST Ц 7 Ц ’ Ц  „
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                1-4 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                 аскадно-частотное </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                7.2 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                3 </td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap">HMS  Control ST Ц 9 Ц ’ Ц  „
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                1-4 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                 аскадно-частотное </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                9.1 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                4 </td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap"> HMS  Control ST Ц 12 Ц ’ Ц  „
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                1-4 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                 аскадно-частотное </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                12 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                5.5 </td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap"> HMS  Control ST Ц 16 Ц ’ Ц  „
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                1-4 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                 аскадно-частотное </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                16 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                7.5 </td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap"> HMS  Control ST Ц 22 Ц ’ Ц  „
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                1-4 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                 аскадно-частотное </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                22.5 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                11 </td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap"> HMS  Control ST Ц 30 Ц ’ Ц  „
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                1-4 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                 аскадно-частотное </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                30.5 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                15 </td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap"> HMS  Control ST Ц 37 Ц ’ Ц  „
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                1-4 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                 аскадно-частотное </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                37 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                18.5 </td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap"> HMS  Control ST  Ц 43 Ц ’ Ц  „
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                1-4 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                 аскадно-частотное </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                43.5 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                22 </td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap">HMS  Control ST  Ц 58Ц ’ Ц  „
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                1-4 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                 аскадно-частотное </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                58.5 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                30 </td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap">HMS  Control ST  Ц 79 Ц ’ Ц  „
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                1-4 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                 аскадно-частотное </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                79 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                37 </td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap">HMS  Control ST  Ц 94 Ц ’ Ц  „
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                1-4 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                 аскадно-частотное </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                94 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                45 </td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap"> HMS  Control ST  Ц 116 Ц ’ Ц  „
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                1-4 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                 аскадно-частотное </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                116 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                55 </td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap"> HMS  Control ST  Ц 160 Ц ’ Ц  „
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                1-4 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                 аскадно-частотное </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                160 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                75 </td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap">HMS  Control ST Ц 16 Ц ’ Ц  „ѕ
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                1-4 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                 аскадно-частотное с плавным пуском </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                16 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                7.5 </td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap">HMS  Control ST Ц 22 Ц ’ Ц  „ѕ
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                1-4 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                 аскадно-частотное с плавным пуском </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                22.5 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                11 </td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap">HMS  Control ST Ц 30 Ц ’ Ц  „ѕ
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                1-4 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                 аскадно-частотное с плавным пуском </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                30.5 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                15 </td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap">HMS  Control ST Ц 37 Ц ’ Ц  „ѕ
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                1-4 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                 аскадно-частотное с плавным пуском </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                37 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                18.5 </td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap">HMS  Control ST  Ц 43 Ц ’ Ц  „ѕ
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                1-4 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                 аскадно-частотное с плавным пуском </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                43.5 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                22 </td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap">HMS  Control ST  Ц 58Ц ’ Ц  „ѕ
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                1-4 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                 аскадно-частотное с плавным пуском </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                58.5 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                30 </td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap">HMS  Control ST  Ц 79 Ц ’ Ц  „ѕ
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                1-4 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                 аскадно-частотное с плавным пуском </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                79 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                37 </td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap">HMS  Control ST  Ц 94 Ц ’ Ц  „ѕ
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                1-4 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                 аскадно-частотное с плавным пуском </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                94 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                45 </td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap">HMS  Control ST  Ц 116 Ц ’ Ц  ѕ„
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                1-4 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                 аскадно-частотное с плавным пуском </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                116 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                55 </td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" align="left" valign="middle"><div class="nowrap">HMS  Control ST  Ц 160 Ц ’ Ц  „ѕ
+            </div>
+            </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                1-4 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                 аскадно-частотное с плавным пуском </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                160 </td>
+            <td class="title_table_ecv" align="center" valign="middle">
+                75 </td>
+        </tr>
+
+        </tbody></table>
+</div>

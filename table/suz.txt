@@ -1,0 +1,135 @@
+<div class="item">
+		<table class="suz">
+			<thead>
+				<tr>
+					<th rowspan="2">Станции управления к насосам ЭЦВ</th>					
+					<th rowspan="2">Номинальное напряжение, В</th>
+					<th rowspan="2">Частота, Гц</th>
+					<th colspan="2">Мощность управляемого двигателя, кВт </th>
+					<th rowspan="2">Максим-ый ток главной цепи, А (не более)</th>
+					<th colspan="2">Напряжение, В</th>
+					<th colspan="2">Время срабатывания защиты, сек. (не более)</th>					
+					<th rowspan="2">Время повторного включения, мин.</th>
+					<th rowspan="2">Степень защиты</th>
+					<th rowspan="2">Размеры, мм</th>
+					<th rowspan="2">Масса, кг (не более)</th>
+				</tr>
+				<tr>
+					<th>min</th>
+					<th>max</th>
+					<th>питания станции</th>
+					<th>цепи управ-ия</th>
+					<th>при обрыве фазы</th>
+					<th>перегрузка по току</th>
+				</tr>
+			</thead>
+			<tbody>
+				
+<tr>
+	<td style="min-width:80px;text-align:left">СУЗ-10 (однофазный)</td>
+	<td>220</td>
+	<td>50</td>
+	<td>1</td>
+	<td>3</td>
+	<td>10</td>
+	<td>220</td>
+	<td>12</td>
+	<td>3</td>
+	<td>75</td>
+	<td>30</td>
+	<td>IP21</td>
+	<td>320x330x160</td>
+	<td>10</td>
+</tr>
+					
+<tr>
+	<td style="min-width:80px;text-align:left">СУЗ 10</td>
+	<td>380</td>
+	<td>50</td>
+	<td>1</td>
+	<td>3</td>
+	<td>10</td>
+	<td>220</td>
+	<td>12</td>
+	<td>3</td>
+	<td>75</td>
+	<td>30</td>
+	<td>IP21</td>
+	<td>320x330x160</td>
+	<td>10</td>
+</tr>
+					
+<tr>
+	<td style="min-width:80px;text-align:left">СУЗ 25</td>
+	<td>380</td>
+	<td>50</td>
+	<td>2.2</td>
+	<td>11</td>
+	<td>25</td>
+	<td>220</td>
+	<td>12</td>
+	<td>3</td>
+	<td>75</td>
+	<td>30</td>
+	<td>IP21</td>
+	<td>320x330x160</td>
+	<td>10</td>
+</tr>
+					
+<tr>
+	<td style="min-width:80px;text-align:left">СУЗ 40</td>
+	<td>380</td>
+	<td>50</td>
+	<td>3</td>
+	<td>13</td>
+	<td>40</td>
+	<td>220</td>
+	<td>12</td>
+	<td>3</td>
+	<td>75</td>
+	<td>30</td>
+	<td>IP21</td>
+	<td>320x330x160</td>
+	<td>10</td>
+</tr>
+					
+<tr>
+	<td style="min-width:80px;text-align:left">СУЗ 100</td>
+	<td>380</td>
+	<td>50</td>
+	<td>13</td>
+	<td>45</td>
+	<td>100</td>
+	<td>220</td>
+	<td>12</td>
+	<td>3</td>
+	<td>75</td>
+	<td>30</td>
+	<td>IP21</td>
+	<td>505x460x250</td>
+	<td>24</td>
+</tr>
+					
+<tr>
+	<td style="min-width:80px;text-align:left">СУЗ 200</td>
+	<td>380</td>
+	<td>50</td>
+	<td>45</td>
+	<td>90</td>
+	<td>200</td>
+	<td>220</td>
+	<td>12</td>
+	<td>3</td>
+	<td>75</td>
+	<td>30</td>
+	<td>IP21</td>
+	<td>710x680x320</td>
+	<td>55</td>
+</tr>
+					
+			</tbody><tbody>
+		</tbody></table>
+		<div class="tehnicheskie_harakteristiki">
+			
+		</div>
+	</div>
