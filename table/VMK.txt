@@ -1,0 +1,121 @@
+<table style="width: 620;">
+    <tbody>
+    <tr>
+        <td class="title_table_ecv">Марка вентилятора</td>
+        <td class="title_table_ecv">Напряжение, В/ частота, Гц</td>
+        <td class="title_table_ecv">Фазность</td>
+        <td class="title_table_ecv">Потребляемая мощность, Вт</td>
+        <td class="title_table_ecv">Ток, А</td>
+        <td class="title_table_ecv">Мах расход воздуха, м3/ч</td>
+        <td class="title_table_ecv">Частота вращения об/мин</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">225-2Е</td>
+        <td class="title_table_ecv">220 / 50</td>
+        <td class="title_table_ecv">1</td>
+        <td class="title_table_ecv">150</td>
+        <td class="title_table_ecv">0.7</td>
+        <td class="title_table_ecv">1010</td>
+        <td class="title_table_ecv">2600</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">310-4D</td>
+        <td class="title_table_ecv">380 / 50</td>
+        <td class="title_table_ecv">3</td>
+        <td class="title_table_ecv">150</td>
+        <td class="title_table_ecv">0.4</td>
+        <td class="title_table_ecv">1700</td>
+        <td class="title_table_ecv">1400</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">310-4E</td>
+        <td class="title_table_ecv">220 / 50</td>
+        <td class="title_table_ecv">1</td>
+        <td class="title_table_ecv">140</td>
+        <td class="title_table_ecv">0.7</td>
+        <td class="title_table_ecv">1650</td>
+        <td class="title_table_ecv">1370</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">355-4D</td>
+        <td class="title_table_ecv">380 / 50</td>
+        <td class="title_table_ecv">3</td>
+        <td class="title_table_ecv">220</td>
+        <td class="title_table_ecv">0.5</td>
+        <td class="title_table_ecv">2200</td>
+        <td class="title_table_ecv">1380</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">355-4E</td>
+        <td class="title_table_ecv">220 / 50</td>
+        <td class="title_table_ecv">1</td>
+        <td class="title_table_ecv">220</td>
+        <td class="title_table_ecv">1</td>
+        <td class="title_table_ecv">2200</td>
+        <td class="title_table_ecv">1360</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">400-4D</td>
+        <td class="title_table_ecv">380 / 50</td>
+        <td class="title_table_ecv">3</td>
+        <td class="title_table_ecv">540</td>
+        <td class="title_table_ecv">1</td>
+        <td class="title_table_ecv">4000</td>
+        <td class="title_table_ecv">1350</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">400-4E</td>
+        <td class="title_table_ecv">220 / 50</td>
+        <td class="title_table_ecv">1</td>
+        <td class="title_table_ecv">560</td>
+        <td class="title_table_ecv">2.5</td>
+        <td class="title_table_ecv">4000</td>
+        <td class="title_table_ecv">1350</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">450-4D</td>
+        <td class="title_table_ecv">380 / 50</td>
+        <td class="title_table_ecv">3</td>
+        <td class="title_table_ecv">810</td>
+        <td class="title_table_ecv">1.36</td>
+        <td class="title_table_ecv">5600</td>
+        <td class="title_table_ecv">1260</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">450-4E</td>
+        <td class="title_table_ecv">220 / 50</td>
+        <td class="title_table_ecv">1</td>
+        <td class="title_table_ecv">830</td>
+        <td class="title_table_ecv">4.1</td>
+        <td class="title_table_ecv">5400</td>
+        <td class="title_table_ecv">1340</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">500-4D</td>
+        <td class="title_table_ecv">380 / 50</td>
+        <td class="title_table_ecv">3</td>
+        <td class="title_table_ecv">1560</td>
+        <td class="title_table_ecv">2.9</td>
+        <td class="title_table_ecv">7800</td>
+        <td class="title_table_ecv">1330</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">560-4D</td>
+        <td class="title_table_ecv">380 / 50</td>
+        <td class="title_table_ecv">3</td>
+        <td class="title_table_ecv">2200</td>
+        <td class="title_table_ecv">3.7</td>
+        <td class="title_table_ecv">10400</td>
+        <td class="title_table_ecv">1250</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">630-4D</td>
+        <td class="title_table_ecv">380 / 50</td>
+        <td class="title_table_ecv">3</td>
+        <td class="title_table_ecv">3900</td>
+        <td class="title_table_ecv">6.1</td>
+        <td class="title_table_ecv">14400</td>
+        <td class="title_table_ecv">1330</td>
+    </tr>
+    </tbody>
+</table>

@@ -1,0 +1,826 @@
+<table width="100%" border="0" cellspacing="0" cellpadding="0"><!--DWLayoutTable-->
+    <tbody>
+    <tr>
+        <td class="title_table_ecv" class="xl24" rowspan="2" width="121" height="147">Марка вентилятора</td>
+        <td class="title_table_ecv" class="xl24" rowspan="2" width="97">Исполнение</td>
+        <td class="title_table_ecv" class="xl48" colspan="3">Электродвигатель</td>
+        <td class="title_table_ecv" class="xl47" colspan="2">Параметры в рабочей зоне</td>
+        <td class="title_table_ecv" class="xl24" rowspan="2" width="63">Масса, кг</td>
+        <td class="title_table_ecv" class="xl46" colspan="2">Виброизоляторы</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl24" width="162" height="147">Частота вращения, об/мин.</td>
+        <td class="title_table_ecv" class="xl24" width="79">Мощность, кВт</td>
+        <td class="title_table_ecv" class="xl24" width="106">Тип&nbsp;<span>*</span><span>&nbsp;</span></td>
+        <td class="title_table_ecv" class="xl24" width="150">Производ-сть, м?х1000/час</td>
+        <td class="title_table_ecv" class="xl24" width="75">Полное давление, Па</td>
+        <td class="title_table_ecv" class="xl27" width="66">Марка&nbsp;</td>
+        <td class="title_table_ecv" class="xl25" style="text-align: center;" width="185">кол-во в комплекте</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" rowspan="6">№2</td>
+        <td class="title_table_ecv" rowspan="6">1</td>
+        <td class="title_table_ecv">1450</td>
+        <td class="title_table_ecv">0,18</td>
+        <td class="title_table_ecv">АИР56B4</td>
+        <td class="title_table_ecv">0,57-0,80</td>
+        <td class="title_table_ecv">270-310</td>
+        <td class="title_table_ecv">20</td>
+        <td class="title_table_ecv" rowspan="6">ДО-38</td>
+        <td class="title_table_ecv" rowspan="6">4</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">1450</td>
+        <td class="title_table_ecv">0,25</td>
+        <td class="title_table_ecv">АИР63А4</td>
+        <td class="title_table_ecv">0,57-1,07</td>
+        <td class="title_table_ecv">270-330</td>
+        <td class="title_table_ecv">22</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">1450</td>
+        <td class="title_table_ecv">0,37</td>
+        <td class="title_table_ecv">АИР63В4</td>
+        <td class="title_table_ecv">0,57-1,30</td>
+        <td class="title_table_ecv">270-305</td>
+        <td class="title_table_ecv">22</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">2900</td>
+        <td class="title_table_ecv">1,1</td>
+        <td class="title_table_ecv">АИР71B2</td>
+        <td class="title_table_ecv">1,11-1,57</td>
+        <td class="title_table_ecv">1080-1210</td>
+        <td class="title_table_ecv">25</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">2900</td>
+        <td class="title_table_ecv">1,5</td>
+        <td class="title_table_ecv">АИР80А2</td>
+        <td class="title_table_ecv">1,11-2,00</td>
+        <td class="title_table_ecv">1080-1310</td>
+        <td class="title_table_ecv">25</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">2900</td>
+        <td class="title_table_ecv">2,2</td>
+        <td class="title_table_ecv">АИР80B2</td>
+        <td class="title_table_ecv">1,11-2,55</td>
+        <td class="title_table_ecv">1080-1220</td>
+        <td class="title_table_ecv">31</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" rowspan="9">№2,5</td>
+        <td class="title_table_ecv" rowspan="9">1</td>
+        <td class="title_table_ecv">1450</td>
+        <td class="title_table_ecv">0,37</td>
+        <td class="title_table_ecv">АИР63B4</td>
+        <td class="title_table_ecv">0,89-1,20</td>
+        <td class="title_table_ecv">410-470</td>
+        <td class="title_table_ecv">30</td>
+        <td class="title_table_ecv" rowspan="8">ДО-38</td>
+        <td class="title_table_ecv" rowspan="8">4</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">1450</td>
+        <td class="title_table_ecv">0,55</td>
+        <td class="title_table_ecv">АИР71А4</td>
+        <td class="title_table_ecv">0,89-1,90</td>
+        <td class="title_table_ecv">410-520</td>
+        <td class="title_table_ecv">32</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">1450</td>
+        <td class="title_table_ecv">0,75</td>
+        <td class="title_table_ecv">АИР71В4</td>
+        <td class="title_table_ecv">0,89-2,40</td>
+        <td class="title_table_ecv">410-510</td>
+        <td class="title_table_ecv">27</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">1450</td>
+        <td class="title_table_ecv">1,1</td>
+        <td class="title_table_ecv">АИР80А4</td>
+        <td class="title_table_ecv">0,89-2,55</td>
+        <td class="title_table_ecv">410-495</td>
+        <td class="title_table_ecv">32</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">2900</td>
+        <td class="title_table_ecv">2,2</td>
+        <td class="title_table_ecv">АИР80B2</td>
+        <td class="title_table_ecv">1,80-2,45</td>
+        <td class="title_table_ecv">1600-1830</td>
+        <td class="title_table_ecv">38</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">2900</td>
+        <td class="title_table_ecv">3,0</td>
+        <td class="title_table_ecv">АИР90L2</td>
+        <td class="title_table_ecv">1,80-3,20</td>
+        <td class="title_table_ecv">1600-2040</td>
+        <td class="title_table_ecv">42</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">2900</td>
+        <td class="title_table_ecv">4,0</td>
+        <td class="title_table_ecv">АИР100S2</td>
+        <td class="title_table_ecv">1,80-3,90</td>
+        <td class="title_table_ecv">1600-2100</td>
+        <td class="title_table_ecv">49</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">2900</td>
+        <td class="title_table_ecv">5,5</td>
+        <td class="title_table_ecv">АИР100L2</td>
+        <td class="title_table_ecv">1,80-4,90</td>
+        <td class="title_table_ecv">1600-2000</td>
+        <td class="title_table_ecv">53</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">2900</td>
+        <td class="title_table_ecv">7,5</td>
+        <td class="title_table_ecv">АИРМ112М2</td>
+        <td class="title_table_ecv">1,80-5,10</td>
+        <td class="title_table_ecv">1600-2000</td>
+        <td class="title_table_ecv">74</td>
+        <td class="title_table_ecv">ДО-39</td>
+        <td class="title_table_ecv">4</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" rowspan="8">№3,15</td>
+        <td class="title_table_ecv" rowspan="8">1</td>
+        <td class="title_table_ecv">960</td>
+        <td class="title_table_ecv">0,37</td>
+        <td class="title_table_ecv">АИР71А6</td>
+        <td class="title_table_ecv">1,18-1,60</td>
+        <td class="title_table_ecv">320-370</td>
+        <td class="title_table_ecv">43</td>
+        <td class="title_table_ecv" rowspan="7">ДО-38</td>
+        <td class="title_table_ecv" rowspan="7">4</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">960</td>
+        <td class="title_table_ecv">0,55</td>
+        <td class="title_table_ecv">АИР71B6</td>
+        <td class="title_table_ecv">1,18-2,61</td>
+        <td class="title_table_ecv">320-405</td>
+        <td class="title_table_ecv">43</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">960</td>
+        <td class="title_table_ecv">0,75</td>
+        <td class="title_table_ecv">АИР80А6</td>
+        <td class="title_table_ecv">1,18-3,35</td>
+        <td class="title_table_ecv">320-390</td>
+        <td class="title_table_ecv">46</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">960</td>
+        <td class="title_table_ecv">1,1</td>
+        <td class="title_table_ecv">АИР80B6</td>
+        <td class="title_table_ecv">1,18-3,55</td>
+        <td class="title_table_ecv">320-380</td>
+        <td class="title_table_ecv">46</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">1450</td>
+        <td class="title_table_ecv">1,1</td>
+        <td class="title_table_ecv">АИР80А4</td>
+        <td class="title_table_ecv">1,79-2,60</td>
+        <td class="title_table_ecv">710-860</td>
+        <td class="title_table_ecv">46</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">1450</td>
+        <td class="title_table_ecv">1,5</td>
+        <td class="title_table_ecv">АИР80B4</td>
+        <td class="title_table_ecv">1,79-3,40</td>
+        <td class="title_table_ecv">710-910</td>
+        <td class="title_table_ecv">47</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">1450</td>
+        <td class="title_table_ecv">2,2</td>
+        <td class="title_table_ecv">АИР90L4</td>
+        <td class="title_table_ecv">1,79-4,80</td>
+        <td class="title_table_ecv">710-900</td>
+        <td class="title_table_ecv">51</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">1450</td>
+        <td class="title_table_ecv">3,0</td>
+        <td class="title_table_ecv">АИР100S4</td>
+        <td class="title_table_ecv">1,79-5,4</td>
+        <td class="title_table_ecv">710-890</td>
+        <td class="title_table_ecv">71</td>
+        <td class="title_table_ecv">ДО-39</td>
+        <td class="title_table_ecv">4</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" rowspan="8">№4</td>
+        <td class="title_table_ecv" rowspan="8">1</td>
+        <td class="title_table_ecv">960</td>
+        <td class="title_table_ecv">1,1</td>
+        <td class="title_table_ecv">АИР80B6</td>
+        <td class="title_table_ecv">2,55-3,55</td>
+        <td class="title_table_ecv">540-625</td>
+        <td class="title_table_ecv">57</td>
+        <td class="title_table_ecv" rowspan="6">ДО-39</td>
+        <td class="title_table_ecv" rowspan="6">4</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">960</td>
+        <td class="title_table_ecv">1,5</td>
+        <td class="title_table_ecv">АИР90L6</td>
+        <td class="title_table_ecv">2,55-4,75</td>
+        <td class="title_table_ecv">540-680</td>
+        <td class="title_table_ecv">59</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">960</td>
+        <td class="title_table_ecv">2,2</td>
+        <td class="title_table_ecv">АИР100L6</td>
+        <td class="title_table_ecv">2,55-6,60</td>
+        <td class="title_table_ecv">540-690</td>
+        <td class="title_table_ecv">78</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">960</td>
+        <td class="title_table_ecv">3,0</td>
+        <td class="title_table_ecv">АИРМ112МА6</td>
+        <td class="title_table_ecv">2,55-7,55</td>
+        <td class="title_table_ecv">540-660</td>
+        <td class="title_table_ecv">96</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">1450</td>
+        <td class="title_table_ecv">4,0</td>
+        <td class="title_table_ecv">АИР100L4</td>
+        <td class="title_table_ecv">3,81-5,45</td>
+        <td class="title_table_ecv">1230-1480</td>
+        <td class="title_table_ecv">78</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">1450</td>
+        <td class="title_table_ecv">5,5</td>
+        <td class="title_table_ecv">АИР112M4</td>
+        <td class="title_table_ecv">3,81-6,85</td>
+        <td class="title_table_ecv">1230-1580</td>
+        <td class="title_table_ecv">102</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">1450</td>
+        <td class="title_table_ecv">7,5</td>
+        <td class="title_table_ecv">АИР132S4</td>
+        <td class="title_table_ecv">3,81-10,3</td>
+        <td class="title_table_ecv">1230-1565</td>
+        <td class="title_table_ecv">126</td>
+        <td class="title_table_ecv" rowspan="2">ДО-40</td>
+        <td class="title_table_ecv" rowspan="2">4</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">1450</td>
+        <td class="title_table_ecv">11,0</td>
+        <td class="title_table_ecv">АИР132М4</td>
+        <td class="title_table_ecv">3,81-11,4</td>
+        <td class="title_table_ecv">1230-1550</td>
+        <td class="title_table_ecv">135</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" rowspan="9">№5</td>
+        <td class="title_table_ecv" rowspan="9">1</td>
+        <td class="title_table_ecv">960</td>
+        <td class="title_table_ecv">4,0</td>
+        <td class="title_table_ecv">АИР112MB6</td>
+        <td class="title_table_ecv">5,0-8,40</td>
+        <td class="title_table_ecv">860-1070</td>
+        <td class="title_table_ecv">139</td>
+        <td class="title_table_ecv" rowspan="5">ДО-40</td>
+        <td class="title_table_ecv" rowspan="5">5</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">960</td>
+        <td class="title_table_ecv">5,5</td>
+        <td class="title_table_ecv">АИР132S6</td>
+        <td class="title_table_ecv">5,0-11,15</td>
+        <td class="title_table_ecv">860-1150</td>
+        <td class="title_table_ecv">160</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">960</td>
+        <td class="title_table_ecv">7,5</td>
+        <td class="title_table_ecv">АИР132M6</td>
+        <td class="title_table_ecv">5,0-14,15</td>
+        <td class="title_table_ecv">860-1120</td>
+        <td class="title_table_ecv">176</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">960</td>
+        <td class="title_table_ecv">11,0</td>
+        <td class="title_table_ecv">АИР160S6</td>
+        <td class="title_table_ecv">5,0-16,0</td>
+        <td class="title_table_ecv">860-1095</td>
+        <td class="title_table_ecv">176</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">1450</td>
+        <td class="title_table_ecv">11,0</td>
+        <td class="title_table_ecv">АИР132M4</td>
+        <td class="title_table_ecv">7,50-10,8</td>
+        <td class="title_table_ecv">1980-2380</td>
+        <td class="title_table_ecv">176</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">1450</td>
+        <td class="title_table_ecv">15,0</td>
+        <td class="title_table_ecv">АИР160S4</td>
+        <td class="title_table_ecv">7,50-14,5</td>
+        <td class="title_table_ecv">1980-2500</td>
+        <td class="title_table_ecv">218</td>
+        <td class="title_table_ecv" rowspan="4">ДО-41</td>
+        <td class="title_table_ecv" rowspan="4">5</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">1450</td>
+        <td class="title_table_ecv">18,5</td>
+        <td class="title_table_ecv">АИР160M4</td>
+        <td class="title_table_ecv">7,50-17,0</td>
+        <td class="title_table_ecv">1980-2540</td>
+        <td class="title_table_ecv">243</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">1450</td>
+        <td class="title_table_ecv">22,0</td>
+        <td class="title_table_ecv">A180S4</td>
+        <td class="title_table_ecv">7,50-19,0</td>
+        <td class="title_table_ecv">1980-2580</td>
+        <td class="title_table_ecv">268</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">1450</td>
+        <td class="title_table_ecv">30,0</td>
+        <td class="title_table_ecv">A180M4</td>
+        <td class="title_table_ecv">7,50-24,5</td>
+        <td class="title_table_ecv">1980-2500</td>
+        <td class="title_table_ecv">278</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" rowspan="9">№6,3</td>
+        <td class="title_table_ecv" rowspan="9">1</td>
+        <td class="title_table_ecv">725</td>
+        <td class="title_table_ecv">5,5</td>
+        <td class="title_table_ecv">АИР132М8</td>
+        <td class="title_table_ecv">7,50-12,6</td>
+        <td class="title_table_ecv">790-980</td>
+        <td class="title_table_ecv">214</td>
+        <td class="title_table_ecv" rowspan="5">ДО-41</td>
+        <td class="title_table_ecv" rowspan="5">5</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">725</td>
+        <td class="title_table_ecv">7,5</td>
+        <td class="title_table_ecv">АИР160S8</td>
+        <td class="title_table_ecv">7,50-17,3</td>
+        <td class="title_table_ecv">790-1040</td>
+        <td class="title_table_ecv">256</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">725</td>
+        <td class="title_table_ecv">11,0</td>
+        <td class="title_table_ecv">АИР160М8</td>
+        <td class="title_table_ecv">7,50-23,0</td>
+        <td class="title_table_ecv">790-1020</td>
+        <td class="title_table_ecv">281</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">725</td>
+        <td class="title_table_ecv">15,0</td>
+        <td class="title_table_ecv">А180М8</td>
+        <td class="title_table_ecv">7,50-24,6</td>
+        <td class="title_table_ecv">790-990</td>
+        <td class="title_table_ecv">274</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">960</td>
+        <td class="title_table_ecv">11,0</td>
+        <td class="title_table_ecv">АИР160S6</td>
+        <td class="title_table_ecv">10,1-15,6</td>
+        <td class="title_table_ecv">1390-1640</td>
+        <td class="title_table_ecv">268</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">960</td>
+        <td class="title_table_ecv">15,0</td>
+        <td class="title_table_ecv">АИР160М6</td>
+        <td class="title_table_ecv">10,1-20,5</td>
+        <td class="title_table_ecv">1390-1790</td>
+        <td class="title_table_ecv">293</td>
+        <td class="title_table_ecv" rowspan="4">ДО-42</td>
+        <td class="title_table_ecv" rowspan="4">5</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">960</td>
+        <td class="title_table_ecv">18,5</td>
+        <td class="title_table_ecv">А180М6</td>
+        <td class="title_table_ecv">10,1-24,4</td>
+        <td class="title_table_ecv">1390-1820</td>
+        <td class="title_table_ecv">328</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">960</td>
+        <td class="title_table_ecv">22,0</td>
+        <td class="title_table_ecv">А200М6</td>
+        <td class="title_table_ecv">10,1-28,0</td>
+        <td class="title_table_ecv">1390-1810</td>
+        <td class="title_table_ecv">403</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">960</td>
+        <td class="title_table_ecv">30,0</td>
+        <td class="title_table_ecv">А200L6</td>
+        <td class="title_table_ecv">10,1-33,1</td>
+        <td class="title_table_ecv">1390-1780</td>
+        <td class="title_table_ecv">410</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" rowspan="10">№8</td>
+        <td class="title_table_ecv" rowspan="10">1</td>
+        <td class="title_table_ecv">725</td>
+        <td class="title_table_ecv">15,0</td>
+        <td class="title_table_ecv">А180М8</td>
+        <td class="title_table_ecv">15,3-24,1</td>
+        <td class="title_table_ecv">1250-1530</td>
+        <td class="title_table_ecv">398</td>
+        <td class="title_table_ecv" rowspan="2">ДО-42</td>
+        <td class="title_table_ecv" rowspan="2">5</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">725</td>
+        <td class="title_table_ecv">18,5</td>
+        <td class="title_table_ecv">А200М8</td>
+        <td class="title_table_ecv">15,3-27,5</td>
+        <td class="title_table_ecv">1250-1580</td>
+        <td class="title_table_ecv">473</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">725</td>
+        <td class="title_table_ecv">22,0</td>
+        <td class="title_table_ecv">А200L8</td>
+        <td class="title_table_ecv">15,3-32,0</td>
+        <td class="title_table_ecv">1250-1640</td>
+        <td class="title_table_ecv">513</td>
+        <td class="title_table_ecv" rowspan="8">ДО-43</td>
+        <td class="title_table_ecv" rowspan="8">6</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">725</td>
+        <td class="title_table_ecv">30,0</td>
+        <td class="title_table_ecv">А225М8</td>
+        <td class="title_table_ecv">15,3-41,0</td>
+        <td class="title_table_ecv">1250-1630</td>
+        <td class="title_table_ecv">558</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">725</td>
+        <td class="title_table_ecv">37,0</td>
+        <td class="title_table_ecv">А250S8</td>
+        <td class="title_table_ecv">15,3-48,1</td>
+        <td class="title_table_ecv">1250-1600</td>
+        <td class="title_table_ecv">567</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">960</td>
+        <td class="title_table_ecv">37,0</td>
+        <td class="title_table_ecv">А225М6</td>
+        <td class="title_table_ecv">20,5-33,8</td>
+        <td class="title_table_ecv">2200-2750</td>
+        <td class="title_table_ecv">589</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">960</td>
+        <td class="title_table_ecv">45,0</td>
+        <td class="title_table_ecv">А250S6</td>
+        <td class="title_table_ecv">20,5-40,0</td>
+        <td class="title_table_ecv">2200-2850</td>
+        <td class="title_table_ecv">724</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">960</td>
+        <td class="title_table_ecv">55,0</td>
+        <td class="title_table_ecv">А250М6</td>
+        <td class="title_table_ecv">20,5-47,1</td>
+        <td class="title_table_ecv">2200-2900</td>
+        <td class="title_table_ecv">780</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">960</td>
+        <td class="title_table_ecv">75,0</td>
+        <td class="title_table_ecv">А280S6</td>
+        <td class="title_table_ecv">20,5-59,1</td>
+        <td class="title_table_ecv">2200-2850</td>
+        <td class="title_table_ecv">950</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">960</td>
+        <td class="title_table_ecv">90,0</td>
+        <td class="title_table_ecv">А280М6</td>
+        <td class="title_table_ecv">20,5-65,4</td>
+        <td class="title_table_ecv">2200-2800</td>
+        <td class="title_table_ecv">990</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" rowspan="9">№6,3</td>
+        <td class="title_table_ecv" rowspan="9">5</td>
+        <td class="title_table_ecv">400</td>
+        <td class="title_table_ecv">2,2</td>
+        <td class="title_table_ecv">подбор</td>
+        <td class="title_table_ecv">4,20-13,1</td>
+        <td class="title_table_ecv">240-300</td>
+        <td class="title_table_ecv" rowspan="9">230 без эд</td>
+        <td class="title_table_ecv" rowspan="9">ДО-43</td>
+        <td class="title_table_ecv" rowspan="9">6</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">470</td>
+        <td class="title_table_ecv">4,0</td>
+        <td class="title_table_ecv">подбор</td>
+        <td class="title_table_ecv">4,80-15,8</td>
+        <td class="title_table_ecv">330-415</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">540</td>
+        <td class="title_table_ecv">5,5</td>
+        <td class="title_table_ecv">подбор</td>
+        <td class="title_table_ecv">5,51-18,0</td>
+        <td class="title_table_ecv">435-550</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">620</td>
+        <td class="title_table_ecv">7,5</td>
+        <td class="title_table_ecv">подбор</td>
+        <td class="title_table_ecv">6,42-20,5</td>
+        <td class="title_table_ecv">580-710</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">700</td>
+        <td class="title_table_ecv">11,0</td>
+        <td class="title_table_ecv">подбор</td>
+        <td class="title_table_ecv">7,21-23,5</td>
+        <td class="title_table_ecv">720-910</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">800</td>
+        <td class="title_table_ecv">15,0</td>
+        <td class="title_table_ecv">подбор</td>
+        <td class="title_table_ecv">8,23-26,5</td>
+        <td class="title_table_ecv">950-1200</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">900</td>
+        <td class="title_table_ecv">22,0</td>
+        <td class="title_table_ecv">подбор</td>
+        <td class="title_table_ecv">9,31-30,0</td>
+        <td class="title_table_ecv">1200-1510</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">1000</td>
+        <td class="title_table_ecv">30,0</td>
+        <td class="title_table_ecv">подбор</td>
+        <td class="title_table_ecv">10,5-33,1</td>
+        <td class="title_table_ecv">1480-1880</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">1100</td>
+        <td class="title_table_ecv">37,0</td>
+        <td class="title_table_ecv">подбор</td>
+        <td class="title_table_ecv">11,6-36,4</td>
+        <td class="title_table_ecv">1800-2400</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" rowspan="11">№8</td>
+        <td class="title_table_ecv" rowspan="11">5</td>
+        <td class="title_table_ecv">300</td>
+        <td class="title_table_ecv">3</td>
+        <td class="title_table_ecv">подбор</td>
+        <td class="title_table_ecv">6,25-20,1</td>
+        <td class="title_table_ecv">220-275</td>
+        <td class="title_table_ecv" rowspan="11">380 без эд</td>
+        <td class="title_table_ecv" rowspan="11">ДО-43</td>
+        <td class="title_table_ecv" rowspan="11">6</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">350</td>
+        <td class="title_table_ecv">5,5</td>
+        <td class="title_table_ecv">подбор</td>
+        <td class="title_table_ecv">7,41-24,1</td>
+        <td class="title_table_ecv">295-375</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">400</td>
+        <td class="title_table_ecv">7,5</td>
+        <td class="title_table_ecv">подбор</td>
+        <td class="title_table_ecv">8,51-27,2</td>
+        <td class="title_table_ecv">380-490</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">450</td>
+        <td class="title_table_ecv">11</td>
+        <td class="title_table_ecv">подбор</td>
+        <td class="title_table_ecv">9,54-30,3</td>
+        <td class="title_table_ecv">480-610</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">500</td>
+        <td class="title_table_ecv">15</td>
+        <td class="title_table_ecv">подбор</td>
+        <td class="title_table_ecv">10,7-34,5</td>
+        <td class="title_table_ecv">600-760</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">560</td>
+        <td class="title_table_ecv">18,5</td>
+        <td class="title_table_ecv">подбор</td>
+        <td class="title_table_ecv">11,9-38,1</td>
+        <td class="title_table_ecv">750-960</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">620</td>
+        <td class="title_table_ecv">22</td>
+        <td class="title_table_ecv">подбор</td>
+        <td class="title_table_ecv">13,3-42,5</td>
+        <td class="title_table_ecv">910-1190</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">680</td>
+        <td class="title_table_ecv">30</td>
+        <td class="title_table_ecv">подбор</td>
+        <td class="title_table_ecv">14,3-46,1</td>
+        <td class="title_table_ecv">1110-1400</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">750</td>
+        <td class="title_table_ecv">45</td>
+        <td class="title_table_ecv">подбор</td>
+        <td class="title_table_ecv">16,0-51,2</td>
+        <td class="title_table_ecv">1380-1710</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">820</td>
+        <td class="title_table_ecv">55</td>
+        <td class="title_table_ecv">подбор</td>
+        <td class="title_table_ecv">17,5-55,5</td>
+        <td class="title_table_ecv">1600-2010</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">880</td>
+        <td class="title_table_ecv">75</td>
+        <td class="title_table_ecv">подбор</td>
+        <td class="title_table_ecv">18,2-60,0</td>
+        <td class="title_table_ecv">1820-2480</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" rowspan="10">№10</td>
+        <td class="title_table_ecv" rowspan="10">5</td>
+        <td class="title_table_ecv">250</td>
+        <td class="title_table_ecv">5,5</td>
+        <td class="title_table_ecv">подбор</td>
+        <td class="title_table_ecv">10,4-34,1</td>
+        <td class="title_table_ecv">240-300</td>
+        <td class="title_table_ecv" rowspan="10">600 без эд</td>
+        <td class="title_table_ecv" rowspan="10">ДО-43</td>
+        <td class="title_table_ecv" rowspan="10">8</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">280</td>
+        <td class="title_table_ecv">7,5</td>
+        <td class="title_table_ecv">подбор</td>
+        <td class="title_table_ecv">11,7-37,1</td>
+        <td class="title_table_ecv">295-365</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">320</td>
+        <td class="title_table_ecv">11</td>
+        <td class="title_table_ecv">подбор</td>
+        <td class="title_table_ecv">13,5-42,1</td>
+        <td class="title_table_ecv">380-500</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">360</td>
+        <td class="title_table_ecv">15</td>
+        <td class="title_table_ecv">подбор</td>
+        <td class="title_table_ecv">14,8-48,1</td>
+        <td class="title_table_ecv">490-630</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">410</td>
+        <td class="title_table_ecv">22</td>
+        <td class="title_table_ecv">подбор</td>
+        <td class="title_table_ecv">16,8-55,1</td>
+        <td class="title_table_ecv">620-810</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">460</td>
+        <td class="title_table_ecv">30</td>
+        <td class="title_table_ecv">подбор</td>
+        <td class="title_table_ecv">19,1-60,2</td>
+        <td class="title_table_ecv">790-1040</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">520</td>
+        <td class="title_table_ecv">45</td>
+        <td class="title_table_ecv">подбор</td>
+        <td class="title_table_ecv">22,1-69,1</td>
+        <td class="title_table_ecv">1000-1280</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">570</td>
+        <td class="title_table_ecv">55</td>
+        <td class="title_table_ecv">подбор</td>
+        <td class="title_table_ecv">23,5-75,1</td>
+        <td class="title_table_ecv">1200-1600</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">630</td>
+        <td class="title_table_ecv">75</td>
+        <td class="title_table_ecv">подбор</td>
+        <td class="title_table_ecv">26,1-84,3</td>
+        <td class="title_table_ecv">1450-1950</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">700</td>
+        <td class="title_table_ecv">110</td>
+        <td class="title_table_ecv">подбор</td>
+        <td class="title_table_ecv">28,4-94,5</td>
+        <td class="title_table_ecv">1810-2420</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" rowspan="9">№12,5</td>
+        <td class="title_table_ecv" rowspan="9">5</td>
+        <td class="title_table_ecv">220</td>
+        <td class="title_table_ecv">11</td>
+        <td class="title_table_ecv">подбор</td>
+        <td class="title_table_ecv">18,1-58,1</td>
+        <td class="title_table_ecv">280-355</td>
+        <td class="title_table_ecv" rowspan="9">750 без эд</td>
+        <td class="title_table_ecv" rowspan="9">ДО-43</td>
+        <td class="title_table_ecv" rowspan="9">10</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">240</td>
+        <td class="title_table_ecv">15</td>
+        <td class="title_table_ecv">подбор</td>
+        <td class="title_table_ecv">19,2-62,1</td>
+        <td class="title_table_ecv">340-440</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">270</td>
+        <td class="title_table_ecv">18,5</td>
+        <td class="title_table_ecv">подбор</td>
+        <td class="title_table_ecv">21,6-70,1</td>
+        <td class="title_table_ecv">425-535</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">300</td>
+        <td class="title_table_ecv">30</td>
+        <td class="title_table_ecv">подбор</td>
+        <td class="title_table_ecv">24,5-78,1</td>
+        <td class="title_table_ecv">525-690</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">330</td>
+        <td class="title_table_ecv">37</td>
+        <td class="title_table_ecv">подбор</td>
+        <td class="title_table_ecv">26,7-85,2</td>
+        <td class="title_table_ecv">640-800</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">360</td>
+        <td class="title_table_ecv">45</td>
+        <td class="title_table_ecv">подбор</td>
+        <td class="title_table_ecv">28,9-93,5</td>
+        <td class="title_table_ecv">760-940</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">400</td>
+        <td class="title_table_ecv">55</td>
+        <td class="title_table_ecv">подбор</td>
+        <td class="title_table_ecv">32,5-100,1</td>
+        <td class="title_table_ecv">930-1230</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">440</td>
+        <td class="title_table_ecv">75</td>
+        <td class="title_table_ecv">подбор</td>
+        <td class="title_table_ecv">36,1-111,5</td>
+        <td class="title_table_ecv">1150-1500</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">490</td>
+        <td class="title_table_ecv">110</td>
+        <td class="title_table_ecv">подбор</td>
+        <td class="title_table_ecv">40,0-127,5</td>
+        <td class="title_table_ecv">1400-1870</td>
+    </tr>
+    </tbody>
+</table>

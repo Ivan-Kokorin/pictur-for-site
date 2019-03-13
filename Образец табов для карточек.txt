@@ -1,0 +1,17 @@
+<div class="tabs">
+    <ul class="nav nav-tabs">
+        <li class="active"><a href="#specification" data-toggle="tab">Описание</a></li>
+        <li><a href="#construction" data-toggle="tab">Конструкция</a></li>
+    </ul>
+    <div class="tab-content">
+        <div class="tab-pane active" id="specification">
+            
+        </div>
+        <div class="tab-pane" id="construction">
+            
+        </div>
+    </div>
+</div>
+<div>
+    <h4 class="underline">Технические характеристики</h4>
+</div>

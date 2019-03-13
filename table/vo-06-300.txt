@@ -1,0 +1,116 @@
+<table style="width: 100%;" border="1" cellspacing="0" cellpadding="0"><colgroup><col width="80"> <col width="82"> <col span="5" width="64"> </colgroup>
+    <tbody>
+    <tr>
+        <td class="title_table_ecv" class="xl24" width="80" height="41">№ вентилятора</td>
+        <td class="title_table_ecv" class="xl24" width="82">Типоразмер двигателя</td>
+        <td class="title_table_ecv" class="xl24" width="64">Мощность двигателя, кВт</td>
+        <td class="title_table_ecv" class="xl24" width="64">Частота вращения, мин-1</td>
+        <td class="title_table_ecv" class="xl24" width="64">Производи-тельность 10?, м?/час</td>
+        <td class="title_table_ecv" class="xl24" width="64">Полное давление, Па</td>
+        <td class="title_table_ecv" class="xl24" width="64">Масса, кг</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl25" width="80" height="18">&nbsp;&nbsp;3,15</td>
+        <td class="title_table_ecv" class="xl25" width="82">АИР56В4</td>
+        <td class="title_table_ecv" class="xl25" width="64">0,18</td>
+        <td class="title_table_ecv" class="xl25" width="64">1500</td>
+        <td class="title_table_ecv" class="xl25" width="64">2,0-2,6</td>
+        <td class="title_table_ecv" class="xl25" width="64">50-12</td>
+        <td class="title_table_ecv" class="xl25" width="64">11,5</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl26" rowspan="3" width="80" height="54">&nbsp;&nbsp;4</td>
+        <td class="title_table_ecv" class="xl25" width="82">АИР56А4</td>
+        <td class="title_table_ecv" class="xl25" width="64">0,12</td>
+        <td class="title_table_ecv" class="xl25" width="64">1500</td>
+        <td class="title_table_ecv" class="xl25" width="64">2,0-3,2</td>
+        <td class="title_table_ecv" class="xl25" width="64">90-25</td>
+        <td class="title_table_ecv" class="xl25" width="64">13,5</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl25" width="82" height="18">АИР63А4</td>
+        <td class="title_table_ecv" class="xl25" width="64">0,25</td>
+        <td class="title_table_ecv" class="xl25" width="64">1500</td>
+        <td class="title_table_ecv" class="xl25" width="64">2,0-3,2</td>
+        <td class="title_table_ecv" class="xl25" width="64">90-25</td>
+        <td class="title_table_ecv" class="xl25" width="64">15,5</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl25" width="82" height="18">АИР71А2</td>
+        <td class="title_table_ecv" class="xl25" width="64">0,75</td>
+        <td class="title_table_ecv" class="xl25" width="64">3000</td>
+        <td class="title_table_ecv" class="xl25" width="64">4,1-6,8</td>
+        <td class="title_table_ecv" class="xl25" width="64">350-170</td>
+        <td class="title_table_ecv" class="xl25" width="64">18,5</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl26" rowspan="2" width="80" height="36">&nbsp;&nbsp;5</td>
+        <td class="title_table_ecv" class="xl25" width="82">АИР63В4</td>
+        <td class="title_table_ecv" class="xl25" width="64">0,37</td>
+        <td class="title_table_ecv" class="xl25" width="64">1500</td>
+        <td class="title_table_ecv" class="xl25" width="64">4,8-7,1</td>
+        <td class="title_table_ecv" class="xl25" width="64">128-62</td>
+        <td class="title_table_ecv" class="xl25" width="64">20,5</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl25" width="82" height="18">АИР71А4</td>
+        <td class="title_table_ecv" class="xl25" width="64">0,55</td>
+        <td class="title_table_ecv" class="xl25" width="64">1500</td>
+        <td class="title_table_ecv" class="xl25" width="64">4,8-7,1</td>
+        <td class="title_table_ecv" class="xl25" width="64">128-62</td>
+        <td class="title_table_ecv" class="xl25" width="64">22,5</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl26" rowspan="2" width="80" height="36">&nbsp;&nbsp;6,3</td>
+        <td class="title_table_ecv" class="xl25" width="82">АИР80А4</td>
+        <td class="title_table_ecv" class="xl25" width="64">1,1</td>
+        <td class="title_table_ecv" class="xl25" width="64">1500</td>
+        <td class="title_table_ecv" class="xl25" width="64">9,6-15,0</td>
+        <td class="title_table_ecv" class="xl25" width="64">213-110</td>
+        <td class="title_table_ecv" class="xl25" width="64">34,5</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl25" width="82" height="18">АИР80А6</td>
+        <td class="title_table_ecv" class="xl25" width="64">0,75</td>
+        <td class="title_table_ecv" class="xl25" width="64">1000</td>
+        <td class="title_table_ecv" class="xl25" width="64">5,0-10,0</td>
+        <td class="title_table_ecv" class="xl25" width="64">93-50</td>
+        <td class="title_table_ecv" class="xl25" width="64">35</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl26" rowspan="2" width="80" height="36">&nbsp;&nbsp;8</td>
+        <td class="title_table_ecv" class="xl25" width="82">4АМ80А6</td>
+        <td class="title_table_ecv" class="xl25" width="64">0,75</td>
+        <td class="title_table_ecv" class="xl25" width="64">1000</td>
+        <td class="title_table_ecv" class="xl25" width="64">13,9-18,3</td>
+        <td class="title_table_ecv" class="xl25" width="64">121-81</td>
+        <td class="title_table_ecv" class="xl25" width="64">60</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl25" width="82" height="18">4АМ100S4</td>
+        <td class="title_table_ecv" class="xl25" width="64">3</td>
+        <td class="title_table_ecv" class="xl25" width="64">1500</td>
+        <td class="title_table_ecv" class="xl25" width="64">21,4-28,2</td>
+        <td class="title_table_ecv" class="xl25" width="64">296-193</td>
+        <td class="title_table_ecv" class="xl25" width="64">75</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl25" width="80" height="18">&nbsp;&nbsp;10</td>
+        <td class="title_table_ecv" class="xl25" width="82">4АМ112МА6</td>
+        <td class="title_table_ecv" class="xl25" width="64">3</td>
+        <td class="title_table_ecv" class="xl25" width="64">1000</td>
+        <td class="title_table_ecv" class="xl25" width="64">28,0-36,9</td>
+        <td class="title_table_ecv" class="xl25" width="64">207-136</td>
+        <td class="title_table_ecv" class="xl25" width="64">105,5</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl25" width="80" height="18">&nbsp;&nbsp;12,5</td>
+        <td class="title_table_ecv" class="xl25" width="82">4АМ132S8</td>
+        <td class="title_table_ecv" class="xl25" width="64">7,5</td>
+        <td class="title_table_ecv" class="xl25" width="64">1000</td>
+        <td class="title_table_ecv" class="xl25" width="64">45,0-71,0</td>
+        <td class="title_table_ecv" class="xl25" width="64">230-330</td>
+        <td class="title_table_ecv" class="xl25" width="64">235</td>
+    </tr>
+    </tbody>
+</table>

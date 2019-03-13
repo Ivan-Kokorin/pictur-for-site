@@ -1,135 +1,308 @@
-<div class="item">
+<div>
 		<table class="suz">
-			<thead>
-				<tr>
-					<th rowspan="2">Станции управления к насосам ЭЦВ</th>					
-					<th rowspan="2">Номинальное напряжение, В</th>
-					<th rowspan="2">Частота, Гц</th>
-					<th colspan="2">Мощность управляемого двигателя, кВт </th>
-					<th rowspan="2">Максим-ый ток главной цепи, А (не более)</th>
-					<th colspan="2">Напряжение, В</th>
-					<th colspan="2">Время срабатывания защиты, сек. (не более)</th>					
-					<th rowspan="2">Время повторного включения, мин.</th>
-					<th rowspan="2">Степень защиты</th>
-					<th rowspan="2">Размеры, мм</th>
-					<th rowspan="2">Масса, кг (не более)</th>
-				</tr>
-				<tr>
-					<th>min</th>
-					<th>max</th>
-					<th>питания станции</th>
-					<th>цепи управ-ия</th>
-					<th>при обрыве фазы</th>
-					<th>перегрузка по току</th>
-				</tr>
-			</thead>
-			<tbody>
-				
-<tr>
-	<td style="min-width:80px;text-align:left">СУЗ-10 (однофазный)</td>
-	<td>220</td>
-	<td>50</td>
-	<td>1</td>
-	<td>3</td>
-	<td>10</td>
-	<td>220</td>
-	<td>12</td>
-	<td>3</td>
-	<td>75</td>
-	<td>30</td>
-	<td>IP21</td>
-	<td>320x330x160</td>
-	<td>10</td>
-</tr>
-					
-<tr>
-	<td style="min-width:80px;text-align:left">СУЗ 10</td>
-	<td>380</td>
-	<td>50</td>
-	<td>1</td>
-	<td>3</td>
-	<td>10</td>
-	<td>220</td>
-	<td>12</td>
-	<td>3</td>
-	<td>75</td>
-	<td>30</td>
-	<td>IP21</td>
-	<td>320x330x160</td>
-	<td>10</td>
-</tr>
-					
-<tr>
-	<td style="min-width:80px;text-align:left">СУЗ 25</td>
-	<td>380</td>
-	<td>50</td>
-	<td>2.2</td>
-	<td>11</td>
-	<td>25</td>
-	<td>220</td>
-	<td>12</td>
-	<td>3</td>
-	<td>75</td>
-	<td>30</td>
-	<td>IP21</td>
-	<td>320x330x160</td>
-	<td>10</td>
-</tr>
-					
-<tr>
-	<td style="min-width:80px;text-align:left">СУЗ 40</td>
-	<td>380</td>
-	<td>50</td>
-	<td>3</td>
-	<td>13</td>
-	<td>40</td>
-	<td>220</td>
-	<td>12</td>
-	<td>3</td>
-	<td>75</td>
-	<td>30</td>
-	<td>IP21</td>
-	<td>320x330x160</td>
-	<td>10</td>
-</tr>
-					
-<tr>
-	<td style="min-width:80px;text-align:left">СУЗ 100</td>
-	<td>380</td>
-	<td>50</td>
-	<td>13</td>
-	<td>45</td>
-	<td>100</td>
-	<td>220</td>
-	<td>12</td>
-	<td>3</td>
-	<td>75</td>
-	<td>30</td>
-	<td>IP21</td>
-	<td>505x460x250</td>
-	<td>24</td>
-</tr>
-					
-<tr>
-	<td style="min-width:80px;text-align:left">СУЗ 200</td>
-	<td>380</td>
-	<td>50</td>
-	<td>45</td>
-	<td>90</td>
-	<td>200</td>
-	<td>220</td>
-	<td>12</td>
-	<td>3</td>
-	<td>75</td>
-	<td>30</td>
-	<td>IP21</td>
-	<td>710x680x320</td>
-	<td>55</td>
-</tr>
-					
-			</tbody><tbody>
-		</tbody></table>
-		<div class="tehnicheskie_harakteristiki">
-			
-		</div>
+		<thead>
+		<tr>
+			<th rowspan="2" class="title_table_ecv">
+				Станции управления к насосам ЭЦВ
+			</th>
+			<th rowspan="2" class="title_table_ecv">
+				Номинальное напряжение, В
+			</th>
+			<th colspan="2" class="title_table_ecv">
+				Мощность управляемого двигателя, кВт
+			</th>
+			<th rowspan="2" class="title_table_ecv">
+				Максим-ый ток главной цепи, А (не более)
+			</th>
+			<th colspan="2" class="title_table_ecv">
+				Напряжение, В
+			</th>
+			<th colspan="2" class="title_table_ecv">
+				Время срабатывания защиты, сек. (не более)
+			</th>
+			<th rowspan="2" class="title_table_ecv">
+				Время повторного включения, мин.
+			</th>
+			<th rowspan="2" class="title_table_ecv">
+				Степень защиты
+			</th>
+			<th rowspan="2" class="title_table_ecv">
+				Размеры, мм
+			</th>
+			<th rowspan="2" class="title_table_ecv">
+				Масса, кг (не более)
+			</th>
+		</tr>
+		<tr>
+			<th class="title_table_ecv">
+				 min
+			</th>
+			<th class="title_table_ecv">
+				 max
+			</th>
+			<th class="title_table_ecv">
+				 питания станции
+			</th>
+			<th class="title_table_ecv">
+				 цепи управ-ия
+			</th>
+			<th class="title_table_ecv">
+				 при обрыве фазы
+			</th>
+			<th class="title_table_ecv">
+				 перегрузка по току
+			</th>
+		</tr>
+		</thead>
+		<tbody>
+		<tr>
+			<th class="title_table_ecv" style="min-width:80px;text-align:left">
+				СУЗ-10 (однофазный)
+			</th>
+			<th class="title_table_ecv">
+				220
+			</th>
+			<th class="title_table_ecv">
+				1
+			</th>
+			<th class="title_table_ecv">
+				3
+			</th>
+			<th class="title_table_ecv">
+				10
+			</th>
+			<th class="title_table_ecv">
+				220
+			</th>
+			<th class="title_table_ecv">
+				12
+			</th>
+			<th class="title_table_ecv">
+				3
+			</th>
+			<th class="title_table_ecv">
+				75
+			</th>
+			<th class="title_table_ecv">
+				30
+			</th>
+			<th class="title_table_ecv">
+				IP21
+			</th>
+			<th class="title_table_ecv">
+				320x330x160
+			</th>
+			<th class="title_table_ecv">
+				10
+			</th>
+		</tr>
+		<tr>
+			<th class="title_table_ecv" style="min-width:80px;text-align:left">
+				СУЗ 10
+			</th>
+			<th class="title_table_ecv">
+				380
+			</th>
+			<th class="title_table_ecv">
+				1
+			</th>
+			<th class="title_table_ecv">
+				3
+			</th>
+			<th class="title_table_ecv">
+				10
+			</th>
+			<th class="title_table_ecv">
+				220
+			</th>
+			<th class="title_table_ecv">
+				12
+			</th>
+			<th class="title_table_ecv">
+				3
+			</th>
+			<th class="title_table_ecv">
+				75
+			</th>
+			<th class="title_table_ecv">
+				30
+			</th>
+			<th class="title_table_ecv">
+				IP21
+			</th>
+			<th class="title_table_ecv">
+				320x330x160
+			</th>
+			<th class="title_table_ecv">
+				10
+			</th>
+		</tr>
+		<tr>
+			<th class="title_table_ecv" style="min-width:80px;text-align:left">
+				СУЗ 25
+			</th>
+			<th class="title_table_ecv">
+				380
+			</th>
+			<th class="title_table_ecv">
+				2.2
+			</th>
+			<th class="title_table_ecv">
+				11
+			</th>
+			<th class="title_table_ecv">
+				25
+			</th>
+			<th class="title_table_ecv">
+				220
+			</th>
+			<th class="title_table_ecv">
+				12
+			</th>
+			<th class="title_table_ecv">
+				3
+			</th>
+			<th class="title_table_ecv">
+				75
+			</th>
+			<th class="title_table_ecv">
+				30
+			</th>
+			<th class="title_table_ecv">
+				IP21
+			</th>
+			<th class="title_table_ecv">
+				320x330x160
+			</th>
+			<th class="title_table_ecv">
+				10
+			</th>
+		</tr>
+		<tr>
+			<th class="title_table_ecv" style="min-width:80px;text-align:left">
+				СУЗ 40
+			</th>
+			<th class="title_table_ecv">
+				380
+			</th>
+			<th class="title_table_ecv">
+				3
+			</th>
+			<th class="title_table_ecv">
+				13
+			</th>
+			<th class="title_table_ecv">
+				40
+			</th>
+			<th class="title_table_ecv">
+				220
+			</th>
+			<th class="title_table_ecv">
+				12
+			</th>
+			<th class="title_table_ecv">
+				3
+			</th>
+			<th class="title_table_ecv">
+				75
+			</th>
+			<th class="title_table_ecv">
+				30
+			</th>
+			<th class="title_table_ecv">
+				IP21
+			</th>
+			<th class="title_table_ecv">
+				320x330x160
+			</th>
+			<th class="title_table_ecv">
+				10
+			</th>
+		</tr>
+		<tr>
+			<th class="title_table_ecv" style="min-width:80px;text-align:left">
+				СУЗ 100
+			</th>
+			<th class="title_table_ecv">
+				380
+			</th>
+			<th class="title_table_ecv">
+				13
+			</th>
+			<th class="title_table_ecv">
+				45
+			</th>
+			<th class="title_table_ecv">
+				100
+			</th>
+			<th class="title_table_ecv">
+				220
+			</th>
+			<th class="title_table_ecv">
+				12
+			</th>
+			<th class="title_table_ecv">
+				3
+			</th>
+			<th class="title_table_ecv">
+				75
+			</th>
+			<th class="title_table_ecv">
+				30
+			</th>
+			<th class="title_table_ecv">
+				IP21
+			</th>
+			<th class="title_table_ecv">
+				505x460x250
+			</th>
+			<th class="title_table_ecv">
+				24
+			</th>
+		</tr>
+		<tr>
+			<th class="title_table_ecv" style="min-width:80px;text-align:left">
+				СУЗ 200
+			</th>
+			<th class="title_table_ecv">
+				380
+			</th>
+			<th class="title_table_ecv">
+				45
+			</th>
+			<th class="title_table_ecv">
+				90
+			</th>
+			<th class="title_table_ecv">
+				200
+			</th>
+			<th class="title_table_ecv">
+				220
+			</th>
+			<th class="title_table_ecv">
+				12
+			</th>
+			<th class="title_table_ecv">
+				3
+			</th>
+			<th class="title_table_ecv">
+				75
+			</th>
+			<th class="title_table_ecv">
+				30
+			</th>
+			<th class="title_table_ecv">
+				IP21
+			</th>
+			<th class="title_table_ecv">
+				710x680x320
+			</th>
+			<th class="title_table_ecv">
+				55
+			</th>
+		</tr>
+		</tbody>
+		<tbody>
+		</tbody>
+		</table>
 	</div>

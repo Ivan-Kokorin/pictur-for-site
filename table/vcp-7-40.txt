@@ -1,0 +1,780 @@
+<table style="width: 100%;" border="0" cellspacing="0" cellpadding="0"><colgroup><col width="89"> <col width="82"> <col width="79"> <col width="64"> <col width="84"> <col span="4" width="64"> </colgroup>
+    <tbody>
+    <tr>
+        <td class="title_table_ecv" class="xl33" rowspan="3" width="114"><strong>Вентиляторы ВЦП 7-40</strong></td>
+        <td class="title_table_ecv" class="xl31" colspan="3">Электродвигатель</td>
+        <td class="title_table_ecv" class="xl31" colspan="2">Параметры в рабочей зоне</td>
+        <td class="title_table_ecv" class="xl31" colspan="2">Виброизоляторы</td>
+        <td class="title_table_ecv" class="xl31" rowspan="3" width="70">Масса не более, кг</td>
+        <td class="title_table_ecv" class="xl31" rowspan="3" width="103">Объем вентилятора, V м<sup>3</sup></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl33" rowspan="2" width="94" height="51">Типоразмер</td>
+        <td class="title_table_ecv" class="xl33" rowspan="2" width="85">Мощность, кВт</td>
+        <td class="title_table_ecv" class="xl33" rowspan="2" width="114">Частота вращения, мин -1</td>
+        <td class="title_table_ecv" class="xl33" rowspan="2" width="161">Производительность, 10? х м?/сек</td>
+        <td class="title_table_ecv" class="xl24" width="111">Полное давление,</td>
+        <td class="title_table_ecv" class="xl24" rowspan="2" width="44">Тип</td>
+        <td class="title_table_ecv" class="xl24" rowspan="2" width="110">Кол-во</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl25" width="111" height="18">Па</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl28" rowspan="2" width="114"><strong>№2,5 схема 1</strong></td>
+        <td class="title_table_ecv" class="xl26" width="94" height="18">5А80МА2</td>
+        <td class="title_table_ecv" class="xl26" width="85">1,5</td>
+        <td class="title_table_ecv" class="xl26" width="114">2850</td>
+        <td class="title_table_ecv" class="xl26" width="161">0,73-1,4</td>
+        <td class="title_table_ecv" class="xl26" width="111">1130-1040</td>
+        <td class="title_table_ecv" class="xl26" width="44">ДО38</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;" width="110">4</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;" width="70">23</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;" rowspan="2" valign="middle">1,2</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl26" width="94" height="18">5А80МВ2</td>
+        <td class="title_table_ecv" class="xl26" width="85">2,2</td>
+        <td class="title_table_ecv" class="xl26" width="114">2850</td>
+        <td class="title_table_ecv" class="xl26" width="161">0,73-1,5</td>
+        <td class="title_table_ecv" class="xl26" width="111">1130-860</td>
+        <td class="title_table_ecv" class="xl26" width="44">ДО38</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;" width="110">4</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;" width="70">24,5</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl28" rowspan="3" height="36"><strong>№3,15 схема 1</strong></td>
+        <td class="title_table_ecv" class="xl26">5А80МВ2</td>
+        <td class="title_table_ecv" class="xl26">2,2</td>
+        <td class="title_table_ecv" class="xl26">2800</td>
+        <td class="title_table_ecv" class="xl26">1,53-2,8</td>
+        <td class="title_table_ecv" class="xl26">1790-1650</td>
+        <td class="title_table_ecv" class="xl26">ДО38</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">4</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">36</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;" rowspan="3">1,8</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl26" height="18">АИР90L2</td>
+        <td class="title_table_ecv" class="xl26">3</td>
+        <td class="title_table_ecv" class="xl26">3000</td>
+        <td class="title_table_ecv" class="xl26">1,53-3,3</td>
+        <td class="title_table_ecv" class="xl26">1790-1150</td>
+        <td class="title_table_ecv" class="xl26">ДО38</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">4</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">37</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl26" width="94">АИР100S2</td>
+        <td class="title_table_ecv" class="xl26" width="85">4</td>
+        <td class="title_table_ecv" class="xl26" width="114">2850</td>
+        <td class="title_table_ecv" class="xl26" width="161">1,53-3,3</td>
+        <td class="title_table_ecv" class="xl26" width="111">1790-1150</td>
+        <td class="title_table_ecv" class="xl26" width="44">ДО38</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;" width="110">4</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;" width="70">38</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl28" rowspan="3" width="114"><strong>№4 схема 1</strong></td>
+        <td class="title_table_ecv" class="xl26" width="94" height="18">АИР100S2</td>
+        <td class="title_table_ecv" class="xl26" width="85">4</td>
+        <td class="title_table_ecv" class="xl26" width="114">2870</td>
+        <td class="title_table_ecv" class="xl26" width="161">2,5-4,9</td>
+        <td class="title_table_ecv" class="xl26" width="111">2790-2700</td>
+        <td class="title_table_ecv" class="xl26" width="44">ДО39</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;" width="110">4</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;" width="70">54</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;" rowspan="3" valign="top">2,2</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl26" width="94" height="18">АИР100L2</td>
+        <td class="title_table_ecv" class="xl26" width="85">5,5</td>
+        <td class="title_table_ecv" class="xl26" width="114">2870</td>
+        <td class="title_table_ecv" class="xl26" width="161">2,5-6,2</td>
+        <td class="title_table_ecv" class="xl26" width="111">2790-1650</td>
+        <td class="title_table_ecv" class="xl26" width="44">ДО39</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;" width="110">4</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;" width="70">70,5</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl26" height="18">АИР112М2</td>
+        <td class="title_table_ecv" class="xl26">7,5</td>
+        <td class="title_table_ecv" class="xl26">3000</td>
+        <td class="title_table_ecv" class="xl26">2,5-6,2</td>
+        <td class="title_table_ecv" class="xl26">2790-1650</td>
+        <td class="title_table_ecv" class="xl26">ДО39</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">4</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">81</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl27" rowspan="5"><strong>№5 схема 1</strong></td>
+        <td class="title_table_ecv" class="xl26" height="18">АИР112МА6</td>
+        <td class="title_table_ecv" class="xl26">3</td>
+        <td class="title_table_ecv" class="xl26">1000</td>
+        <td class="title_table_ecv" class="xl26">2,2-5,0</td>
+        <td class="title_table_ecv" class="xl26">1020-780</td>
+        <td class="title_table_ecv" class="xl26">ДО40</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">4</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">120</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;" rowspan="5" valign="top">3,8</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl26" height="18">АИР112М4</td>
+        <td class="title_table_ecv" class="xl26">5,5</td>
+        <td class="title_table_ecv" class="xl26">1450</td>
+        <td class="title_table_ecv" class="xl26">2,2-5,0</td>
+        <td class="title_table_ecv" class="xl26">1020-780</td>
+        <td class="title_table_ecv" class="xl26">ДО40</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">4</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">165</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl26" height="18">АИР132S4</td>
+        <td class="title_table_ecv" class="xl26">7,5</td>
+        <td class="title_table_ecv" class="xl26">1500</td>
+        <td class="title_table_ecv" class="xl26">2,2-5,2</td>
+        <td class="title_table_ecv" class="xl26">1020-780</td>
+        <td class="title_table_ecv" class="xl26">ДО40</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">4</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">182</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl26" height="18">АИР132М4</td>
+        <td class="title_table_ecv" class="xl26">11</td>
+        <td class="title_table_ecv" class="xl26">1500</td>
+        <td class="title_table_ecv" class="xl26">2,2-5,2</td>
+        <td class="title_table_ecv" class="xl26">1020-780</td>
+        <td class="title_table_ecv" class="xl26">ДО40</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">4</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">220</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl26" width="94" height="18">АИР160S4</td>
+        <td class="title_table_ecv" class="xl26" width="85">15</td>
+        <td class="title_table_ecv" class="xl26" width="114">1500</td>
+        <td class="title_table_ecv" class="xl26" width="161">2,2-5,2</td>
+        <td class="title_table_ecv" class="xl26" width="111">1020-780</td>
+        <td class="title_table_ecv" class="xl26" width="44">ДО40</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;" width="110">4</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;" width="70">280</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl27" rowspan="17"><strong>№5 схема 5 </strong></td>
+        <td class="title_table_ecv" class="xl26" height="18">АИР112М4</td>
+        <td class="title_table_ecv" class="xl26">5,5</td>
+        <td class="title_table_ecv" class="xl26">1620</td>
+        <td class="title_table_ecv" class="xl26">2,4-5,5</td>
+        <td class="title_table_ecv" class="xl26">1280-970</td>
+        <td class="title_table_ecv" class="xl26">ДО42</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">6</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">351</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;" rowspan="17" valign="top">3,8</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl26" height="18">АИР112М4</td>
+        <td class="title_table_ecv" class="xl26">5,5</td>
+        <td class="title_table_ecv" class="xl26">1810</td>
+        <td class="title_table_ecv" class="xl26">2,7-6,2</td>
+        <td class="title_table_ecv" class="xl26">1600-1220</td>
+        <td class="title_table_ecv" class="xl26">ДО42</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">6</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">360</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl26" height="18">АИР112М4</td>
+        <td class="title_table_ecv" class="xl26">5,5</td>
+        <td class="title_table_ecv" class="xl26">2030</td>
+        <td class="title_table_ecv" class="xl26">3,0-5,2</td>
+        <td class="title_table_ecv" class="xl26">2000-1840</td>
+        <td class="title_table_ecv" class="xl26">ДО42</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">6</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">362</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl26" height="18">АИР132S4</td>
+        <td class="title_table_ecv" class="xl26">7,5</td>
+        <td class="title_table_ecv" class="xl26">1631</td>
+        <td class="title_table_ecv" class="xl26">3,0-7,3</td>
+        <td class="title_table_ecv" class="xl26">2000-1600</td>
+        <td class="title_table_ecv" class="xl26">ДО42</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">6</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">366</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl26" height="18">АИР132S4</td>
+        <td class="title_table_ecv" class="xl26">7,5</td>
+        <td class="title_table_ecv" class="xl26">1813</td>
+        <td class="title_table_ecv" class="xl26">3,0-7,3</td>
+        <td class="title_table_ecv" class="xl26">2000-1600</td>
+        <td class="title_table_ecv" class="xl26">ДО42</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">6</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">368</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl26" height="18">АИР132S4</td>
+        <td class="title_table_ecv" class="xl26">7.5</td>
+        <td class="title_table_ecv" class="xl26">2030</td>
+        <td class="title_table_ecv" class="xl26">3,4-7.3</td>
+        <td class="title_table_ecv" class="xl26">2550-1600</td>
+        <td class="title_table_ecv" class="xl26">ДО42</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">6</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">387</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl26" height="18">АИР132S4</td>
+        <td class="title_table_ecv" class="xl26">7.5</td>
+        <td class="title_table_ecv" class="xl26">2285</td>
+        <td class="title_table_ecv" class="xl26">3,4-5.8</td>
+        <td class="title_table_ecv" class="xl26">2550-2350</td>
+        <td class="title_table_ecv" class="xl26">ДО42</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">6</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">389</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl26" height="18">АИР132M4</td>
+        <td class="title_table_ecv" class="xl26">11</td>
+        <td class="title_table_ecv" class="xl26">1637</td>
+        <td class="title_table_ecv" class="xl26">3,7-7.2</td>
+        <td class="title_table_ecv" class="xl26">3250-2700</td>
+        <td class="title_table_ecv" class="xl26">ДО42</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">6</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">393</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl26" width="94" height="18">АИР132М4</td>
+        <td class="title_table_ecv" class="xl26" width="85">11</td>
+        <td class="title_table_ecv" class="xl26" width="114">1819</td>
+        <td class="title_table_ecv" class="xl26" width="161">3,7-7,2</td>
+        <td class="title_table_ecv" class="xl26" width="111">3250-2700</td>
+        <td class="title_table_ecv" class="xl26" width="44">ДО42</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;" width="110">6</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;" width="70">395</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl26" width="94" height="18">АИР132М4</td>
+        <td class="title_table_ecv" class="xl26" width="85">11</td>
+        <td class="title_table_ecv" class="xl26" width="114">2037</td>
+        <td class="title_table_ecv" class="xl26" width="161">3,7-7,2</td>
+        <td class="title_table_ecv" class="xl26" width="111">3250-2700</td>
+        <td class="title_table_ecv" class="xl26" width="44">ДО42</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;" width="110">6</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;" width="70">398</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl26" width="94" height="18">АИР132М4</td>
+        <td class="title_table_ecv" class="xl26" width="85">11</td>
+        <td class="title_table_ecv" class="xl26" width="114">2285</td>
+        <td class="title_table_ecv" class="xl26" width="161">3,4-8,0</td>
+        <td class="title_table_ecv" class="xl26" width="111">2550-2000</td>
+        <td class="title_table_ecv" class="xl26" width="44">ДО42</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;" width="110">6</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;" width="70">411</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl26" width="94" height="18">АИР132M4</td>
+        <td class="title_table_ecv" class="xl26" width="85">11</td>
+        <td class="title_table_ecv" class="xl26" width="114">2575</td>
+        <td class="title_table_ecv" class="xl26" width="161">3,7-7,2</td>
+        <td class="title_table_ecv" class="xl26" width="111">3250-2700</td>
+        <td class="title_table_ecv" class="xl26" width="44">ДО42</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;" width="110">6</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;" width="70">422</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl26" width="94" height="18">АИР160S4</td>
+        <td class="title_table_ecv" class="xl26" width="85">15</td>
+        <td class="title_table_ecv" class="xl26" width="114">1611</td>
+        <td class="title_table_ecv" class="xl26" width="161">3,7-9,0</td>
+        <td class="title_table_ecv" class="xl26" width="111">3250-2450</td>
+        <td class="title_table_ecv" class="xl26" width="44">ДО42</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;" width="110">6</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;" width="70">430</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl26" width="94" height="18">АИР160S4</td>
+        <td class="title_table_ecv" class="xl26" width="85">15</td>
+        <td class="title_table_ecv" class="xl26" width="114">1812</td>
+        <td class="title_table_ecv" class="xl26" width="161">3,7-9,0</td>
+        <td class="title_table_ecv" class="xl26" width="111">3250-2450</td>
+        <td class="title_table_ecv" class="xl26" width="44">ДО42</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;" width="110">6</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;" width="70">432</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl26" width="94" height="18">АИР160S4</td>
+        <td class="title_table_ecv" class="xl26" width="85">15</td>
+        <td class="title_table_ecv" class="xl26" width="114">2030</td>
+        <td class="title_table_ecv" class="xl26" width="161">3,7-9,0</td>
+        <td class="title_table_ecv" class="xl26" width="111">3250-2450</td>
+        <td class="title_table_ecv" class="xl26" width="44">ДО42</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;" width="110">6</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;" width="70">434</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl26" width="94" height="18">АИР160S4</td>
+        <td class="title_table_ecv" class="xl26" width="85">15</td>
+        <td class="title_table_ecv" class="xl26" width="114">2256</td>
+        <td class="title_table_ecv" class="xl26" width="161">3,7-9,0</td>
+        <td class="title_table_ecv" class="xl26" width="111">3250-2450</td>
+        <td class="title_table_ecv" class="xl26" width="44">ДО42</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;" width="110">6</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;" width="70">438</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl26" height="18">АИР160S4</td>
+        <td class="title_table_ecv" class="xl26">15</td>
+        <td class="title_table_ecv" class="xl26">2575</td>
+        <td class="title_table_ecv" class="xl26">3,7-9,0</td>
+        <td class="title_table_ecv" class="xl26">3250-2450</td>
+        <td class="title_table_ecv" class="xl26">ДО42</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">6</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">476</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl27" rowspan="3"><strong>№6,3 схема 1</strong></td>
+        <td class="title_table_ecv" class="xl26" height="18">АИР132S4</td>
+        <td class="title_table_ecv" class="xl26">7,5</td>
+        <td class="title_table_ecv" class="xl26">1500</td>
+        <td class="title_table_ecv" class="xl26">5,7-9,4</td>
+        <td class="title_table_ecv" class="xl26">1690-1450</td>
+        <td class="title_table_ecv" class="xl26">ДО41</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">4</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">200</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;" rowspan="3" valign="top">3,6</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl26" height="18">АИР132М4</td>
+        <td class="title_table_ecv" class="xl26">11</td>
+        <td class="title_table_ecv" class="xl26">1450</td>
+        <td class="title_table_ecv" class="xl26">5,7-9,4</td>
+        <td class="title_table_ecv" class="xl26">1690-1450</td>
+        <td class="title_table_ecv" class="xl26">ДО41</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">4</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">245</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl26" width="94" height="18">АИР160S4</td>
+        <td class="title_table_ecv" class="xl26" width="85">15</td>
+        <td class="title_table_ecv" class="xl26" width="114">1500</td>
+        <td class="title_table_ecv" class="xl26" width="161">5,7-9,4</td>
+        <td class="title_table_ecv" class="xl26" width="111">1690-1450</td>
+        <td class="title_table_ecv" class="xl26" width="44">ДО41</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;" width="110">4</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;" width="70">285</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl28" rowspan="12"><strong>№6,3 схема 5</strong></td>
+        <td class="title_table_ecv" class="xl26" height="18">АИР132S4</td>
+        <td class="title_table_ecv" class="xl26">7,5</td>
+        <td class="title_table_ecv" class="xl26">1450</td>
+        <td class="title_table_ecv" class="xl26">6,3-10,5</td>
+        <td class="title_table_ecv" class="xl26">1690-1450</td>
+        <td class="title_table_ecv" class="xl26">ДО42</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">6</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">460</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;" rowspan="12" valign="top">5,1</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl26" height="18">АИР132S4</td>
+        <td class="title_table_ecv" class="xl26">7,5</td>
+        <td class="title_table_ecv" class="xl26">1624</td>
+        <td class="title_table_ecv" class="xl26">6,3-10,5</td>
+        <td class="title_table_ecv" class="xl26">1690-1450</td>
+        <td class="title_table_ecv" class="xl26">ДО42</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">6</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">460</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl26" height="18">АИР132M4</td>
+        <td class="title_table_ecv" class="xl26">11</td>
+        <td class="title_table_ecv" class="xl26">1615</td>
+        <td class="title_table_ecv" class="xl26">6,3-10,5</td>
+        <td class="title_table_ecv" class="xl26">2100-1800</td>
+        <td class="title_table_ecv" class="xl26">ДО42</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">6</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">492</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl26" height="18">АИР160S4</td>
+        <td class="title_table_ecv" class="xl26">15</td>
+        <td class="title_table_ecv" class="xl26">1624</td>
+        <td class="title_table_ecv" class="xl26">7,0-11,0</td>
+        <td class="title_table_ecv" class="xl26">2600-2300</td>
+        <td class="title_table_ecv" class="xl26">ДО42</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">6</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">510</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl26" height="18">АИР160S4</td>
+        <td class="title_table_ecv" class="xl26">15</td>
+        <td class="title_table_ecv" class="xl26">1810</td>
+        <td class="title_table_ecv" class="xl26">7,0-11,0</td>
+        <td class="title_table_ecv" class="xl26">2600-2300</td>
+        <td class="title_table_ecv" class="xl26">ДО42</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">6</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">541</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl26" width="94" height="18">АИР160M4</td>
+        <td class="title_table_ecv" class="xl26" width="85">18,5</td>
+        <td class="title_table_ecv" class="xl26" width="114">1810</td>
+        <td class="title_table_ecv" class="xl26" width="161">7,0-13,5</td>
+        <td class="title_table_ecv" class="xl26" width="111">2600-2100</td>
+        <td class="title_table_ecv" class="xl26" width="44">ДО42</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;" width="110">6</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;" width="70">554</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl26" width="94" height="18">АИР160M4</td>
+        <td class="title_table_ecv" class="xl26" width="85">18,5</td>
+        <td class="title_table_ecv" class="xl26" width="114">1624</td>
+        <td class="title_table_ecv" class="xl26" width="161">8,0-10,4</td>
+        <td class="title_table_ecv" class="xl26" width="111">3300-3100</td>
+        <td class="title_table_ecv" class="xl26" width="44">ДО42</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;" width="110">6</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;" width="70">560</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl26" width="94" height="18">АИР160M4</td>
+        <td class="title_table_ecv" class="xl26" width="85">18,5</td>
+        <td class="title_table_ecv" class="xl26" width="114">2040</td>
+        <td class="title_table_ecv" class="xl26" width="161">8,0-10,4</td>
+        <td class="title_table_ecv" class="xl26" width="111">3300-3100</td>
+        <td class="title_table_ecv" class="xl26" width="44">ДО42</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;" width="110">6</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;" width="70">582</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl26" width="94" height="18">АИР180S4</td>
+        <td class="title_table_ecv" class="xl26" width="85">22</td>
+        <td class="title_table_ecv" class="xl26" width="114">1641</td>
+        <td class="title_table_ecv" class="xl26" width="161">8,0-13,2</td>
+        <td class="title_table_ecv" class="xl26" width="111">3300-2900</td>
+        <td class="title_table_ecv" class="xl26" width="44">ДО42</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;" width="110">6</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;" width="70">560</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl26" width="94" height="18">АИР180S4</td>
+        <td class="title_table_ecv" class="xl26" width="85">22</td>
+        <td class="title_table_ecv" class="xl26" width="114">1831</td>
+        <td class="title_table_ecv" class="xl26" width="161">8,0-13,2</td>
+        <td class="title_table_ecv" class="xl26" width="111">3300-2900</td>
+        <td class="title_table_ecv" class="xl26" width="44">ДО42</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;" width="110">6</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;" width="70">562</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl26" height="18">АИР180S4</td>
+        <td class="title_table_ecv" class="xl26">22</td>
+        <td class="title_table_ecv" class="xl26">2040</td>
+        <td class="title_table_ecv" class="xl26">8,0-13,2</td>
+        <td class="title_table_ecv" class="xl26">3300-2900</td>
+        <td class="title_table_ecv" class="xl26">ДО42</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">6</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">566</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl26" height="18">АИР180S4</td>
+        <td class="title_table_ecv" class="xl26">22</td>
+        <td class="title_table_ecv" class="xl26">2271</td>
+        <td class="title_table_ecv" class="xl26">8,0-13,2</td>
+        <td class="title_table_ecv" class="xl26">3300-2900</td>
+        <td class="title_table_ecv" class="xl26">ДО42</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">6</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">570</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl27" rowspan="4"><strong>№8 схема 1</strong></td>
+        <td class="title_table_ecv" class="xl26" height="18">АИР160M4</td>
+        <td class="title_table_ecv" class="xl26">18,5</td>
+        <td class="title_table_ecv" class="xl26">1450</td>
+        <td class="title_table_ecv" class="xl26">8,0-16,0</td>
+        <td class="title_table_ecv" class="xl26">2600-2200</td>
+        <td class="title_table_ecv" class="xl26">ДО43</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">4</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">427</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;" rowspan="4" valign="top">2,2</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl26" height="18">АИР180S4</td>
+        <td class="title_table_ecv" class="xl26">22</td>
+        <td class="title_table_ecv" class="xl26">1500</td>
+        <td class="title_table_ecv" class="xl26">8,0-16,0</td>
+        <td class="title_table_ecv" class="xl26">2600-2200</td>
+        <td class="title_table_ecv" class="xl26">ДО43</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">4</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">427</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl26" height="18">АИР180M4</td>
+        <td class="title_table_ecv" class="xl26">30</td>
+        <td class="title_table_ecv" class="xl26">1500</td>
+        <td class="title_table_ecv" class="xl26">8,0-16,0</td>
+        <td class="title_table_ecv" class="xl26">2600-2200</td>
+        <td class="title_table_ecv" class="xl26">ДО43</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">4</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">427</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl26" width="94" height="18">АИР200M4</td>
+        <td class="title_table_ecv" class="xl26" width="85">37</td>
+        <td class="title_table_ecv" class="xl26" width="114">1500</td>
+        <td class="title_table_ecv" class="xl26" width="161">8,0-16,0</td>
+        <td class="title_table_ecv" class="xl26" width="111">2600-2200</td>
+        <td class="title_table_ecv" class="xl26" width="44">ДО43</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;" width="110">4</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;" width="70">427</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl28" rowspan="16"><strong>№8 схема 5</strong></td>
+        <td class="title_table_ecv" class="xl26" height="18">АИР160M4</td>
+        <td class="title_table_ecv" class="xl26">18,5</td>
+        <td class="title_table_ecv" class="xl26">1310</td>
+        <td class="title_table_ecv" class="xl26">8,0-16,0</td>
+        <td class="title_table_ecv" class="xl26">2600-2200</td>
+        <td class="title_table_ecv" class="xl26">ДО43</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">6</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">700</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;" rowspan="16" valign="top">3,8</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl26" height="18">АИР160M4</td>
+        <td class="title_table_ecv" class="xl26">18,5</td>
+        <td class="title_table_ecv" class="xl26">1450</td>
+        <td class="title_table_ecv" class="xl26">8,0-16,0</td>
+        <td class="title_table_ecv" class="xl26">2600-2200</td>
+        <td class="title_table_ecv" class="xl26">ДО43</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">6</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">715</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl26" height="18">АИР180S4</td>
+        <td class="title_table_ecv" class="xl26">22</td>
+        <td class="title_table_ecv" class="xl26">1323</td>
+        <td class="title_table_ecv" class="xl26">8,7-14,0</td>
+        <td class="title_table_ecv" class="xl26">3200-2900</td>
+        <td class="title_table_ecv" class="xl26">ДО43</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">6</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">720</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl26" height="18">АИР180S4</td>
+        <td class="title_table_ecv" class="xl26">22</td>
+        <td class="title_table_ecv" class="xl26">1450</td>
+        <td class="title_table_ecv" class="xl26">8,0-19,0</td>
+        <td class="title_table_ecv" class="xl26">2600-1950</td>
+        <td class="title_table_ecv" class="xl26">ДО43</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">6</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">733</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl26" height="18">АИР180S4</td>
+        <td class="title_table_ecv" class="xl26">22</td>
+        <td class="title_table_ecv" class="xl26">1615</td>
+        <td class="title_table_ecv" class="xl26">8,7-14,0</td>
+        <td class="title_table_ecv" class="xl26">3200-2900</td>
+        <td class="title_table_ecv" class="xl26">ДО43</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">6</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">729</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl26" height="18">АИР180М4</td>
+        <td class="title_table_ecv" class="xl26">30</td>
+        <td class="title_table_ecv" class="xl26">1328</td>
+        <td class="title_table_ecv" class="xl26">10,0-15,5</td>
+        <td class="title_table_ecv" class="xl26">4000-3600</td>
+        <td class="title_table_ecv" class="xl26">ДО43</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">6</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">740</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl26" height="18">АИР180M4</td>
+        <td class="title_table_ecv" class="xl26">30</td>
+        <td class="title_table_ecv" class="xl26">1615</td>
+        <td class="title_table_ecv" class="xl26">8,7-22,0</td>
+        <td class="title_table_ecv" class="xl26">3200-2450</td>
+        <td class="title_table_ecv" class="xl26">ДО43</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">6</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">744</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl26" height="18">АИР180M4</td>
+        <td class="title_table_ecv" class="xl26">30</td>
+        <td class="title_table_ecv" class="xl26">1810</td>
+        <td class="title_table_ecv" class="xl26">10,0-15,0</td>
+        <td class="title_table_ecv" class="xl26">4000-3600</td>
+        <td class="title_table_ecv" class="xl26">ДО43</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">6</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">758</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl26" height="18">АИР200M4</td>
+        <td class="title_table_ecv" class="xl26">37</td>
+        <td class="title_table_ecv" class="xl26">1323</td>
+        <td class="title_table_ecv" class="xl26">10,0-20,0</td>
+        <td class="title_table_ecv" class="xl26">4000-3400</td>
+        <td class="title_table_ecv" class="xl26">ДО43</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">6</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">780</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl26" height="18">АИР200M4</td>
+        <td class="title_table_ecv" class="xl26">37</td>
+        <td class="title_table_ecv" class="xl26">1470</td>
+        <td class="title_table_ecv" class="xl26">10,0-20,0</td>
+        <td class="title_table_ecv" class="xl26">4000-3400</td>
+        <td class="title_table_ecv" class="xl26">ДО43</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">6</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">786</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl26" height="18">АИР200M4</td>
+        <td class="title_table_ecv" class="xl26">37</td>
+        <td class="title_table_ecv" class="xl26">1615</td>
+        <td class="title_table_ecv" class="xl26">8,7-22,5</td>
+        <td class="title_table_ecv" class="xl26">3200-2350</td>
+        <td class="title_table_ecv" class="xl26">ДО43</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">6</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">837</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl26" height="18">АИР200M4</td>
+        <td class="title_table_ecv" class="xl26">37</td>
+        <td class="title_table_ecv" class="xl26">1810</td>
+        <td class="title_table_ecv" class="xl26">10,0-20,0</td>
+        <td class="title_table_ecv" class="xl26">4000-3400</td>
+        <td class="title_table_ecv" class="xl26">ДО43</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">6</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">844</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl26" height="18">АИР200L4</td>
+        <td class="title_table_ecv" class="xl26">45</td>
+        <td class="title_table_ecv" class="xl26">1328</td>
+        <td class="title_table_ecv" class="xl26">10,0-25,0</td>
+        <td class="title_table_ecv" class="xl26">4000-2900</td>
+        <td class="title_table_ecv" class="xl26">ДО43</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">6</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">860</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl26" height="18">АИР200L4</td>
+        <td class="title_table_ecv" class="xl26">45</td>
+        <td class="title_table_ecv" class="xl26">1470</td>
+        <td class="title_table_ecv" class="xl26">10,0-25,0</td>
+        <td class="title_table_ecv" class="xl26">4000-2900</td>
+        <td class="title_table_ecv" class="xl26">ДО43</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">6</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">865</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl26" height="18">АИР200L4</td>
+        <td class="title_table_ecv" class="xl26">45</td>
+        <td class="title_table_ecv" class="xl26">1638</td>
+        <td class="title_table_ecv" class="xl26">10,0-25,0</td>
+        <td class="title_table_ecv" class="xl26">4000-2900</td>
+        <td class="title_table_ecv" class="xl26">ДО43</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">6</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">870</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl26" height="18">АИР200L4</td>
+        <td class="title_table_ecv" class="xl26">45</td>
+        <td class="title_table_ecv" class="xl26">1810</td>
+        <td class="title_table_ecv" class="xl26">10,0-25,0</td>
+        <td class="title_table_ecv" class="xl26">4000-2900</td>
+        <td class="title_table_ecv" class="xl26">ДО43</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">6</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">884</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl28" rowspan="3" height="36"><strong>№10 схема 1</strong></td>
+        <td class="title_table_ecv" class="xl26">АИР160М8</td>
+        <td class="title_table_ecv" class="xl26">11</td>
+        <td class="title_table_ecv" class="xl26">750</td>
+        <td class="title_table_ecv" class="xl26">2,5-6,8</td>
+        <td class="title_table_ecv" class="xl26">1080-770</td>
+        <td class="title_table_ecv" class="xl26">ДО43</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">6</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">680</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;" rowspan="3">3,6</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl26" height="18">АИР200M6</td>
+        <td class="title_table_ecv" class="xl26">22</td>
+        <td class="title_table_ecv" class="xl26">1000</td>
+        <td class="title_table_ecv" class="xl26">3,4-9,0</td>
+        <td class="title_table_ecv" class="xl26">1990-1400</td>
+        <td class="title_table_ecv" class="xl26">ДО43</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">6</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">680</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl26">АИР200L6</td>
+        <td class="title_table_ecv" class="xl26">30</td>
+        <td class="title_table_ecv" class="xl26">1000</td>
+        <td class="title_table_ecv" class="xl26">3,4-9,2</td>
+        <td class="title_table_ecv" class="xl26">2000-1420</td>
+        <td class="title_table_ecv" class="xl26">ДО43</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">6</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">720</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl28"><strong>№10 схема 5 </strong></td>
+        <td class="title_table_ecv" class="xl26" height="18">АИР200L6</td>
+        <td class="title_table_ecv" class="xl26">30</td>
+        <td class="title_table_ecv" class="xl26">1080</td>
+        <td class="title_table_ecv" class="xl26">2,5-8,0</td>
+        <td class="title_table_ecv" class="xl26">1100-4400</td>
+        <td class="title_table_ecv" class="xl26">ДО43</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">6</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">1030</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;" valign="middle">5,1</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl28" rowspan="3" height="36"><strong>№12 схема 1</strong></td>
+        <td class="title_table_ecv" class="xl26">АИР225M8</td>
+        <td class="title_table_ecv" class="xl26">30</td>
+        <td class="title_table_ecv" class="xl26">750</td>
+        <td class="title_table_ecv" class="xl26">5,3-13,5</td>
+        <td class="title_table_ecv" class="xl26">1760-1250</td>
+        <td class="title_table_ecv" class="xl26">ДО43</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">6</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">985</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;" rowspan="3">6,8</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl26" height="18">АИР250M6</td>
+        <td class="title_table_ecv" class="xl26">55</td>
+        <td class="title_table_ecv" class="xl26">1000</td>
+        <td class="title_table_ecv" class="xl26">6,7-12,0</td>
+        <td class="title_table_ecv" class="xl26">3170-3000</td>
+        <td class="title_table_ecv" class="xl26">ДО43</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">6</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">1165</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl26">АИР180S4</td>
+        <td class="title_table_ecv" class="xl26">75</td>
+        <td class="title_table_ecv" class="xl26">1000</td>
+        <td class="title_table_ecv" class="xl26">6,7-18,0</td>
+        <td class="title_table_ecv" class="xl26">3170-2300</td>
+        <td class="title_table_ecv" class="xl26">ДО43</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">6</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">1415</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" class="xl28"><strong>№12 схема 5 </strong></td>
+        <td class="title_table_ecv" class="xl26" height="18">АИР250М6</td>
+        <td class="title_table_ecv" class="xl26">55</td>
+        <td class="title_table_ecv" class="xl26">1000</td>
+        <td class="title_table_ecv" class="xl26">5,0-12,0</td>
+        <td class="title_table_ecv" class="xl26">1800-3000</td>
+        <td class="title_table_ecv" class="xl26">ДО43</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">6</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;">1590</td>
+        <td class="title_table_ecv" class="xl26" style="text-align: center;" valign="middle">8,0</td>
+    </tr>
+    </tbody>
+</table>
