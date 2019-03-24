@@ -1,0 +1,284 @@
+<div class="text"><ul class="product"></ul><div>
+    <table style="width: 100%;" border="0" cellspacing="0" cellpadding="0"><colgroup><col width="154"> <col width="98"> <col width="98"> <col width="118"> <col width="118"> <col width="116"> <col width="97"> <col width="77"> </colgroup>
+        <tbody>
+        <tr>
+            <td class="title_table_ecv" class="xl29" width="154" height="70">Условное обозначение агрегата</td>
+            <td class="title_table_ecv" class="xl30" width="98">Площадь поверхности теплообмена, м?</td>
+            <td class="title_table_ecv" class="xl31" width="98">Площадь фронтального сечения для прохода воздуха, м?</td>
+            <td class="title_table_ecv" class="xl31" width="118">Про-ность по воздуху, м?/ч</td>
+            <td class="title_table_ecv" class="xl30" width="118">Про-ность по теплу, КВт</td>
+            <td class="title_table_ecv" class="xl30" width="116">Площадь сечения (среднее значение) для прохода теплоносителя, м?</td>
+            <td class="title_table_ecv" class="xl31" width="97">Число ходов по теплоносителю</td>
+            <td class="title_table_ecv" class="xl31" width="77">Масса, кг, не более</td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" class="xl24" width="154" height="18"><strong>калорифер&nbsp;КСк3-1</strong></td>
+            <td class="title_table_ecv" class="xl25" width="98">9,85</td>
+            <td class="title_table_ecv" class="xl26" width="98">0,197</td>
+            <td class="title_table_ecv" class="xl26" width="118">2000</td>
+            <td class="title_table_ecv" class="xl26" width="118">37</td>
+            <td class="title_table_ecv" class="xl26" width="116">0,00086</td>
+            <td class="title_table_ecv" class="xl26" style="text-align: center;" width="97">4</td>
+            <td class="title_table_ecv" class="xl26" width="77">25</td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" class="xl27" width="154" height="18"><strong>калорифер&nbsp;КСк3-2</strong></td>
+            <td class="title_table_ecv" class="xl26" width="98">12,14</td>
+            <td class="title_table_ecv" class="xl26" width="98">0,248</td>
+            <td class="title_table_ecv" class="xl26" width="118">2500</td>
+            <td class="title_table_ecv" class="xl26" width="118">47,4</td>
+            <td class="title_table_ecv" class="xl26" width="116">0,00086</td>
+            <td class="title_table_ecv" class="xl26" style="text-align: center;" width="97">4</td>
+            <td class="title_table_ecv" class="xl26" width="77">29</td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" class="xl27" width="154" height="18"><strong>калорифер&nbsp;КСк3-3</strong></td>
+            <td class="title_table_ecv" class="xl26" width="98">14,24</td>
+            <td class="title_table_ecv" class="xl26" width="98">0,295</td>
+            <td class="title_table_ecv" class="xl26" width="118">3150</td>
+            <td class="title_table_ecv" class="xl26" width="118">60</td>
+            <td class="title_table_ecv" class="xl26" width="116">0,00086</td>
+            <td class="title_table_ecv" class="xl26" style="text-align: center;" width="97">4</td>
+            <td class="title_table_ecv" class="xl26" width="77">33</td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" class="xl27" width="154" height="18"><strong>калорифер&nbsp;КСк3-4</strong></td>
+            <td class="title_table_ecv" class="xl26" width="98">16,71</td>
+            <td class="title_table_ecv" class="xl26" width="98">0,342</td>
+            <td class="title_table_ecv" class="xl26" width="118">4000</td>
+            <td class="title_table_ecv" class="xl26" width="118">75,4</td>
+            <td class="title_table_ecv" class="xl26" width="116">0,00086</td>
+            <td class="title_table_ecv" class="xl26" style="text-align: center;" width="97">4</td>
+            <td class="title_table_ecv" class="xl26" width="77">37</td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" class="xl27" width="154" height="18"><strong>калорифер&nbsp;КСк3-5</strong></td>
+            <td class="title_table_ecv" class="xl26" width="98">21,29</td>
+            <td class="title_table_ecv" class="xl26" width="98">0,437</td>
+            <td class="title_table_ecv" class="xl26" width="118">5000</td>
+            <td class="title_table_ecv" class="xl26" width="118">98,4</td>
+            <td class="title_table_ecv" class="xl26" width="116">0,00086</td>
+            <td class="title_table_ecv" class="xl26" style="text-align: center;" width="97">4</td>
+            <td class="title_table_ecv" class="xl26" width="77">45</td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" class="xl27" width="154" height="18"><strong>калорифер&nbsp;КСк3-6</strong></td>
+            <td class="title_table_ecv" class="xl26" width="98">13,26</td>
+            <td class="title_table_ecv" class="xl26" width="98">0,267</td>
+            <td class="title_table_ecv" class="xl26" width="118">2500</td>
+            <td class="title_table_ecv" class="xl26" width="118">50,7</td>
+            <td class="title_table_ecv" class="xl26" width="116">0,00077</td>
+            <td class="title_table_ecv" class="xl26" style="text-align: center;" width="97">6</td>
+            <td class="title_table_ecv" class="xl26" width="77">35</td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" class="xl27" width="154" height="18"><strong>калорифер&nbsp;КСк3-7</strong></td>
+            <td class="title_table_ecv" class="xl26" width="98">16,34</td>
+            <td class="title_table_ecv" class="xl26" width="98">0,329</td>
+            <td class="title_table_ecv" class="xl26" width="118">3150</td>
+            <td class="title_table_ecv" class="xl26" width="118">65,4</td>
+            <td class="title_table_ecv" class="xl26" width="116">0,00077</td>
+            <td class="title_table_ecv" class="xl26" style="text-align: center;" width="97">6</td>
+            <td class="title_table_ecv" class="xl26" width="77">40</td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" class="xl27" width="154" height="18"><strong>калорифер&nbsp;КСк3-8</strong></td>
+            <td class="title_table_ecv" class="xl26" width="98">19,42</td>
+            <td class="title_table_ecv" class="xl26" width="98">0,392</td>
+            <td class="title_table_ecv" class="xl26" width="118">4000</td>
+            <td class="title_table_ecv" class="xl26" width="118">83,2</td>
+            <td class="title_table_ecv" class="xl26" width="116">0,00077</td>
+            <td class="title_table_ecv" class="xl26" style="text-align: center;" width="97">6</td>
+            <td class="title_table_ecv" class="xl26" width="77">45</td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" class="xl27" width="154" height="18"><strong>калорифер&nbsp;КСк3-9</strong></td>
+            <td class="title_table_ecv" class="xl26" width="98">22,5</td>
+            <td class="title_table_ecv" class="xl26" width="98">0,455</td>
+            <td class="title_table_ecv" class="xl26" width="118">5000</td>
+            <td class="title_table_ecv" class="xl26" width="118">103,5</td>
+            <td class="title_table_ecv" class="xl26" width="116">0,00077</td>
+            <td class="title_table_ecv" class="xl26" style="text-align: center;" width="97">6</td>
+            <td class="title_table_ecv" class="xl26" width="77">50</td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" class="xl27" width="154" height="18"><strong>калорифер&nbsp;КСк3-10</strong></td>
+            <td class="title_table_ecv" class="xl26" width="98">28,66</td>
+            <td class="title_table_ecv" class="xl26" width="98">0,581</td>
+            <td class="title_table_ecv" class="xl26" width="118">6300</td>
+            <td class="title_table_ecv" class="xl26" width="118">135,6</td>
+            <td class="title_table_ecv" class="xl26" width="116">0,00077</td>
+            <td class="title_table_ecv" class="xl26" style="text-align: center;" width="97">6</td>
+            <td class="title_table_ecv" class="xl26" width="77">60</td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" class="xl28" width="154" height="18"><strong>калорифер&nbsp;КСк3-11</strong></td>
+            <td class="title_table_ecv" class="xl32" width="98">83,12</td>
+            <td class="title_table_ecv" class="xl32" width="98">1,66</td>
+            <td class="title_table_ecv" class="xl32" width="118">16000</td>
+            <td class="title_table_ecv" class="xl32" width="118">360</td>
+            <td class="title_table_ecv" class="xl32" width="116">0,00235</td>
+            <td class="title_table_ecv" class="xl32" style="text-align: center;" width="97">4</td>
+            <td class="title_table_ecv" class="xl32" width="77">155</td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" class="xl33" width="154" height="18"><strong>калорифер&nbsp;КСк3-12</strong></td>
+            <td class="title_table_ecv" class="xl32" width="98">125,27</td>
+            <td class="title_table_ecv" class="xl32" width="98">2,448</td>
+            <td class="title_table_ecv" class="xl32" width="118">25000</td>
+            <td class="title_table_ecv" class="xl32" width="118">556,7</td>
+            <td class="title_table_ecv" class="xl32" width="116">0,00235</td>
+            <td class="title_table_ecv" class="xl32" style="text-align: center;" width="97">4</td>
+            <td class="title_table_ecv" class="xl34" width="77">230</td>
+        </tr>
+        </tbody>
+    </table>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p><strong>Технические характеристики калориферов КСк4</strong></p>
+    <p>&nbsp;</p>
+    <table style="width: 100%;" border="0" cellspacing="0" cellpadding="0"><colgroup><col width="154"> <col width="98"> <col width="98"> <col width="118"> <col width="118"> <col width="116"> <col width="97"> <col width="77"> </colgroup>
+        <tbody>
+        <tr>
+            <td class="title_table_ecv" class="xl32" width="154" height="70">Условное обозначение агрегата</td>
+            <td class="title_table_ecv" class="xl33" width="98">Площадь поверхности теплообмена, м<span><sup>2</sup></span></td>
+            <td class="title_table_ecv" class="xl34" width="98">Площадь фронтального сечения для прохода воздуха, м<span><sup>2</sup></span></td>
+            <td class="title_table_ecv" class="xl34" width="118">Про-ность по воздуху, м<span><sup>3</sup></span><span>/ч</span></td>
+            <td class="title_table_ecv" class="xl35" width="118">Про-ность по теплу, КВт</td>
+            <td class="title_table_ecv" class="xl35" width="116">Площадь сечения (среднее значение) для прохода теплоносителя, м<span><sup>2</sup></span></td>
+            <td class="title_table_ecv" class="xl36" width="97">Число ходов по теплоносителю</td>
+            <td class="title_table_ecv" class="xl34" width="77">Масса, кг, не более</td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" class="xl27" width="154" height="18"><strong>калорифер&nbsp;КСк4-1</strong></td>
+            <td class="title_table_ecv" class="xl37">12,88</td>
+            <td class="title_table_ecv" class="xl24" width="98">0,197</td>
+            <td class="title_table_ecv" class="xl24" width="118">2000</td>
+            <td class="title_table_ecv" class="xl28">43,4</td>
+            <td class="title_table_ecv" class="xl28">0,00113</td>
+            <td class="title_table_ecv" class="xl29">4</td>
+            <td class="title_table_ecv" class="xl24" width="77">30</td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" class="xl25" width="154" height="18"><strong>калорифер&nbsp;КСк4-2</strong></td>
+            <td class="title_table_ecv" class="xl28">15,87</td>
+            <td class="title_table_ecv" class="xl24" width="98">0,248</td>
+            <td class="title_table_ecv" class="xl24" width="118">2500</td>
+            <td class="title_table_ecv" class="xl28">58,5</td>
+            <td class="title_table_ecv" class="xl28">0,00113</td>
+            <td class="title_table_ecv" class="xl29">4</td>
+            <td class="title_table_ecv" class="xl24" width="77">35</td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" class="xl25" width="154" height="18"><strong>калорифер&nbsp;КСк4-3</strong></td>
+            <td class="title_table_ecv" class="xl28">18,86</td>
+            <td class="title_table_ecv" class="xl24" width="98">0,295</td>
+            <td class="title_table_ecv" class="xl24" width="118">3150</td>
+            <td class="title_table_ecv" class="xl28">70,4</td>
+            <td class="title_table_ecv" class="xl28">0,00113</td>
+            <td class="title_table_ecv" class="xl29">4</td>
+            <td class="title_table_ecv" class="xl24" width="77">40</td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" class="xl25" width="154" height="18"><strong>калорифер&nbsp;КСк4-4</strong></td>
+            <td class="title_table_ecv" class="xl28">21,8</td>
+            <td class="title_table_ecv" class="xl24" width="98">0,342</td>
+            <td class="title_table_ecv" class="xl24" width="118">4000</td>
+            <td class="title_table_ecv" class="xl28">88,7</td>
+            <td class="title_table_ecv" class="xl28">0,00113</td>
+            <td class="title_table_ecv" class="xl29">4</td>
+            <td class="title_table_ecv" class="xl24" width="77">45</td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" class="xl25" width="154" height="18"><strong>калорифер&nbsp;КСк4-5</strong></td>
+            <td class="title_table_ecv" class="xl28">27,84</td>
+            <td class="title_table_ecv" class="xl24" width="98">0,437</td>
+            <td class="title_table_ecv" class="xl24" width="118">5000</td>
+            <td class="title_table_ecv" class="xl28">115,2</td>
+            <td class="title_table_ecv" class="xl28">0,00113</td>
+            <td class="title_table_ecv" class="xl29">4</td>
+            <td class="title_table_ecv" class="xl24" width="77">55</td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" class="xl25" width="154" height="18"><strong>калорифер&nbsp;КСк4-6</strong></td>
+            <td class="title_table_ecv" class="xl28">17,42</td>
+            <td class="title_table_ecv" class="xl24" width="98">0,267</td>
+            <td class="title_table_ecv" class="xl24" width="118">2500</td>
+            <td class="title_table_ecv" class="xl28">59,1</td>
+            <td class="title_table_ecv" class="xl28">0,00102</td>
+            <td class="title_table_ecv" class="xl28">6</td>
+            <td class="title_table_ecv" class="xl24" width="77">40</td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" class="xl25" width="154" height="18"><strong>калорифер&nbsp;КСк4-7</strong></td>
+            <td class="title_table_ecv" class="xl28">21,47</td>
+            <td class="title_table_ecv" class="xl24" width="98">0,329</td>
+            <td class="title_table_ecv" class="xl24" width="118">3150</td>
+            <td class="title_table_ecv" class="xl28">76,1</td>
+            <td class="title_table_ecv" class="xl28">0,00102</td>
+            <td class="title_table_ecv" class="xl28">6</td>
+            <td class="title_table_ecv" class="xl24" width="77">45</td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" class="xl25" width="154" height="18"><strong>калорифер&nbsp;КСк4-8</strong></td>
+            <td class="title_table_ecv" class="xl28">25,52</td>
+            <td class="title_table_ecv" class="xl24" width="98">0,392</td>
+            <td class="title_table_ecv" class="xl24" width="118">4000</td>
+            <td class="title_table_ecv" class="xl28">97</td>
+            <td class="title_table_ecv" class="xl28">0,00102</td>
+            <td class="title_table_ecv" class="xl28">6</td>
+            <td class="title_table_ecv" class="xl24" width="77">50</td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" class="xl25" width="154" height="18"><strong>калорифер&nbsp;КСк4-9</strong></td>
+            <td class="title_table_ecv" class="xl28">29,57</td>
+            <td class="title_table_ecv" class="xl24" width="98">0,455</td>
+            <td class="title_table_ecv" class="xl24" width="118">5000</td>
+            <td class="title_table_ecv" class="xl28">120,9</td>
+            <td class="title_table_ecv" class="xl28">0,00102</td>
+            <td class="title_table_ecv" class="xl28">6</td>
+            <td class="title_table_ecv" class="xl24" width="77">60</td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" class="xl25" width="154" height="18"><strong>калорифер&nbsp;КСк4-10</strong></td>
+            <td class="title_table_ecv" class="xl28">37,66</td>
+            <td class="title_table_ecv" class="xl24" width="98">0,581</td>
+            <td class="title_table_ecv" class="xl24" width="118">6300</td>
+            <td class="title_table_ecv" class="xl28">157,6</td>
+            <td class="title_table_ecv" class="xl28">0,00102</td>
+            <td class="title_table_ecv" class="xl28">6</td>
+            <td class="title_table_ecv" class="xl24" width="77">75</td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" class="xl25" width="154" height="18"><strong>калорифер&nbsp;КСк4-11</strong></td>
+            <td class="title_table_ecv" class="xl28">110,05</td>
+            <td class="title_table_ecv" class="xl26" width="98">1,66</td>
+            <td class="title_table_ecv" class="xl26" width="118">16000</td>
+            <td class="title_table_ecv" class="xl28">417,7</td>
+            <td class="title_table_ecv" class="xl28">0,00312</td>
+            <td class="title_table_ecv" class="xl29">4</td>
+            <td class="title_table_ecv" class="xl24" width="77">200</td>
+        </tr>
+        <tr>
+            <td class="title_table_ecv" class="xl30" width="154" height="18"><strong>калорифер&nbsp;КСк4-12</strong></td>
+            <td class="title_table_ecv" class="xl28">166,25</td>
+            <td class="title_table_ecv" class="xl31" width="98">2,448</td>
+            <td class="title_table_ecv" class="xl31" width="118">25000</td>
+            <td class="title_table_ecv" class="xl28">648,4</td>
+            <td class="title_table_ecv" class="xl28">0,00471</td>
+            <td class="title_table_ecv" class="xl29">4</td>
+            <td class="title_table_ecv" class="xl28">290</td>
+        </tr>
+        </tbody>
+    </table>
+    <p>&nbsp;</p>
+    <p style="text-align: justify;">Водяные калориферы серии КСК предназначены для установки в вентиляционные воздуховоды прямоугольного сечения. Для удобства монтажа с двух фронтальных поверхностей калориферов предусмотрены фланцы, одновременно выполняющие функцию ребер жесткости. Все типоразмеры калориферов унифицированы со стандартизированными размерами воздуховодов. Типоразмеры оборудования отличаются между собой габаритными размерами, объемами циркулируемого теплоносителя и производительностью по воздуху.</p>
+    <p style="text-align: justify;">На монтажных фланцах выполнены разоваленные отверстия размерами 12х16 мм под стандартное болтовое соединение. То есть, любой водяной калорифер независимо от типоразмера (например, КСК3-1 или калорифер КСК4-12) монтируется одним и тем же инструментом без применения специальных приспособлений. Стандартный шаг между отверстиями – 125 мм, но само количество отверстий изменяется в зависимости от типоразмера водяного калорифера.</p>
+    <p style="text-align: justify;">Минимальные и максимальные присоединительные размеры оборудования по ширине составляют:</p>
+    <p style="text-align: justify;">- 578±3 мм для моделей калориферов КСК3-1 и КСК4-1;<br>- 1701±3 мм для водяных калориферов КСК3-12 КСК4-12.</p>
+    <p style="text-align: justify;">При подключении обогревателей следует учитывать размер входного и выходного патрубков для подачи теплоносителя, так, например, для калориферов КСК3-1 – КСК4-10 диаметры присоединительных патрубков составляют 32 мм, а для калориферов КСК3-11 – КСК 4-12 – 50 мм.</p>
+    <p style="text-align: justify;">Калориферы водяные выпускаются в двух исполнениях по количеству рядов трубчатых нагревателей:</p>
+    <p style="text-align: justify;">- трехрядные (калориферы КСК3);<br>- четырехрядные (калориферы КСК4).</p>
+    <p style="text-align: justify;">&nbsp;</p>
+    </div></div>

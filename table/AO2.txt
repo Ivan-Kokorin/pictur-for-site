@@ -1,0 +1,122 @@
+<tbody>
+<tr>
+    <td class="title_table_ecv" class="xl26" width="270" height="18">Параметры</td>
+    <td class="title_table_ecv" class="xl25" width="62">АО2-3</td>
+    <td class="title_table_ecv" class="xl25" width="60">АО2-4</td>
+    <td class="title_table_ecv" class="xl25" width="58">АО2-6,3</td>
+    <td class="title_table_ecv" class="xl25" width="61">АО2-10</td>
+    <td class="title_table_ecv" class="xl25" width="61">АО2-20</td>
+    <td class="title_table_ecv" class="xl25" width="62">АО2-25</td>
+    <td class="title_table_ecv" class="xl25" width="54">АО2-50</td>
+</tr>
+<tr>
+    <td class="title_table_ecv" class="xl22" width="270" height="21">Производительность по воздуху, м?/ч</td>
+    <td class="title_table_ecv" class="xl23" width="62">2600</td>
+    <td class="title_table_ecv" class="xl23" width="60">4000</td>
+    <td class="title_table_ecv" class="xl23" width="58">6300</td>
+    <td class="title_table_ecv" class="xl23" width="61">10000</td>
+    <td class="title_table_ecv" class="xl23" width="61">20000</td>
+    <td class="title_table_ecv" class="xl23" width="62">25000</td>
+    <td class="title_table_ecv" class="xl23" width="54">60000</td>
+</tr>
+<tr>
+    <td class="title_table_ecv" class="xl22" width="270" height="18">Производительность по теплу, кВт</td>
+    <td class="title_table_ecv" class="xl23" width="62">24</td>
+    <td class="title_table_ecv" class="xl23" width="60">46</td>
+    <td class="title_table_ecv" class="xl23" width="58">73</td>
+    <td class="title_table_ecv" class="xl23" width="61">116</td>
+    <td class="title_table_ecv" class="xl23" width="61">220</td>
+    <td class="title_table_ecv" class="xl23" width="62">306</td>
+    <td class="title_table_ecv" class="xl23" width="54">900</td>
+</tr>
+<tr>
+    <td class="title_table_ecv" class="xl22" width="270" height="22">Температура теплоносителя на входе, °С</td>
+    <td class="title_table_ecv" class="xl23" width="62">150/70</td>
+    <td class="title_table_ecv" class="xl23" width="60">150/70</td>
+    <td class="title_table_ecv" class="xl23" width="58">150/70</td>
+    <td class="title_table_ecv" class="xl23" width="61">150/70</td>
+    <td class="title_table_ecv" class="xl23" width="61">150/70</td>
+    <td class="title_table_ecv" class="xl23" width="62">150/70</td>
+    <td class="title_table_ecv" class="xl23" width="54">150</td>
+</tr>
+<tr>
+    <td class="title_table_ecv" class="xl22" width="270" height="18">Установочная мощность, кВт</td>
+    <td class="title_table_ecv" class="xl23" width="62">0,25</td>
+    <td class="title_table_ecv" class="xl23" width="60">0,37</td>
+    <td class="title_table_ecv" class="xl23" width="58">0,55</td>
+    <td class="title_table_ecv" class="xl23" width="61">0,75</td>
+    <td class="title_table_ecv" class="xl23" width="61">2,2</td>
+    <td class="title_table_ecv" class="xl23" width="62">2,2</td>
+    <td class="title_table_ecv" class="xl23" width="54">7,5</td>
+</tr>
+<tr>
+    <td class="title_table_ecv" class="xl22" width="270" height="21">Сечение для прохода теплоносителя, м?</td>
+    <td class="title_table_ecv" class="xl23" width="62">0,00079</td>
+    <td class="title_table_ecv" class="xl23" width="60">0,00102</td>
+    <td class="title_table_ecv" class="xl23" width="58">0,00113</td>
+    <td class="title_table_ecv" class="xl23" width="61">0,00147</td>
+    <td class="title_table_ecv" class="xl23" width="61">0,00203</td>
+    <td class="title_table_ecv" class="xl23" width="62">0,00249</td>
+    <td class="title_table_ecv" class="xl23" width="54">-</td>
+</tr>
+<tr>
+    <td class="title_table_ecv" class="xl22" width="270" height="21">Сечение патрубка, м?</td>
+    <td class="title_table_ecv" class="xl23" width="62">0,00101</td>
+    <td class="title_table_ecv" class="xl23" width="60">0,00101</td>
+    <td class="title_table_ecv" class="xl23" width="58">0,00101</td>
+    <td class="title_table_ecv" class="xl23" width="61">0,00221</td>
+    <td class="title_table_ecv" class="xl23" width="61">0,00221</td>
+    <td class="title_table_ecv" class="xl23" width="62">0,00221</td>
+    <td class="title_table_ecv" class="xl23" width="54">-</td>
+</tr>
+<tr>
+    <td class="title_table_ecv" class="xl22" width="270" height="18">Диаметр патрубка, Ду</td>
+    <td class="title_table_ecv" class="xl23" width="62">32</td>
+    <td class="title_table_ecv" class="xl23" width="60">32</td>
+    <td class="title_table_ecv" class="xl23" width="58">32</td>
+    <td class="title_table_ecv" class="xl23" width="61">50</td>
+    <td class="title_table_ecv" class="xl23" width="61">50</td>
+    <td class="title_table_ecv" class="xl23" width="62">50</td>
+    <td class="title_table_ecv" class="xl23" width="54">-</td>
+</tr>
+<tr>
+    <td class="title_table_ecv" class="xl22" width="270" height="18">Число ходов</td>
+    <td class="title_table_ecv" class="xl23" width="62">4</td>
+    <td class="title_table_ecv" class="xl23" width="60">4</td>
+    <td class="title_table_ecv" class="xl23" width="58">4</td>
+    <td class="title_table_ecv" class="xl23" width="61">4</td>
+    <td class="title_table_ecv" class="xl23" width="61">4</td>
+    <td class="title_table_ecv" class="xl23" width="62">4</td>
+    <td class="title_table_ecv" class="xl23" width="54">4</td>
+</tr>
+<tr>
+    <td class="title_table_ecv" class="xl22" width="270" height="18">Число рядов</td>
+    <td class="title_table_ecv" class="xl23" width="62">3</td>
+    <td class="title_table_ecv" class="xl23" width="60">3</td>
+    <td class="title_table_ecv" class="xl23" width="58">3</td>
+    <td class="title_table_ecv" class="xl23" width="61">3</td>
+    <td class="title_table_ecv" class="xl23" width="61">3</td>
+    <td class="title_table_ecv" class="xl23" width="62">4</td>
+    <td class="title_table_ecv" class="xl23" width="54">4</td>
+</tr>
+<tr>
+    <td class="title_table_ecv" class="xl22" width="270" height="38">Расход воды, м?/ч, при скорости воды в трубках w=0,7?1,0 м/с</td>
+    <td class="title_table_ecv" class="xl24" width="62">1,9?2,7</td>
+    <td class="title_table_ecv" class="xl24" width="60">2,4?3,45</td>
+    <td class="title_table_ecv" class="xl24" width="58">2,4?3,45</td>
+    <td class="title_table_ecv" class="xl24" width="61">3,5?5,0</td>
+    <td class="title_table_ecv" class="xl24" width="61">4,9?6,9</td>
+    <td class="title_table_ecv" class="xl24" width="62">5,3?7,5</td>
+    <td class="title_table_ecv" class="xl24" width="54">-</td>
+</tr>
+<tr>
+    <td class="title_table_ecv" class="xl22" width="270" height="18">Масса, кг</td>
+    <td class="title_table_ecv" class="xl23" width="62">70</td>
+    <td class="title_table_ecv" class="xl23" width="60">95</td>
+    <td class="title_table_ecv" class="xl23" width="58">120</td>
+    <td class="title_table_ecv" class="xl23" width="61">160</td>
+    <td class="title_table_ecv" class="xl23" width="61">255</td>
+    <td class="title_table_ecv" class="xl23" width="62">280</td>
+    <td class="title_table_ecv" class="xl23" width="54">820</td>
+</tr>
+</tbody>

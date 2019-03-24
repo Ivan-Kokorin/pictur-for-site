@@ -1,0 +1,157 @@
+<div id="allEntries"><div id="entryID22">
+    <table>
+        <tbody><tr>
+            <td width="240">Koshin STH 80 X
+                <br><br>
+
+
+
+
+            </td>
+            <td><table><tbody><tr><td></td>
+                <td> Производительность: 900 л/мин (54 м?/час)<br>
+                    Давление: 26 метров<br>
+                    Высота подъема: 8 метров<br>
+                    Диаметры шлангов: 75/75 мм, 3/3 дюйма
+                    <br>
+                    Пропускаемые частицы:
+                    15 мм
+
+                </td></tr></tbody></table></td>
+        </tr>
+        </tbody></table>
+    <hr></div><div id="entryID21">
+    <table>
+        <tbody><tr>
+            <td width="240">Koshin STH 50 X
+                <br><br>
+
+
+
+
+            </td>
+            <td><table><tbody><tr><td></td>
+                <td> Производительность: 600 л/мин (36 м?/час)<br>
+                    Давление: 29 метров<br>
+                    Высота подъема: 8 метров<br>
+                    Диаметры шлангов: 50/50 мм, 2/2 дюйма
+                    <br>
+                    Пропускаемые частицы:
+                    15 мм
+
+                </td></tr></tbody></table></td>
+        </tr>
+        </tbody></table>
+    <hr></div><div id="entryID20">
+    <table>
+        <tbody><tr>
+            <td width="240">Koshin SEH 80 X
+                <br><br>
+
+
+
+
+            </td>
+            <td><table><tbody><tr><td></td>
+                <td> Производительность: 900 л/мин (54 м?/час)<br>
+                    Давление: 26 метров<br>
+                    Высота подъема: 8 метров<br>
+                    Диаметры шлангов: 80/80 мм
+                    <br>
+                    Пропускаемые частицы:
+                    15 мм
+
+                </td></tr></tbody></table></td>
+        </tr>
+        </tbody></table>
+    <hr></div><div id="entryID19">
+    <table>
+        <tbody><tr>
+            <td width="240">Koshin KTH 100 X
+                <br><br>
+
+
+
+
+            </td>
+            <td><table><tbody><tr><td></td>
+                <td> Производительность: 1600 л/мин (96 м?/час)<br>
+                    Давление: 25 метров<br>
+                    Высота подъема: 8 метров<br>
+                    Диаметры шлангов: 100/100 мм, 4/4 дюйма
+                    <br>
+                    Пропускаемые частицы:
+                    25 мм
+
+                </td></tr></tbody></table></td>
+        </tr>
+        </tbody></table>
+    <hr></div><div id="entryID18">
+    <table>
+        <tbody><tr>
+            <td width="240">Koshin KTH 50 X
+                <br><br>
+
+
+
+
+            </td>
+            <td><table>
+                <tbody>
+                <tr>
+                    <td></td>
+                    <td>Производительность: 700 л/мин (42 м?/час)<br>
+                        Давление: 30 метров<br>
+                        Высота подъема: 8 метров<br>
+                        Диаметры шлангов: 50/50 мм, 2/2 дюйма<br>
+                        Пропускаемые частицы: 25 мм</td>
+                </tr>
+                </tbody>
+            </table></td>
+        </tr>
+        </tbody></table>
+    <hr></div><div id="entryID17">
+    <table>
+        <tbody><tr>
+            <td width="240">Koshin SEH 50 X
+                <br><br>
+
+
+
+
+            </td>
+            <td><table><tbody><tr><td></td>
+                <td> Производительность: 600 л/мин (36 м?/час)<br>
+                    Давление: 29 метров<br>
+                    Высота подъема: 8 метров<br>
+                    Диаметры шлангов: 50/50 мм, 2/2 дюйма
+                    <br>
+                    Пропускаемые частицы:
+                    9 мм
+
+                </td></tr></tbody></table></td>
+        </tr>
+        </tbody></table>
+    <hr></div><div id="entryID16">
+    <table>
+        <tbody><tr>
+            <td width="240">Koshin KTH 80 X
+                <br><br>
+
+
+
+
+            </td>
+            <td><table><tbody><tr><td></td>
+                <td> Производительность: 1340 л/мин (80.4 м?/час)<br>
+                    Давление: 27 метров<br>
+                    Высота подъема: 8 метров<br>
+                    Диаметры шлангов: 75/75 мм, 3/3 дюйма
+                    <br>
+                    Пропускаемые частицы:
+                    27 мм
+
+                </td></tr></tbody></table></td>
+        </tr>
+        </tbody></table>
+    <hr></div></div>

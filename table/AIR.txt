@@ -1,0 +1,1336 @@
+<table>
+    <tbody>
+    <tr>
+        <td class="title_table_ecv">ƒ‚Ë„‡ÚÂÎ¸</td>
+        <td class="title_table_ecv">ÃÓ˘Ì.,<br>Í¬Ú</td>
+        <td class="title_table_ecv">Œ·/<br>ÏËÌ</td>
+        <td class="title_table_ecv">“ÓÍ ÔË<br> 380¬</td>
+        <td class="title_table_ecv">Kœƒ,<br>%</td>
+        <td class="title_table_ecv">KÓ˝Ù.<br>ÏÓ˘Ì.</td>
+        <td class="title_table_ecv">IÔ/<br> IÌ</td>
+        <td class="title_table_ecv">Ã‡ÒÒ‡<br>Í„</td>
+        <td class="title_table_ecv">›ÎÂÍÚÓ‰‚Ë„‡ÚÂÎË<br>ÛÒÚ‡Â‚¯Ëı Ï‡ÓÍ</td>
+        <td class="title_table_ecv">›Î-‰‚Ë„‡ÚÂÎË<br>Ô-‚‡ ¬›Ã«</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 56 ¿2</td>
+        <td class="title_table_ecv">0,18</td>
+        <td class="title_table_ecv">3000</td>
+        <td class="title_table_ecv">0,55</td>
+        <td class="title_table_ecv">65</td>
+        <td class="title_table_ecv">0,78</td>
+        <td class="title_table_ecv">5</td>
+        <td class="title_table_ecv">3,5</td>
+        <td class="title_table_ecv">4¿¿56¿2</td>
+        <td class="title_table_ecv"></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 56 ¬2</td>
+        <td class="title_table_ecv">0,25</td>
+        <td class="title_table_ecv">3000</td>
+        <td class="title_table_ecv">0,73</td>
+        <td class="title_table_ecv">66</td>
+        <td class="title_table_ecv">0,79</td>
+        <td class="title_table_ecv">5</td>
+        <td class="title_table_ecv">3,8</td>
+        <td class="title_table_ecv">4¿¿56¬2</td>
+        <td class="title_table_ecv"></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 56 ¿4</td>
+        <td class="title_table_ecv">0,12</td>
+        <td class="title_table_ecv">1500</td>
+        <td class="title_table_ecv">0,5</td>
+        <td class="title_table_ecv">57</td>
+        <td class="title_table_ecv">0,66</td>
+        <td class="title_table_ecv">5</td>
+        <td class="title_table_ecv">3,6</td>
+        <td class="title_table_ecv">4¿¿56¿4</td>
+        <td class="title_table_ecv"></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 56 ¬4</td>
+        <td class="title_table_ecv">0,18</td>
+        <td class="title_table_ecv">1500</td>
+        <td class="title_table_ecv">0,7</td>
+        <td class="title_table_ecv">60</td>
+        <td class="title_table_ecv">0,68</td>
+        <td class="title_table_ecv">5</td>
+        <td class="title_table_ecv">4,2</td>
+        <td class="title_table_ecv">4¿¿56¬4</td>
+        <td class="title_table_ecv"></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 63 ¿2</td>
+        <td class="title_table_ecv">0,37</td>
+        <td class="title_table_ecv">3000</td>
+        <td class="title_table_ecv">0,9</td>
+        <td class="title_table_ecv">72</td>
+        <td class="title_table_ecv">0,84</td>
+        <td class="title_table_ecv">5</td>
+        <td class="title_table_ecv">5,2</td>
+        <td class="title_table_ecv">4¿63¿2 4¿Ã63¿2</td>
+        <td class="title_table_ecv"></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 63 ¬2</td>
+        <td class="title_table_ecv">0,55</td>
+        <td class="title_table_ecv">3000</td>
+        <td class="title_table_ecv">1,3</td>
+        <td class="title_table_ecv">75</td>
+        <td class="title_table_ecv">0,81</td>
+        <td class="title_table_ecv">5</td>
+        <td class="title_table_ecv">6,1</td>
+        <td class="title_table_ecv">4¿63¬2 4¿Ã63¬2</td>
+        <td class="title_table_ecv"></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 63 ¿4</td>
+        <td class="title_table_ecv">0,25</td>
+        <td class="title_table_ecv">1500</td>
+        <td class="title_table_ecv">0,9</td>
+        <td class="title_table_ecv">65</td>
+        <td class="title_table_ecv">0,67</td>
+        <td class="title_table_ecv">5</td>
+        <td class="title_table_ecv">5,1</td>
+        <td class="title_table_ecv">4¿¿63¿4 4¿¿Ã63¿4</td>
+        <td class="title_table_ecv"></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 63 ¬4</td>
+        <td class="title_table_ecv">0,37</td>
+        <td class="title_table_ecv">1500</td>
+        <td class="title_table_ecv">1,2</td>
+        <td class="title_table_ecv">68</td>
+        <td class="title_table_ecv">0,7</td>
+        <td class="title_table_ecv">5</td>
+        <td class="title_table_ecv">6</td>
+        <td class="title_table_ecv">4¿¿63¬4 4¿¿Ã63¬4</td>
+        <td class="title_table_ecv"></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 63 ¿6</td>
+        <td class="title_table_ecv">0,18</td>
+        <td class="title_table_ecv">1000</td>
+        <td class="title_table_ecv">0,8</td>
+        <td class="title_table_ecv">56</td>
+        <td class="title_table_ecv">0,62</td>
+        <td class="title_table_ecv">4</td>
+        <td class="title_table_ecv">4,8</td>
+        <td class="title_table_ecv">4¿¿63¿6 4¿¿Ã63¿6</td>
+        <td class="title_table_ecv"></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 63 ¬6</td>
+        <td class="title_table_ecv">0,25</td>
+        <td class="title_table_ecv">1000</td>
+        <td class="title_table_ecv">1,0</td>
+        <td class="title_table_ecv">59</td>
+        <td class="title_table_ecv">0,62</td>
+        <td class="title_table_ecv">4</td>
+        <td class="title_table_ecv">5,6</td>
+        <td class="title_table_ecv">4¿¿63¬6 4¿¿Ã63¬6</td>
+        <td class="title_table_ecv"></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 71 ¿2</td>
+        <td class="title_table_ecv">0,75</td>
+        <td class="title_table_ecv">3000</td>
+        <td class="title_table_ecv">1,3</td>
+        <td class="title_table_ecv">75</td>
+        <td class="title_table_ecv">0,8</td>
+        <td class="title_table_ecv">6</td>
+        <td class="title_table_ecv">8,7</td>
+        <td class="title_table_ecv">4¿71¿2 4¿Ã71¿2</td>
+        <td class="title_table_ecv"></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 71 ¬2</td>
+        <td class="title_table_ecv">1,1</td>
+        <td class="title_table_ecv">3000</td>
+        <td class="title_table_ecv">2,6</td>
+        <td class="title_table_ecv">76,2</td>
+        <td class="title_table_ecv">0,8</td>
+        <td class="title_table_ecv">6</td>
+        <td class="title_table_ecv">9,5</td>
+        <td class="title_table_ecv">4¿71¬2 4¿Ã71¬2</td>
+        <td class="title_table_ecv"></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 71 ¿4</td>
+        <td class="title_table_ecv">0,55</td>
+        <td class="title_table_ecv">1500</td>
+        <td class="title_table_ecv">1,7</td>
+        <td class="title_table_ecv">71</td>
+        <td class="title_table_ecv">0,71</td>
+        <td class="title_table_ecv">5</td>
+        <td class="title_table_ecv">8,1</td>
+        <td class="title_table_ecv">4¿71¿4 4¿Ã71¿4</td>
+        <td class="title_table_ecv"></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 71 ¬4</td>
+        <td class="title_table_ecv">0,75</td>
+        <td class="title_table_ecv">1500</td>
+        <td class="title_table_ecv">1,9</td>
+        <td class="title_table_ecv">73</td>
+        <td class="title_table_ecv">0,75</td>
+        <td class="title_table_ecv">5</td>
+        <td class="title_table_ecv">9,4</td>
+        <td class="title_table_ecv">4¿71¬4 4¿Ã71¬4</td>
+        <td class="title_table_ecv"></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 71 ¿6</td>
+        <td class="title_table_ecv">0,37</td>
+        <td class="title_table_ecv">1000</td>
+        <td class="title_table_ecv">1,4</td>
+        <td class="title_table_ecv">62</td>
+        <td class="title_table_ecv">0,63</td>
+        <td class="title_table_ecv">4,5</td>
+        <td class="title_table_ecv">8,6</td>
+        <td class="title_table_ecv">4¿71¿6 4¿Ã71¿6</td>
+        <td class="title_table_ecv"></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 71 ¬6</td>
+        <td class="title_table_ecv">0,55</td>
+        <td class="title_table_ecv">1000</td>
+        <td class="title_table_ecv">1,8</td>
+        <td class="title_table_ecv">65</td>
+        <td class="title_table_ecv">0,68</td>
+        <td class="title_table_ecv">4,5</td>
+        <td class="title_table_ecv">9,9</td>
+        <td class="title_table_ecv">4¿71¬6 4¿Ã71¬6</td>
+        <td class="title_table_ecv"></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 80 ¿2</td>
+        <td class="title_table_ecv">1,5</td>
+        <td class="title_table_ecv">3000</td>
+        <td class="title_table_ecv">3,6</td>
+        <td class="title_table_ecv">78,5</td>
+        <td class="title_table_ecv">0,85</td>
+        <td class="title_table_ecv">6,5</td>
+        <td class="title_table_ecv">13,3</td>
+        <td class="title_table_ecv">4¿80¿2</td>
+        <td class="title_table_ecv"></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 80 ¬2</td>
+        <td class="title_table_ecv">2,2</td>
+        <td class="title_table_ecv">3000</td>
+        <td class="title_table_ecv">5,0</td>
+        <td class="title_table_ecv">81</td>
+        <td class="title_table_ecv">0,87</td>
+        <td class="title_table_ecv">6,4</td>
+        <td class="title_table_ecv">15,0</td>
+        <td class="title_table_ecv">4¿80¬2</td>
+        <td class="title_table_ecv"></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 80 ¿4</td>
+        <td class="title_table_ecv">1,1</td>
+        <td class="title_table_ecv">1500</td>
+        <td class="title_table_ecv">3,1</td>
+        <td class="title_table_ecv">76,2</td>
+        <td class="title_table_ecv">0,77</td>
+        <td class="title_table_ecv">5,0</td>
+        <td class="title_table_ecv">12,8</td>
+        <td class="title_table_ecv">4¿80¿4</td>
+        <td class="title_table_ecv"></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 80 ¬4</td>
+        <td class="title_table_ecv">1,5</td>
+        <td class="title_table_ecv">1500</td>
+        <td class="title_table_ecv">3,9</td>
+        <td class="title_table_ecv">78,5</td>
+        <td class="title_table_ecv">0,80</td>
+        <td class="title_table_ecv">5,3</td>
+        <td class="title_table_ecv">14,7</td>
+        <td class="title_table_ecv">4¿80¬4</td>
+        <td class="title_table_ecv"></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 80 ¿6</td>
+        <td class="title_table_ecv">0,75</td>
+        <td class="title_table_ecv">1000</td>
+        <td class="title_table_ecv">2,3</td>
+        <td class="title_table_ecv">69</td>
+        <td class="title_table_ecv">0,71</td>
+        <td class="title_table_ecv">4,0</td>
+        <td class="title_table_ecv">12,5</td>
+        <td class="title_table_ecv">4¿80¿6</td>
+        <td class="title_table_ecv"></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 80 ¬6</td>
+        <td class="title_table_ecv">1,1</td>
+        <td class="title_table_ecv">1000</td>
+        <td class="title_table_ecv">3,2</td>
+        <td class="title_table_ecv">72</td>
+        <td class="title_table_ecv">0,71</td>
+        <td class="title_table_ecv">4,5</td>
+        <td class="title_table_ecv">16,2</td>
+        <td class="title_table_ecv">4¿80¬6</td>
+        <td class="title_table_ecv"></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 80 ¿8</td>
+        <td class="title_table_ecv">0,37</td>
+        <td class="title_table_ecv">750</td>
+        <td class="title_table_ecv">1,5</td>
+        <td class="title_table_ecv">62</td>
+        <td class="title_table_ecv">0,59</td>
+        <td class="title_table_ecv">3,5</td>
+        <td class="title_table_ecv">14,7</td>
+        <td class="title_table_ecv">4¿80¿8</td>
+        <td class="title_table_ecv"></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 80 ¬8</td>
+        <td class="title_table_ecv">0,55</td>
+        <td class="title_table_ecv">750</td>
+        <td class="title_table_ecv">2,2</td>
+        <td class="title_table_ecv">63</td>
+        <td class="title_table_ecv">0,60</td>
+        <td class="title_table_ecv">3,5</td>
+        <td class="title_table_ecv">15,9</td>
+        <td class="title_table_ecv">4¿80¬8</td>
+        <td class="title_table_ecv"></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 90 L2</td>
+        <td class="title_table_ecv">3</td>
+        <td class="title_table_ecv">3000</td>
+        <td class="title_table_ecv">6,5</td>
+        <td class="title_table_ecv">82,6</td>
+        <td class="title_table_ecv">0,85</td>
+        <td class="title_table_ecv">7,0</td>
+        <td class="title_table_ecv">20,0</td>
+        <td class="title_table_ecv">4¿90L2</td>
+        <td class="title_table_ecv"></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 90 L4</td>
+        <td class="title_table_ecv">2,2</td>
+        <td class="title_table_ecv">1500</td>
+        <td class="title_table_ecv">5,3</td>
+        <td class="title_table_ecv">80</td>
+        <td class="title_table_ecv">0,79</td>
+        <td class="title_table_ecv">6,0</td>
+        <td class="title_table_ecv">19,7</td>
+        <td class="title_table_ecv">4¿90L4</td>
+        <td class="title_table_ecv"></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 90 L6</td>
+        <td class="title_table_ecv">1,5</td>
+        <td class="title_table_ecv">1000</td>
+        <td class="title_table_ecv">4,2</td>
+        <td class="title_table_ecv">76</td>
+        <td class="title_table_ecv">0,70</td>
+        <td class="title_table_ecv">5,0</td>
+        <td class="title_table_ecv">20,6</td>
+        <td class="title_table_ecv">4¿90L6</td>
+        <td class="title_table_ecv"></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 90 LA8</td>
+        <td class="title_table_ecv">0,75</td>
+        <td class="title_table_ecv">750</td>
+        <td class="title_table_ecv">2,4</td>
+        <td class="title_table_ecv">70</td>
+        <td class="title_table_ecv">0,71</td>
+        <td class="title_table_ecv">4,0</td>
+        <td class="title_table_ecv">19,5</td>
+        <td class="title_table_ecv">4¿90LA8</td>
+        <td class="title_table_ecv"></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 90 LB8</td>
+        <td class="title_table_ecv">1,1</td>
+        <td class="title_table_ecv">750</td>
+        <td class="title_table_ecv">3,3</td>
+        <td class="title_table_ecv">72</td>
+        <td class="title_table_ecv">0,72</td>
+        <td class="title_table_ecv">4,5</td>
+        <td class="title_table_ecv">22,3</td>
+        <td class="title_table_ecv">4¿90LB8</td>
+        <td class="title_table_ecv"></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 100 S2</td>
+        <td class="title_table_ecv">4</td>
+        <td class="title_table_ecv">3000</td>
+        <td class="title_table_ecv">8,4</td>
+        <td class="title_table_ecv">84,2</td>
+        <td class="title_table_ecv">0,88</td>
+        <td class="title_table_ecv">7,5</td>
+        <td class="title_table_ecv">30,0</td>
+        <td class="title_table_ecv">4¿100S2</td>
+        <td class="title_table_ecv"></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 100 L2</td>
+        <td class="title_table_ecv">5,5</td>
+        <td class="title_table_ecv">3000</td>
+        <td class="title_table_ecv">11,0</td>
+        <td class="title_table_ecv">85,7</td>
+        <td class="title_table_ecv">0,88</td>
+        <td class="title_table_ecv">7,5</td>
+        <td class="title_table_ecv">32,0</td>
+        <td class="title_table_ecv">4¿100L2</td>
+        <td class="title_table_ecv"></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 100 S4</td>
+        <td class="title_table_ecv">3</td>
+        <td class="title_table_ecv">1500</td>
+        <td class="title_table_ecv">7,2</td>
+        <td class="title_table_ecv">82,6</td>
+        <td class="title_table_ecv">0,82</td>
+        <td class="title_table_ecv">7,0</td>
+        <td class="title_table_ecv">34,0</td>
+        <td class="title_table_ecv">4¿100S4</td>
+        <td class="title_table_ecv"></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 100 L4</td>
+        <td class="title_table_ecv">4</td>
+        <td class="title_table_ecv">1500</td>
+        <td class="title_table_ecv">9,3</td>
+        <td class="title_table_ecv">84,2</td>
+        <td class="title_table_ecv">0,84</td>
+        <td class="title_table_ecv">7,0</td>
+        <td class="title_table_ecv">29,2</td>
+        <td class="title_table_ecv">4¿100L4</td>
+        <td class="title_table_ecv"></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 100 L6</td>
+        <td class="title_table_ecv">2,2</td>
+        <td class="title_table_ecv">1000</td>
+        <td class="title_table_ecv">5,9</td>
+        <td class="title_table_ecv">79</td>
+        <td class="title_table_ecv">0,74</td>
+        <td class="title_table_ecv">6,0</td>
+        <td class="title_table_ecv">27,0</td>
+        <td class="title_table_ecv">4¿100L6</td>
+        <td class="title_table_ecv"></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 100 L8</td>
+        <td class="title_table_ecv">1.5</td>
+        <td class="title_table_ecv">750</td>
+        <td class="title_table_ecv">4,5</td>
+        <td class="title_table_ecv">74</td>
+        <td class="title_table_ecv">0,70</td>
+        <td class="title_table_ecv">3,7</td>
+        <td class="title_table_ecv">26,0</td>
+        <td class="title_table_ecv">4¿100L8</td>
+        <td class="title_table_ecv"></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 112 Ã2</td>
+        <td class="title_table_ecv">7,5|7,6</td>
+        <td class="title_table_ecv">3000</td>
+        <td class="title_table_ecv">14,7</td>
+        <td class="title_table_ecv">87</td>
+        <td class="title_table_ecv">0,88</td>
+        <td class="title_table_ecv">7,5</td>
+        <td class="title_table_ecv">48</td>
+        <td class="title_table_ecv">4¿112Ã2</td>
+        <td class="title_table_ecv"></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 112 Ã4</td>
+        <td class="title_table_ecv">5,5</td>
+        <td class="title_table_ecv">1500</td>
+        <td class="title_table_ecv">11,3</td>
+        <td class="title_table_ecv">85,7</td>
+        <td class="title_table_ecv">0,86</td>
+        <td class="title_table_ecv">7</td>
+        <td class="title_table_ecv">45</td>
+        <td class="title_table_ecv">4¿Ã112Ã4</td>
+        <td class="title_table_ecv"></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 112 Ã¿6</td>
+        <td class="title_table_ecv">3</td>
+        <td class="title_table_ecv">1000</td>
+        <td class="title_table_ecv">7,4</td>
+        <td class="title_table_ecv">81</td>
+        <td class="title_table_ecv">0,76</td>
+        <td class="title_table_ecv">6</td>
+        <td class="title_table_ecv">43</td>
+        <td class="title_table_ecv">4¿112Ã¿6</td>
+        <td class="title_table_ecv"></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 112 Ã¬6</td>
+        <td class="title_table_ecv">4</td>
+        <td class="title_table_ecv">1000</td>
+        <td class="title_table_ecv">9,1</td>
+        <td class="title_table_ecv">82</td>
+        <td class="title_table_ecv">0,81</td>
+        <td class="title_table_ecv">6</td>
+        <td class="title_table_ecv">48</td>
+        <td class="title_table_ecv">4¿112Ã¬6</td>
+        <td class="title_table_ecv"></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 112 Ã¿8</td>
+        <td class="title_table_ecv">2,2</td>
+        <td class="title_table_ecv">750</td>
+        <td class="title_table_ecv">6,16</td>
+        <td class="title_table_ecv">79</td>
+        <td class="title_table_ecv">0,71</td>
+        <td class="title_table_ecv">6</td>
+        <td class="title_table_ecv">43</td>
+        <td class="title_table_ecv">4¿112Ã¿8 </td>
+        <td class="title_table_ecv"></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 112 Ã¬8</td>
+        <td class="title_table_ecv">3</td>
+        <td class="title_table_ecv">750</td>
+        <td class="title_table_ecv">7,8</td>
+        <td class="title_table_ecv">80</td>
+        <td class="title_table_ecv">0,74</td>
+        <td class="title_table_ecv">6</td>
+        <td class="title_table_ecv">48</td>
+        <td class="title_table_ecv">4¿112Ã¬8</td>
+        <td class="title_table_ecv"></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 132 Ã2</td>
+        <td class="title_table_ecv">11</td>
+        <td class="title_table_ecv">3000</td>
+        <td class="title_table_ecv">21,1</td>
+        <td class="title_table_ecv">88,4</td>
+        <td class="title_table_ecv">0,9</td>
+        <td class="title_table_ecv">7,5</td>
+        <td class="title_table_ecv">78</td>
+        <td class="title_table_ecv">4¿132Ã2 4¿Ã132Ã2</td>
+        <td class="title_table_ecv">5¿Ã’132Ã2</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 132 S4</td>
+        <td class="title_table_ecv">7,5</td>
+        <td class="title_table_ecv">1500</td>
+        <td class="title_table_ecv">15,1</td>
+        <td class="title_table_ecv">87</td>
+        <td class="title_table_ecv">0,86</td>
+        <td class="title_table_ecv">7,5</td>
+        <td class="title_table_ecv">70</td>
+        <td class="title_table_ecv">4¿132S4 4¿Ã132S4</td>
+        <td class="title_table_ecv">5¿Ã’132S4</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 132 Ã4</td>
+        <td class="title_table_ecv">11</td>
+        <td class="title_table_ecv">1500</td>
+        <td class="title_table_ecv">22,2</td>
+        <td class="title_table_ecv">88,4</td>
+        <td class="title_table_ecv">0,85</td>
+        <td class="title_table_ecv">7,5</td>
+        <td class="title_table_ecv">84</td>
+        <td class="title_table_ecv">4¿132Ã4 4¿Ã132Ã4</td>
+        <td class="title_table_ecv">5¿Ã’132Ã4</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 132 S6</td>
+        <td class="title_table_ecv">5,5</td>
+        <td class="title_table_ecv">1000</td>
+        <td class="title_table_ecv">12,3</td>
+        <td class="title_table_ecv">84</td>
+        <td class="title_table_ecv">0,8</td>
+        <td class="title_table_ecv">7</td>
+        <td class="title_table_ecv">69</td>
+        <td class="title_table_ecv">4¿132S6 4¿Ã132S6</td>
+        <td class="title_table_ecv">5¿Ã’132S6</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 132 Ã6</td>
+        <td class="title_table_ecv">7,5</td>
+        <td class="title_table_ecv">1000</td>
+        <td class="title_table_ecv">16,5</td>
+        <td class="title_table_ecv">86</td>
+        <td class="title_table_ecv">0,81</td>
+        <td class="title_table_ecv">7</td>
+        <td class="title_table_ecv">82</td>
+        <td class="title_table_ecv">4¿132Ã6 4¿Ã132Ã6</td>
+        <td class="title_table_ecv">5¿Ã’132Ã6</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 132 S8</td>
+        <td class="title_table_ecv">4</td>
+        <td class="title_table_ecv">750</td>
+        <td class="title_table_ecv">10,5</td>
+        <td class="title_table_ecv">81</td>
+        <td class="title_table_ecv">0,7</td>
+        <td class="title_table_ecv">6</td>
+        <td class="title_table_ecv">69</td>
+        <td class="title_table_ecv">4¿132S8 4¿Ã132S8</td>
+        <td class="title_table_ecv">5¿Ã’132S8</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 132 Ã8</td>
+        <td class="title_table_ecv">5,5</td>
+        <td class="title_table_ecv">750</td>
+        <td class="title_table_ecv">13,6</td>
+        <td class="title_table_ecv">83</td>
+        <td class="title_table_ecv">0,74</td>
+        <td class="title_table_ecv">6</td>
+        <td class="title_table_ecv">82</td>
+        <td class="title_table_ecv">4¿132Ã8 4¿Ã132Ã8</td>
+        <td class="title_table_ecv">5¿Ã’132Ã8</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 160 S2</td>
+        <td class="title_table_ecv">15</td>
+        <td class="title_table_ecv">3000</td>
+        <td class="title_table_ecv">30</td>
+        <td class="title_table_ecv">89,4</td>
+        <td class="title_table_ecv">0,86</td>
+        <td class="title_table_ecv">7,5</td>
+        <td class="title_table_ecv">116</td>
+        <td class="title_table_ecv">4¿160S2 4¿Ã160S2</td>
+        <td class="title_table_ecv">5¿Ã’160S2</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 160 Ã2</td>
+        <td class="title_table_ecv">18,5</td>
+        <td class="title_table_ecv">3000</td>
+        <td class="title_table_ecv">35</td>
+        <td class="title_table_ecv">90</td>
+        <td class="title_table_ecv">0,88</td>
+        <td class="title_table_ecv">7,5</td>
+        <td class="title_table_ecv">130</td>
+        <td class="title_table_ecv">4¿160Ã2 4¿Ã160Ã2</td>
+        <td class="title_table_ecv">5¿Ã’160Ã2</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 160 S4</td>
+        <td class="title_table_ecv">15</td>
+        <td class="title_table_ecv">1500</td>
+        <td class="title_table_ecv">29</td>
+        <td class="title_table_ecv">89,4</td>
+        <td class="title_table_ecv">0,87</td>
+        <td class="title_table_ecv">7</td>
+        <td class="title_table_ecv">120</td>
+        <td class="title_table_ecv">4¿160S4 4¿Ã160S4</td>
+        <td class="title_table_ecv">5¿Ã’160S4</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 160 Ã4</td>
+        <td class="title_table_ecv">18,5</td>
+        <td class="title_table_ecv">1500</td>
+        <td class="title_table_ecv">35</td>
+        <td class="title_table_ecv">90</td>
+        <td class="title_table_ecv">0,89</td>
+        <td class="title_table_ecv">7</td>
+        <td class="title_table_ecv">142</td>
+        <td class="title_table_ecv">4¿160Ã4 4¿Ã160Ã4</td>
+        <td class="title_table_ecv">5¿Ã’160Ã4</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 160 S6</td>
+        <td class="title_table_ecv">11</td>
+        <td class="title_table_ecv">1000</td>
+        <td class="title_table_ecv">23</td>
+        <td class="title_table_ecv">87,5</td>
+        <td class="title_table_ecv">0,82</td>
+        <td class="title_table_ecv">6,5</td>
+        <td class="title_table_ecv">125</td>
+        <td class="title_table_ecv">4¿160S6 4¿Ã160S6</td>
+        <td class="title_table_ecv">5¿Ã’160S6</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 160 Ã6</td>
+        <td class="title_table_ecv">15</td>
+        <td class="title_table_ecv">1000</td>
+        <td class="title_table_ecv">31</td>
+        <td class="title_table_ecv">89</td>
+        <td class="title_table_ecv">0,82</td>
+        <td class="title_table_ecv">7</td>
+        <td class="title_table_ecv">150</td>
+        <td class="title_table_ecv">4¿160Ã6 4¿Ã160Ã6</td>
+        <td class="title_table_ecv">5¿Ã’160Ã6</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 160 S8</td>
+        <td class="title_table_ecv">7,5</td>
+        <td class="title_table_ecv">750</td>
+        <td class="title_table_ecv">18</td>
+        <td class="title_table_ecv">85,5</td>
+        <td class="title_table_ecv">0,65</td>
+        <td class="title_table_ecv">6</td>
+        <td class="title_table_ecv">125</td>
+        <td class="title_table_ecv">4¿160S8 4¿Ã160S8</td>
+        <td class="title_table_ecv">5¿Ã’160S8</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 160 Ã8</td>
+        <td class="title_table_ecv">11</td>
+        <td class="title_table_ecv">750</td>
+        <td class="title_table_ecv">26</td>
+        <td class="title_table_ecv">87,5</td>
+        <td class="title_table_ecv">0,68</td>
+        <td class="title_table_ecv">6</td>
+        <td class="title_table_ecv">150</td>
+        <td class="title_table_ecv">4¿160Ã8 4¿Ã160Ã8</td>
+        <td class="title_table_ecv">5¿Ã’160Ã8</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 180 S2</td>
+        <td class="title_table_ecv">22</td>
+        <td class="title_table_ecv">3000</td>
+        <td class="title_table_ecv">41,5</td>
+        <td class="title_table_ecv">90,5</td>
+        <td class="title_table_ecv">0,89</td>
+        <td class="title_table_ecv">7</td>
+        <td class="title_table_ecv">150</td>
+        <td class="title_table_ecv">4¿180S2 4¿Ã180S2</td>
+        <td class="title_table_ecv">5¿Ã’180S2</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 180 Ã2</td>
+        <td class="title_table_ecv">30</td>
+        <td class="title_table_ecv">3000</td>
+        <td class="title_table_ecv">55,4</td>
+        <td class="title_table_ecv">91,4</td>
+        <td class="title_table_ecv">0,9</td>
+        <td class="title_table_ecv">7,5</td>
+        <td class="title_table_ecv">170</td>
+        <td class="title_table_ecv">4¿180Ã2 4¿Ã180Ã2</td>
+        <td class="title_table_ecv">5¿Ã’180Ã2</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 180 S4</td>
+        <td class="title_table_ecv">22</td>
+        <td class="title_table_ecv">1500</td>
+        <td class="title_table_ecv">42,5</td>
+        <td class="title_table_ecv">90,5</td>
+        <td class="title_table_ecv">0,87</td>
+        <td class="title_table_ecv">7</td>
+        <td class="title_table_ecv">160</td>
+        <td class="title_table_ecv">4¿180S4 4¿Ã180S4</td>
+        <td class="title_table_ecv">5¿Ã’180S4</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 180 Ã4</td>
+        <td class="title_table_ecv">30</td>
+        <td class="title_table_ecv">1500</td>
+        <td class="title_table_ecv">57</td>
+        <td class="title_table_ecv">91,4</td>
+        <td class="title_table_ecv">0,87</td>
+        <td class="title_table_ecv">7</td>
+        <td class="title_table_ecv">190</td>
+        <td class="title_table_ecv">4¿180Ã4 4¿Ã180Ã4</td>
+        <td class="title_table_ecv">5¿Ã’180Ã4</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 180 Ã6</td>
+        <td class="title_table_ecv">18,5</td>
+        <td class="title_table_ecv">1000</td>
+        <td class="title_table_ecv">36,9</td>
+        <td class="title_table_ecv">90</td>
+        <td class="title_table_ecv">0,85</td>
+        <td class="title_table_ecv">6,5</td>
+        <td class="title_table_ecv">160</td>
+        <td class="title_table_ecv">4¿180Ã6 4¿Ã180Ã6</td>
+        <td class="title_table_ecv">5¿Ã’180Ã6</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 180 Ã8</td>
+        <td class="title_table_ecv">15</td>
+        <td class="title_table_ecv">750</td>
+        <td class="title_table_ecv">31,3</td>
+        <td class="title_table_ecv">88</td>
+        <td class="title_table_ecv">0,82</td>
+        <td class="title_table_ecv">5,5</td>
+        <td class="title_table_ecv">172</td>
+        <td class="title_table_ecv">4¿180Ã8 4¿Ã180Ã8</td>
+        <td class="title_table_ecv">5¿Ã’180Ã8</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 200 Ã2</td>
+        <td class="title_table_ecv">37</td>
+        <td class="title_table_ecv">3000</td>
+        <td class="title_table_ecv">71</td>
+        <td class="title_table_ecv">92</td>
+        <td class="title_table_ecv">0,87</td>
+        <td class="title_table_ecv">7</td>
+        <td class="title_table_ecv">230</td>
+        <td class="title_table_ecv">4¿200Ã2 4¿Ã200Ã2</td>
+        <td class="title_table_ecv">5¿200Ã2</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 200 L2</td>
+        <td class="title_table_ecv">45</td>
+        <td class="title_table_ecv">3000</td>
+        <td class="title_table_ecv">84</td>
+        <td class="title_table_ecv">92,5</td>
+        <td class="title_table_ecv">0,88</td>
+        <td class="title_table_ecv">7,5</td>
+        <td class="title_table_ecv">255</td>
+        <td class="title_table_ecv">4¿200L2 4¿Ã200L2</td>
+        <td class="title_table_ecv">5¿200L2</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 200 Ã4</td>
+        <td class="title_table_ecv">37</td>
+        <td class="title_table_ecv">1500</td>
+        <td class="title_table_ecv">68,3</td>
+        <td class="title_table_ecv">92</td>
+        <td class="title_table_ecv">0,89</td>
+        <td class="title_table_ecv">7,5</td>
+        <td class="title_table_ecv">230</td>
+        <td class="title_table_ecv">4¿200Ã4 4¿Ã200Ã4</td>
+        <td class="title_table_ecv">5¿200Ã4</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 200 L4</td>
+        <td class="title_table_ecv">45</td>
+        <td class="title_table_ecv">1500</td>
+        <td class="title_table_ecv">83,1</td>
+        <td class="title_table_ecv">92,5</td>
+        <td class="title_table_ecv">0,89</td>
+        <td class="title_table_ecv">7,5</td>
+        <td class="title_table_ecv">200</td>
+        <td class="title_table_ecv">4¿200L4 4¿Ã200L4</td>
+        <td class="title_table_ecv">5¿200L4</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 200 Ã6</td>
+        <td class="title_table_ecv">22</td>
+        <td class="title_table_ecv">1000</td>
+        <td class="title_table_ecv">44</td>
+        <td class="title_table_ecv">90</td>
+        <td class="title_table_ecv">0,83</td>
+        <td class="title_table_ecv">6,5</td>
+        <td class="title_table_ecv">195</td>
+        <td class="title_table_ecv">4¿200Ã6 4¿Ã200Ã6</td>
+        <td class="title_table_ecv">5¿200Ã6</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 200 L6</td>
+        <td class="title_table_ecv">30</td>
+        <td class="title_table_ecv">1000</td>
+        <td class="title_table_ecv">59,6</td>
+        <td class="title_table_ecv">91,5</td>
+        <td class="title_table_ecv">0,85</td>
+        <td class="title_table_ecv">6,5</td>
+        <td class="title_table_ecv">255</td>
+        <td class="title_table_ecv">4¿200L6 4¿Ã200L6</td>
+        <td class="title_table_ecv">5¿200L6</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 200 Ã8</td>
+        <td class="title_table_ecv">18,5</td>
+        <td class="title_table_ecv">750</td>
+        <td class="title_table_ecv">39</td>
+        <td class="title_table_ecv">90</td>
+        <td class="title_table_ecv">0,81</td>
+        <td class="title_table_ecv">6</td>
+        <td class="title_table_ecv">210</td>
+        <td class="title_table_ecv">4¿200Ã8 4¿Ã200Ã8</td>
+        <td class="title_table_ecv">5¿200Ã8</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»– 200 L8</td>
+        <td class="title_table_ecv">22</td>
+        <td class="title_table_ecv">750</td>
+        <td class="title_table_ecv">45,9</td>
+        <td class="title_table_ecv">90,5</td>
+        <td class="title_table_ecv">0,81</td>
+        <td class="title_table_ecv">6</td>
+        <td class="title_table_ecv">225</td>
+        <td class="title_table_ecv">4¿200L8 4¿Ã200L8</td>
+        <td class="title_table_ecv">5¿200L8</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»–225Ã2</td>
+        <td class="title_table_ecv">55</td>
+        <td class="title_table_ecv">3000</td>
+        <td class="title_table_ecv">99,3</td>
+        <td class="title_table_ecv">93</td>
+        <td class="title_table_ecv">0,91</td>
+        <td class="title_table_ecv">7,5</td>
+        <td class="title_table_ecv">320</td>
+        <td class="title_table_ecv">4¿225Ã2 4¿Ã225Ã2</td>
+        <td class="title_table_ecv">5¿225Ã2</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»–225Ã4</td>
+        <td class="title_table_ecv">55</td>
+        <td class="title_table_ecv">1500</td>
+        <td class="title_table_ecv">101</td>
+        <td class="title_table_ecv">93</td>
+        <td class="title_table_ecv">0,89</td>
+        <td class="title_table_ecv">7</td>
+        <td class="title_table_ecv">325</td>
+        <td class="title_table_ecv">4¿225Ã4 4¿Ã225Ã4</td>
+        <td class="title_table_ecv">5¿225Ã4</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»–225Ã6</td>
+        <td class="title_table_ecv">37</td>
+        <td class="title_table_ecv">1000</td>
+        <td class="title_table_ecv">72,7</td>
+        <td class="title_table_ecv">92</td>
+        <td class="title_table_ecv">0,85</td>
+        <td class="title_table_ecv">6,5</td>
+        <td class="title_table_ecv">360</td>
+        <td class="title_table_ecv">4¿225Ã6 4¿Ã225Ã6</td>
+        <td class="title_table_ecv">5¿225Ã6</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»–225Ã8</td>
+        <td class="title_table_ecv">30</td>
+        <td class="title_table_ecv">750</td>
+        <td class="title_table_ecv">62,2</td>
+        <td class="title_table_ecv">91</td>
+        <td class="title_table_ecv">0,81</td>
+        <td class="title_table_ecv">6</td>
+        <td class="title_table_ecv">360</td>
+        <td class="title_table_ecv">4¿225Ã8 4¿Ã225Ã8</td>
+        <td class="title_table_ecv">5¿225Ã8</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»–250S2</td>
+        <td class="title_table_ecv">75|76</td>
+        <td class="title_table_ecv">3000</td>
+        <td class="title_table_ecv">134,6</td>
+        <td class="title_table_ecv">93,6</td>
+        <td class="title_table_ecv">0,91</td>
+        <td class="title_table_ecv">7,5</td>
+        <td class="title_table_ecv">425</td>
+        <td class="title_table_ecv">4¿250S2 4¿Ã250S2</td>
+        <td class="title_table_ecv">5¿Ã250S2</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»–250Ã2</td>
+        <td class="title_table_ecv">90</td>
+        <td class="title_table_ecv">3000</td>
+        <td class="title_table_ecv">160</td>
+        <td class="title_table_ecv">93,9</td>
+        <td class="title_table_ecv">0,91</td>
+        <td class="title_table_ecv">7,5</td>
+        <td class="title_table_ecv">455</td>
+        <td class="title_table_ecv">4¿250Ã2 4¿Ã250Ã2</td>
+        <td class="title_table_ecv">5¿Ã250Ã2</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»–250S4</td>
+        <td class="title_table_ecv">75|76</td>
+        <td class="title_table_ecv">1500</td>
+        <td class="title_table_ecv">137,8</td>
+        <td class="title_table_ecv">93,6</td>
+        <td class="title_table_ecv">0,88</td>
+        <td class="title_table_ecv">7,5</td>
+        <td class="title_table_ecv">450</td>
+        <td class="title_table_ecv">4¿250S4 4¿Ã250S4</td>
+        <td class="title_table_ecv">5¿Ã250S4</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»–250Ã4</td>
+        <td class="title_table_ecv">90</td>
+        <td class="title_table_ecv">1500</td>
+        <td class="title_table_ecv">163</td>
+        <td class="title_table_ecv">93,9</td>
+        <td class="title_table_ecv">0,89</td>
+        <td class="title_table_ecv">7,5</td>
+        <td class="title_table_ecv">480</td>
+        <td class="title_table_ecv">4¿250Ã4 4¿Ã250Ã4</td>
+        <td class="title_table_ecv">5¿Ã250Ã4</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»–250S6</td>
+        <td class="title_table_ecv">45</td>
+        <td class="title_table_ecv">1000</td>
+        <td class="title_table_ecv">87</td>
+        <td class="title_table_ecv">92,5</td>
+        <td class="title_table_ecv">0,85</td>
+        <td class="title_table_ecv">6,5</td>
+        <td class="title_table_ecv">390</td>
+        <td class="title_table_ecv">4¿250S6 4¿Ã250S6</td>
+        <td class="title_table_ecv">5¿Ã250S6</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»–250Ã6</td>
+        <td class="title_table_ecv">55</td>
+        <td class="title_table_ecv">1000</td>
+        <td class="title_table_ecv">105</td>
+        <td class="title_table_ecv">92,8</td>
+        <td class="title_table_ecv">0,86</td>
+        <td class="title_table_ecv">6,5</td>
+        <td class="title_table_ecv">430</td>
+        <td class="title_table_ecv">4¿250Ã6 4¿Ã250Ã6</td>
+        <td class="title_table_ecv">5¿Ã250Ã6</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»–250S8</td>
+        <td class="title_table_ecv">37</td>
+        <td class="title_table_ecv">750</td>
+        <td class="title_table_ecv">77,9</td>
+        <td class="title_table_ecv">91,5</td>
+        <td class="title_table_ecv">0,78</td>
+        <td class="title_table_ecv">6</td>
+        <td class="title_table_ecv">400</td>
+        <td class="title_table_ecv">4¿250S8 4¿Ã250S8</td>
+        <td class="title_table_ecv">5¿Ã250S8</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»–250Ã8</td>
+        <td class="title_table_ecv">45</td>
+        <td class="title_table_ecv">750</td>
+        <td class="title_table_ecv">93,6</td>
+        <td class="title_table_ecv">92</td>
+        <td class="title_table_ecv">0,79</td>
+        <td class="title_table_ecv">6</td>
+        <td class="title_table_ecv">430</td>
+        <td class="title_table_ecv">4¿250Ã8 4¿Ã250Ã8</td>
+        <td class="title_table_ecv">5¿Ã250Ã8</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»–280S2</td>
+        <td class="title_table_ecv">110</td>
+        <td class="title_table_ecv">3000</td>
+        <td class="title_table_ecv">198</td>
+        <td class="title_table_ecv">94</td>
+        <td class="title_table_ecv">0,9</td>
+        <td class="title_table_ecv">7,2</td>
+        <td class="title_table_ecv">590</td>
+        <td class="title_table_ecv">4¿280S2 4¿Ã280S2</td>
+        <td class="title_table_ecv">5¿Ã280S2</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»–280Ã2</td>
+        <td class="title_table_ecv">132</td>
+        <td class="title_table_ecv">3000</td>
+        <td class="title_table_ecv">235</td>
+        <td class="title_table_ecv">94,5</td>
+        <td class="title_table_ecv">0,9</td>
+        <td class="title_table_ecv">8,5</td>
+        <td class="title_table_ecv">620</td>
+        <td class="title_table_ecv">4¿280Ã2 4¿Ã280Ã2</td>
+        <td class="title_table_ecv">5¿Ã280Ã2</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»–280S4</td>
+        <td class="title_table_ecv">110</td>
+        <td class="title_table_ecv">1500</td>
+        <td class="title_table_ecv">196</td>
+        <td class="title_table_ecv">94,5</td>
+        <td class="title_table_ecv">0,87</td>
+        <td class="title_table_ecv">6,5</td>
+        <td class="title_table_ecv">790</td>
+        <td class="title_table_ecv">4¿280S4 4¿Ã280S4</td>
+        <td class="title_table_ecv">5¿Ã280S4 Â</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»–280Ã4</td>
+        <td class="title_table_ecv">132</td>
+        <td class="title_table_ecv">1500</td>
+        <td class="title_table_ecv">230</td>
+        <td class="title_table_ecv">94,8</td>
+        <td class="title_table_ecv">0,88</td>
+        <td class="title_table_ecv">6,5</td>
+        <td class="title_table_ecv">885</td>
+        <td class="title_table_ecv">4¿280Ã4 4¿Ã280Ã4</td>
+        <td class="title_table_ecv">5¿Ã280Ã4 Â</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»–280S6</td>
+        <td class="title_table_ecv">75</td>
+        <td class="title_table_ecv">1000</td>
+        <td class="title_table_ecv">137</td>
+        <td class="title_table_ecv">93,5</td>
+        <td class="title_table_ecv">0,86</td>
+        <td class="title_table_ecv">6,5</td>
+        <td class="title_table_ecv">745</td>
+        <td class="title_table_ecv">4¿280S6 4¿Ã280S6</td>
+        <td class="title_table_ecv">5¿Ã280S6 Â</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»–280Ã6</td>
+        <td class="title_table_ecv">90</td>
+        <td class="title_table_ecv">1000</td>
+        <td class="title_table_ecv">164</td>
+        <td class="title_table_ecv">93,8</td>
+        <td class="title_table_ecv">0,86</td>
+        <td class="title_table_ecv">6,5</td>
+        <td class="title_table_ecv">780</td>
+        <td class="title_table_ecv">4¿280Ã6 4¿Ã280Ã6</td>
+        <td class="title_table_ecv">5¿Ã280Ã6 Â</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»–280S8</td>
+        <td class="title_table_ecv">55</td>
+        <td class="title_table_ecv">750</td>
+        <td class="title_table_ecv">106</td>
+        <td class="title_table_ecv">92,8</td>
+        <td class="title_table_ecv">0,85</td>
+        <td class="title_table_ecv">6</td>
+        <td class="title_table_ecv">725</td>
+        <td class="title_table_ecv">4¿280S8 4¿Ã280S8</td>
+        <td class="title_table_ecv">5¿Ã280S8 Â</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»–280Ã8</td>
+        <td class="title_table_ecv">75</td>
+        <td class="title_table_ecv">750</td>
+        <td class="title_table_ecv">141</td>
+        <td class="title_table_ecv">93,5</td>
+        <td class="title_table_ecv">0,84</td>
+        <td class="title_table_ecv">6</td>
+        <td class="title_table_ecv">790</td>
+        <td class="title_table_ecv">4¿280Ã8 4¿Ã280Ã8</td>
+        <td class="title_table_ecv">5¿Ã280Ã8 Â</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»–315S2</td>
+        <td class="title_table_ecv">160</td>
+        <td class="title_table_ecv">3000</td>
+        <td class="title_table_ecv">279</td>
+        <td class="title_table_ecv">94,6</td>
+        <td class="title_table_ecv">0,92</td>
+        <td class="title_table_ecv">7,2</td>
+        <td class="title_table_ecv">1170</td>
+        <td class="title_table_ecv">4¿315S2 4¿Ã315S2</td>
+        <td class="title_table_ecv">5¿Ã315S2</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»–315Ã2</td>
+        <td class="title_table_ecv">200</td>
+        <td class="title_table_ecv">3000</td>
+        <td class="title_table_ecv">339</td>
+        <td class="title_table_ecv">94,8</td>
+        <td class="title_table_ecv">0,94</td>
+        <td class="title_table_ecv">7,2</td>
+        <td class="title_table_ecv">1460</td>
+        <td class="title_table_ecv">4¿315Ã2 4¿Ã315Ã2</td>
+        <td class="title_table_ecv">5¿Ã315Ã2</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»–315S4</td>
+        <td class="title_table_ecv">160</td>
+        <td class="title_table_ecv">1500</td>
+        <td class="title_table_ecv">286</td>
+        <td class="title_table_ecv">94,9</td>
+        <td class="title_table_ecv">0,91</td>
+        <td class="title_table_ecv">5,5</td>
+        <td class="title_table_ecv">1000</td>
+        <td class="title_table_ecv">4¿315S4 4¿Ã315S4</td>
+        <td class="title_table_ecv">5¿Ã315S4 Â</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»–315Ã4</td>
+        <td class="title_table_ecv">200</td>
+        <td class="title_table_ecv">1500</td>
+        <td class="title_table_ecv">352</td>
+        <td class="title_table_ecv">94,9</td>
+        <td class="title_table_ecv">0,92</td>
+        <td class="title_table_ecv">5,5</td>
+        <td class="title_table_ecv">1200</td>
+        <td class="title_table_ecv">4¿315Ã4 4¿Ã315Ã4</td>
+        <td class="title_table_ecv">5¿Ã315Ã4 Â</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»–315S6</td>
+        <td class="title_table_ecv">110</td>
+        <td class="title_table_ecv">1000</td>
+        <td class="title_table_ecv">200</td>
+        <td class="title_table_ecv">94</td>
+        <td class="title_table_ecv">0,9</td>
+        <td class="title_table_ecv">6</td>
+        <td class="title_table_ecv">880</td>
+        <td class="title_table_ecv">4¿315S6 4¿Ã315S6</td>
+        <td class="title_table_ecv">5¿Ã315S6 Â</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»–315Ã6</td>
+        <td class="title_table_ecv">132</td>
+        <td class="title_table_ecv">1000</td>
+        <td class="title_table_ecv">239</td>
+        <td class="title_table_ecv">94,2</td>
+        <td class="title_table_ecv">0,9</td>
+        <td class="title_table_ecv">6,5</td>
+        <td class="title_table_ecv">1050</td>
+        <td class="title_table_ecv">4¿315Ã6 4¿Ã315Ã6</td>
+        <td class="title_table_ecv">5¿Ã315Ã6Â</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»–315S8</td>
+        <td class="title_table_ecv">90</td>
+        <td class="title_table_ecv">750</td>
+        <td class="title_table_ecv">173</td>
+        <td class="title_table_ecv">93,8</td>
+        <td class="title_table_ecv">0,85</td>
+        <td class="title_table_ecv">6</td>
+        <td class="title_table_ecv">880</td>
+        <td class="title_table_ecv">4¿315S8 4¿Ã315S8</td>
+        <td class="title_table_ecv">5¿Ã315S8Â</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»–315Ã8</td>
+        <td class="title_table_ecv">110</td>
+        <td class="title_table_ecv">750</td>
+        <td class="title_table_ecv">209</td>
+        <td class="title_table_ecv">94</td>
+        <td class="title_table_ecv">0,85</td>
+        <td class="title_table_ecv">6</td>
+        <td class="title_table_ecv">1050</td>
+        <td class="title_table_ecv">4¿315Ã8 4¿Ã315Ã8</td>
+        <td class="title_table_ecv">5¿Ã315Ã8Â</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»–355S2</td>
+        <td class="title_table_ecv">250</td>
+        <td class="title_table_ecv">3000</td>
+        <td class="title_table_ecv">433</td>
+        <td class="title_table_ecv">95,2</td>
+        <td class="title_table_ecv">0,92</td>
+        <td class="title_table_ecv">7,1</td>
+        <td class="title_table_ecv">1900</td>
+        <td class="title_table_ecv">4¿355S2 4¿Ã355S2</td>
+        <td class="title_table_ecv">5¿Ã315Ã¬2</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»–355Ã2&nbsp;</td>
+        <td class="title_table_ecv">315</td>
+        <td class="title_table_ecv">3000</td>
+        <td class="title_table_ecv">548</td>
+        <td class="title_table_ecv">95,4</td>
+        <td class="title_table_ecv">0,92</td>
+        <td class="title_table_ecv">7,1</td>
+        <td class="title_table_ecv">2300</td>
+        <td class="title_table_ecv">4¿355Ã2 4¿Ã355Ã2</td>
+        <td class="title_table_ecv"></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»–355S4</td>
+        <td class="title_table_ecv">250</td>
+        <td class="title_table_ecv">1500</td>
+        <td class="title_table_ecv">442</td>
+        <td class="title_table_ecv">95,2</td>
+        <td class="title_table_ecv">0,90</td>
+        <td class="title_table_ecv">6,9</td>
+        <td class="title_table_ecv">1700</td>
+        <td class="title_table_ecv">4¿355S4 4¿Ã355S4</td>
+        <td class="title_table_ecv"></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»–355Ã4&nbsp;</td>
+        <td class="title_table_ecv">315</td>
+        <td class="title_table_ecv">1500</td>
+        <td class="title_table_ecv">558</td>
+        <td class="title_table_ecv">95,2</td>
+        <td class="title_table_ecv">0,90</td>
+        <td class="title_table_ecv">6,9</td>
+        <td class="title_table_ecv">1900</td>
+        <td class="title_table_ecv">4¿355Ã4 4¿Ã355Ã4</td>
+        <td class="title_table_ecv"></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»–355S6</td>
+        <td class="title_table_ecv">160</td>
+        <td class="title_table_ecv">1000</td>
+        <td class="title_table_ecv">292,3</td>
+        <td class="title_table_ecv">94,5</td>
+        <td class="title_table_ecv">0,88</td>
+        <td class="title_table_ecv">6,7</td>
+        <td class="title_table_ecv">1550</td>
+        <td class="title_table_ecv">4¿355S6 4¿Ã355S6</td>
+        <td class="title_table_ecv">5¿Ã315Ã¬6</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»–355Ã6&nbsp;</td>
+        <td class="title_table_ecv">200</td>
+        <td class="title_table_ecv">1000</td>
+        <td class="title_table_ecv">364,9</td>
+        <td class="title_table_ecv">94,5</td>
+        <td class="title_table_ecv">0,88</td>
+        <td class="title_table_ecv">6,7</td>
+        <td class="title_table_ecv">1600</td>
+        <td class="title_table_ecv">4¿355Ã6 4¿Ã355Ã6</td>
+        <td class="title_table_ecv"></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»–355Ã¬6 </td>
+        <td class="title_table_ecv">250</td>
+        <td class="title_table_ecv">1000</td>
+        <td class="title_table_ecv">454,8</td>
+        <td class="title_table_ecv">94,5</td>
+        <td class="title_table_ecv">0,88</td>
+        <td class="title_table_ecv">6,7</td>
+        <td class="title_table_ecv">1700</td>
+        <td class="title_table_ecv"></td>
+        <td class="title_table_ecv"></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»–355S8&nbsp;</td>
+        <td class="title_table_ecv">132</td>
+        <td class="title_table_ecv">750</td>
+        <td class="title_table_ecv">261</td>
+        <td class="title_table_ecv">93,7</td>
+        <td class="title_table_ecv">0,82</td>
+        <td class="title_table_ecv">6,4</td>
+        <td class="title_table_ecv">2000</td>
+        <td class="title_table_ecv">4¿355S8 4¿Ã355S8</td>
+        <td class="title_table_ecv">5¿Ã315Ã¬8</td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»–355Ã8 </td>
+        <td class="title_table_ecv">160</td>
+        <td class="title_table_ecv">750</td>
+        <td class="title_table_ecv">314,7</td>
+        <td class="title_table_ecv">94,2</td>
+        <td class="title_table_ecv">0,82</td>
+        <td class="title_table_ecv">6,4</td>
+        <td class="title_table_ecv">2150</td>
+        <td class="title_table_ecv">4¿355Ã8 4¿Ã355Ã8</td>
+        <td class="title_table_ecv"></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»–355Ã¬8 </td>
+        <td class="title_table_ecv">200</td>
+        <td class="title_table_ecv">750</td>
+        <td class="title_table_ecv">387,4</td>
+        <td class="title_table_ecv">94,5</td>
+        <td class="title_table_ecv">0,82</td>
+        <td class="title_table_ecv">6,4</td>
+        <td class="title_table_ecv">2250</td>
+        <td class="title_table_ecv"></td>
+        <td class="title_table_ecv"></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»–355Ã10&nbsp;</td>
+        <td class="title_table_ecv">110</td>
+        <td class="title_table_ecv">600</td>
+        <td class="title_table_ecv">230</td>
+        <td class="title_table_ecv">93,2</td>
+        <td class="title_table_ecv">0,78</td>
+        <td class="title_table_ecv">6,0</td>
+        <td class="title_table_ecv">1640</td>
+        <td class="title_table_ecv">4¿355Ã10</td>
+        <td class="title_table_ecv"></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv">¿»–355Ã¬10&nbsp;</td>
+        <td class="title_table_ecv">132</td>
+        <td class="title_table_ecv">600</td>
+        <td class="title_table_ecv">275</td>
+        <td class="title_table_ecv">93,5</td>
+        <td class="title_table_ecv">0,78</td>
+        <td class="title_table_ecv">6,0</td>
+        <td class="title_table_ecv">1690</td>
+        <td class="title_table_ecv"></td>
+        <td class="title_table_ecv"></td>
+    </tr>
+    </tbody>
+</table>

@@ -1,0 +1,146 @@
+<table style="width: 100%;" border="0">
+    <tbody>
+    <tr>
+        <td class="title_table_ecv" colspan="2" bgcolor="#d0d1d3" width="242"><strong><span lang="ru">Частота вращения входного вала об/мин</span></strong></td>
+        <td class="title_table_ecv" align="center" bgcolor="#d0d1d3"><strong><span lang="ru">РБ(max)</span></strong></td>
+        <td class="title_table_ecv" align="center" bgcolor="#d0d1d3"><strong><span lang="ru">РТ(max)</span></strong></td>
+        <td class="title_table_ecv" align="center" bgcolor="#d0d1d3"><strong><span lang="ru">РМ(max)</span></strong></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" colspan="2" bgcolor="#e9eaeb" width="242"><strong><span lang="ru">Редуктор</span></strong></td>
+        <td class="title_table_ecv" colspan="3" align="center" bgcolor="#e9eaeb"><strong><span lang="ru">РМ-250</span></strong></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" colspan="2" bgcolor="#d0d1d3" width="242"><strong><span lang="ru">600</span></strong></td>
+        <td class="title_table_ecv" align="center" bgcolor="#d0d1d3"><span lang="ru"><strong>3,1</strong></span></td>
+        <td class="title_table_ecv" align="center" bgcolor="#d0d1d3"><span lang="ru"><strong>24</strong></span></td>
+        <td class="title_table_ecv" align="center" bgcolor="#d0d1d3"><span lang="ru"><strong>19,1</strong></span></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" colspan="2" bgcolor="#e9eaeb" width="242"><strong><span lang="ru">750</span></strong></td>
+        <td class="title_table_ecv" align="center" bgcolor="#e9eaeb"><strong><span lang="ru">2,9</span></strong></td>
+        <td class="title_table_ecv" align="center" bgcolor="#e9eaeb"><strong><span lang="ru">22</span></strong></td>
+        <td class="title_table_ecv" align="center" bgcolor="#e9eaeb"><strong><span lang="ru">17,6</span></strong></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" colspan="2" bgcolor="#d0d1d3" width="242"><strong><span lang="ru">1000</span></strong></td>
+        <td class="title_table_ecv" align="center" bgcolor="#d0d1d3"><span lang="ru"><strong>2,6</strong></span></td>
+        <td class="title_table_ecv" align="center" bgcolor="#d0d1d3"><span lang="ru"><strong>20,5</strong></span></td>
+        <td class="title_table_ecv" align="center" bgcolor="#d0d1d3"><span lang="ru"><strong>16</strong></span></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" colspan="2" bgcolor="#e9eaeb" width="242"><strong><span lang="ru">1250</span></strong></td>
+        <td class="title_table_ecv" align="center" bgcolor="#e9eaeb"><strong><span lang="ru">2,4</span></strong></td>
+        <td class="title_table_ecv" align="center" bgcolor="#e9eaeb"><strong><span lang="ru">19</span></strong></td>
+        <td class="title_table_ecv" align="center" bgcolor="#e9eaeb"><strong><span lang="ru">15</span></strong></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" colspan="2" bgcolor="#d0d1d3" width="242"><strong><span lang="ru">1500</span></strong></td>
+        <td class="title_table_ecv" align="center" bgcolor="#d0d1d3"><span lang="ru"><strong>2,4</strong></span></td>
+        <td class="title_table_ecv" align="center" bgcolor="#d0d1d3"><span lang="ru"><strong>18,5</strong></span></td>
+        <td class="title_table_ecv" align="center" bgcolor="#d0d1d3"><span lang="ru"><strong>14,2</strong></span></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" colspan="2" bgcolor="#e9eaeb" width="242"><strong><span lang="ru">Редуктор</span></strong></td>
+        <td class="title_table_ecv" colspan="3" align="center" bgcolor="#e9eaeb"><strong><span lang="ru">РМ-350</span></strong></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" colspan="2" bgcolor="#d0d1d3" width="242"><strong><span lang="ru">600</span></strong></td>
+        <td class="title_table_ecv" align="center" bgcolor="#d0d1d3"><span lang="ru"><strong>3,8</strong></span></td>
+        <td class="title_table_ecv" align="center" bgcolor="#d0d1d3"><span lang="ru"><strong>24</strong></span></td>
+        <td class="title_table_ecv" align="center" bgcolor="#d0d1d3"><span lang="ru"><strong>18,4</strong></span></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" colspan="2" bgcolor="#e9eaeb" width="242"><strong><span lang="ru">750</span></strong></td>
+        <td class="title_table_ecv" align="center" bgcolor="#e9eaeb"><strong><span lang="ru">3,5</span></strong></td>
+        <td class="title_table_ecv" align="center" bgcolor="#e9eaeb"><strong><span lang="ru">22,5</span></strong></td>
+        <td class="title_table_ecv" align="center" bgcolor="#e9eaeb"><strong><span lang="ru">16,9</span></strong></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" colspan="2" bgcolor="#d0d1d3" width="242"><strong><span lang="ru">1000</span></strong></td>
+        <td class="title_table_ecv" align="center" bgcolor="#d0d1d3"><span lang="ru"><strong>3,1</strong></span></td>
+        <td class="title_table_ecv" align="center" bgcolor="#d0d1d3"><span lang="ru"><strong>20</strong></span></td>
+        <td class="title_table_ecv" align="center" bgcolor="#d0d1d3"><span lang="ru"><strong>16</strong></span></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" colspan="2" bgcolor="#e9eaeb" width="242"><strong><span lang="ru">1250</span></strong></td>
+        <td class="title_table_ecv" align="center" bgcolor="#e9eaeb"><strong><span lang="ru">2,9</span></strong></td>
+        <td class="title_table_ecv" align="center" bgcolor="#e9eaeb"><strong><span lang="ru">18,5</span></strong></td>
+        <td class="title_table_ecv" align="center" bgcolor="#e9eaeb"><strong><span lang="ru">14</span></strong></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" colspan="2" bgcolor="#d0d1d3" width="242"><strong><span lang="ru">1500</span></strong></td>
+        <td class="title_table_ecv" align="center" bgcolor="#d0d1d3"><span lang="ru"><strong>2,9</strong></span></td>
+        <td class="title_table_ecv" align="center" bgcolor="#d0d1d3"><span lang="ru"><strong>17,5</strong></span></td>
+        <td class="title_table_ecv" align="center" bgcolor="#d0d1d3"><span lang="ru"><strong>13,7</strong></span></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" colspan="2" bgcolor="#e9eaeb" width="242"><strong><span lang="ru">Редуктор</span></strong></td>
+        <td class="title_table_ecv" colspan="3" align="center" bgcolor="#e9eaeb"><strong><span lang="ru">РМ-400</span></strong></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" colspan="2" bgcolor="#d0d1d3" width="242"><strong><span lang="ru">600</span></strong></td>
+        <td class="title_table_ecv" align="center" bgcolor="#d0d1d3"><span lang="ru"><strong>3,3</strong></span></td>
+        <td class="title_table_ecv" align="center" bgcolor="#d0d1d3"><span lang="ru"><strong>27</strong></span></td>
+        <td class="title_table_ecv" align="center" bgcolor="#d0d1d3"><span lang="ru"><strong>24,9</strong></span></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" colspan="2" bgcolor="#e9eaeb" width="242"><strong><span lang="ru">750</span></strong></td>
+        <td class="title_table_ecv" align="center" bgcolor="#e9eaeb"><strong><span lang="ru">3</span></strong></td>
+        <td class="title_table_ecv" align="center" bgcolor="#e9eaeb"><strong><span lang="ru">25,5</span></strong></td>
+        <td class="title_table_ecv" align="center" bgcolor="#e9eaeb"><strong><span lang="ru">23,6</span></strong></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" colspan="2" bgcolor="#d0d1d3" width="242"><strong><span lang="ru">1000</span></strong></td>
+        <td class="title_table_ecv" align="center" bgcolor="#d0d1d3"><span lang="ru"><strong>2,7</strong></span></td>
+        <td class="title_table_ecv" align="center" bgcolor="#d0d1d3"><span lang="ru"><strong>22,5</strong></span></td>
+        <td class="title_table_ecv" align="center" bgcolor="#d0d1d3"><span lang="ru"><strong>20,25</strong></span></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" colspan="2" bgcolor="#e9eaeb" width="242"><strong><span lang="ru">1250</span></strong></td>
+        <td class="title_table_ecv" align="center" bgcolor="#e9eaeb"><strong><span lang="ru">2,5</span></strong></td>
+        <td class="title_table_ecv" align="center" bgcolor="#e9eaeb"><strong><span lang="ru">22</span></strong></td>
+        <td class="title_table_ecv" align="center" bgcolor="#e9eaeb"><strong><span lang="ru">20,25</span></strong></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" colspan="2" bgcolor="#d0d1d3" width="242"><strong><span lang="ru">1500</span></strong></td>
+        <td class="title_table_ecv" align="center" bgcolor="#d0d1d3"><span lang="ru"><strong>2,3</strong></span></td>
+        <td class="title_table_ecv" align="center" bgcolor="#d0d1d3"><span lang="ru"><strong>21</strong></span></td>
+        <td class="title_table_ecv" align="center" bgcolor="#d0d1d3"><span lang="ru"><strong>20,1</strong></span></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" colspan="2" bgcolor="#e9eaeb" width="242"><strong><span lang="ru">Редуктор</span></strong></td>
+        <td class="title_table_ecv" colspan="3" align="center" bgcolor="#e9eaeb"><strong><span lang="ru">РМ-500</span></strong></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" colspan="2" bgcolor="#d0d1d3" width="242"><strong><span lang="ru">600</span></strong></td>
+        <td class="title_table_ecv" align="center" bgcolor="#d0d1d3"><span lang="ru"><strong>4,3</strong></span></td>
+        <td class="title_table_ecv" align="center" bgcolor="#d0d1d3"><span lang="ru"><strong>23,5</strong></span></td>
+        <td class="title_table_ecv" align="center" bgcolor="#d0d1d3"><span lang="ru"><strong>21,3</strong></span></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" colspan="2" bgcolor="#e9eaeb" width="242"><strong><span lang="ru">750</span></strong></td>
+        <td class="title_table_ecv" align="center" bgcolor="#e9eaeb"><strong><span lang="ru">4</span></strong></td>
+        <td class="title_table_ecv" align="center" bgcolor="#e9eaeb"><strong><span lang="ru">22</span></strong></td>
+        <td class="title_table_ecv" align="center" bgcolor="#e9eaeb"><strong><span lang="ru">19,6</span></strong></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" colspan="2" bgcolor="#d0d1d3" width="242"><strong><span lang="ru">1000</span></strong></td>
+        <td class="title_table_ecv" align="center" bgcolor="#d0d1d3"><span lang="ru"><strong>3,5</strong></span></td>
+        <td class="title_table_ecv" align="center" bgcolor="#d0d1d3"><span lang="ru"><strong>19,5</strong></span></td>
+        <td class="title_table_ecv" align="center" bgcolor="#d0d1d3"><span lang="ru"><strong>17,7</strong></span></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" colspan="2" bgcolor="#e9eaeb" width="242"><strong><span lang="ru">1250</span></strong></td>
+        <td class="title_table_ecv" align="center" bgcolor="#e9eaeb"><strong><span lang="ru">3,2</span></strong></td>
+        <td class="title_table_ecv" align="center" bgcolor="#e9eaeb"><strong><span lang="ru">18</span></strong></td>
+        <td class="title_table_ecv" align="center" bgcolor="#e9eaeb"><strong><span lang="ru">16,4</span></strong></td>
+    </tr>
+    <tr>
+        <td class="title_table_ecv" colspan="2" bgcolor="#d0d1d3" width="242"><strong><span lang="ru">1500</span></strong></td>
+        <td class="title_table_ecv" align="center" bgcolor="#d0d1d3"><span lang="ru"><strong>3</strong></span></td>
+        <td class="title_table_ecv" align="center" bgcolor="#d0d1d3"><span lang="ru"><strong>17</strong></span></td>
+        <td class="title_table_ecv" align="center" bgcolor="#d0d1d3"><span lang="ru"><strong>16,45</strong></span></td>
+    </tr>
+    </tbody>
+</table>
